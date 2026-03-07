@@ -1,0 +1,46 @@
+name: Build and Deploy Translation
+
+on:
+  workflow_dispatch: # Позволяет запускать сборку вручную (и через наш скрипт Google)
+
+# Разрешения для публикации на GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Run Build Script (Google Sheets -> core.js)
+        env:
+          SECRET_CSV_URL: ${{ secrets.CSV_URL }}
+        run: python build_game.py
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy-to-pages:
+    needs: build-game
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
