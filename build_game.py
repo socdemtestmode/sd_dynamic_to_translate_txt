@@ -3,12 +3,12 @@ import json
 import re
 import sys
 import os
-from datetime import datetime, timezone
+from datetime import datetime
 
 CSV_URL = os.environ.get("SECRET_CSV_URL")
 
 if not CSV_URL:
-    print("❌ Ошибка: CCSV_URL не найден!")
+    print("❌ Ошибка: SECRET_CSV_URL не найден!")
     sys.exit(1)
 
 def set_value_by_path(obj, path, value):
@@ -67,64 +67,6 @@ def set_value_by_path(obj, path, value):
     else:
         current_obj[final_key_str] = value
 
-def update_changelog(successful, skipped, failed, translated_paths):
-    """Обновляет changelog.md, добавляя только новые записи переводов"""
-    changelog_file = 'changelog.md'
-
-    # Читаем существующий changelog
-    existing_content = ""
-    existing_paths = set()
-    if os.path.exists(changelog_file):
-        with open(changelog_file, 'r', encoding='utf-8') as f:
-            existing_content = f.read()
-        # Извлекаем все пути, которые уже были внесены ранее
-        # Ищем строки вида "- `path.to.key`" или "- `path.to.key` — ..."
-        for match in re.finditer(r'- `([^`]+)`', existing_content):
-            existing_paths.add(match.group(1))
-
-    # Определяем только новые пути (которых ещё нет в changelog)
-    new_paths = [p for p in translated_paths if p not in existing_paths]
-
-    if not new_paths:
-        print("📋 Changelog: нет новых изменений для добавления.")
-        return
-
-    # Формируем новый блок записи
-    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-    new_block_lines = [
-        f"## Сборка {now}",
-        f"",
-        f"**Статистика:** ✅ Успешно: {successful} | ⏭️ Пропущено: {skipped} | ❌ Ошибок: {failed}",
-        f"",
-        f"**Новые переводы ({len(new_paths)}):**",
-        f"",
-    ]
-    for p in sorted(new_paths):
-        new_block_lines.append(f"- `{p}`")
-    new_block_lines.append("")
-    new_block_lines.append("---")
-    new_block_lines.append("")
-
-    new_block = "\n".join(new_block_lines)
-
-    # Если файл ещё не существует, добавляем заголовок
-    if not existing_content.strip():
-        header = "# 📝 Changelog переводов\n\n"
-        final_content = header + new_block
-    else:
-        # Вставляем новый блок сразу после заголовка (в начало лога)
-        header_match = re.match(r'(#[^\n]*\n\n)', existing_content)
-        if header_match:
-            insert_pos = header_match.end()
-            final_content = existing_content[:insert_pos] + new_block + existing_content[insert_pos:]
-        else:
-            final_content = new_block + existing_content
-
-    with open(changelog_file, 'w', encoding='utf-8') as f:
-        f.write(final_content)
-
-    print(f"📋 Changelog обновлён: добавлено {len(new_paths)} новых записей.")
-
 def build():
     print("📥 Скачиваю переводы из Google Sheets...")
     try:
@@ -134,7 +76,6 @@ def build():
         print(f"❌ Ошибка скачивания CSV: {e}")
         sys.exit(1)
     
-    # Читаем оригинальный код игры
     try:
         with open('core_original.js', 'r', encoding='utf-8') as f:
             js_content = f.read()
@@ -146,47 +87,104 @@ def build():
     json_str = match.group(1).replace('\\"', '"').replace('\\\\', '\\')
     game_data = json.loads(json_str)
 
+    # --- ЛОГИКА CHANGELOG ---
+    STATE_FILE = 'translation_state.json'
+    CHANGELOG_FILE = 'changelog.md'
+
+    # Загружаем память прошлых переводов
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, 'r', encoding='utf-8') as f:
+            prev_state = json.load(f)
+    else:
+        prev_state = {}
+
+    current_state = {}
+    new_changes = []
+    updated_changes =[]
+    # ------------------------
+
     successful, skipped, failed = 0, 0, 0
-    translated_paths = []  # Список путей, которые были успешно переведены
 
     print("⚙️ Встраиваю переводы в код...")
     for index, row in df.iterrows():
-        # Безопасное чтение ячеек (даже если они пустые)
+        trans_id = str(row.get('ID', ''))
         original_text = str(row.get('Original', '')) if pd.notna(row.get('Original')) else ''
         translation_text = str(row.get('Translation', '')) if pd.notna(row.get('Translation')) else ''
         path = str(row.get('Path', ''))
 
         if not path: continue
 
-        # Логика для структур (массивов) - если перевод починен через JSON-вставку
+        # Фиксы структур
         if translation_text.strip().startswith('[') or translation_text.strip().startswith('{'):
             try:
                 parsed_struct = json.loads(translation_text)
                 set_value_by_path(game_data, path, parsed_struct)
                 successful += 1
-                translated_paths.append(path)
+                
+                # Запись в Changelog для структур
+                if trans_id:
+                    current_state[trans_id] = translation_text
+                    if trans_id not in prev_state:
+                        new_changes.append((path, "[Структура JSON]", "[Переведенная структура]"))
+                    elif prev_state[trans_id] != translation_text:
+                        updated_changes.append((path, "[Старая структура]", "[Обновленная структура]"))
                 continue
             except json.JSONDecodeError:
-                pass # Если это просто текст, начинающийся со скобки, идем дальше
+                pass
 
-        # Исключение для артиклей "the" / "The"
-        is_article = (original_text.strip() in["The", "the"]) and (not translation_text.strip())
-
+        is_article = (original_text.strip() in ["The", "the"]) and (not translation_text.strip())
+        
         if translation_text.strip() or is_article:
             value_to_set = "" if is_article else translation_text
             try:
                 set_value_by_path(game_data, path, value_to_set)
                 successful += 1
-                translated_paths.append(path)
+
+                # Запись в Changelog для обычного текста
+                if trans_id:
+                    current_state[trans_id] = value_to_set
+                    # Если ID раньше не было
+                    if trans_id not in prev_state:
+                        new_changes.append((path, original_text, value_to_set))
+                    # Если ID был, но текст изменился
+                    elif prev_state[trans_id] != value_to_set:
+                        updated_changes.append((path, prev_state[trans_id], value_to_set))
+
             except Exception as e:
                 failed += 1
         else:
             skipped += 1
 
-    print(f"📊 Статистика: Успешно: {successful} | Пропущено (нет перевода): {skipped} | Ошибок путей: {failed}")
+    print(f"📊 Статистика: Успешно: {successful} | Пропущено: {skipped} | Ошибок путей: {failed}")
 
-    # Обновляем changelog (только новые записи)
-    update_changelog(successful, skipped, failed, translated_paths)
+    # --- ЗАПИСЬ В CHANGELOG ---
+    if new_changes or updated_changes:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        with open(CHANGELOG_FILE, 'a', encoding='utf-8') as f:
+            f.write(f"\n## Сборка: {timestamp}\n\n")
+            
+            def clean_text(text):
+                # Обрезаем длинный текст и убираем переносы строк для красоты списка
+                t = text.replace('\n', ' ').replace('\r', '')
+                return (t[:60] + '...') if len(t) > 60 else t
+
+            if new_changes:
+                f.write("### 🆕 Новые переводы\n")
+                for p, o, t in new_changes:
+                    f.write(f"* `{p}`: *{clean_text(o)}* ➔ **{clean_text(t)}**\n")
+            
+            if updated_changes:
+                f.write("### 🔄 Обновленные переводы\n")
+                for p, old_t, new_t in updated_changes:
+                    f.write(f"* `{p}`: *{clean_text(old_t)}* ➔ **{clean_text(new_t)}**\n")
+                    
+        # Сохраняем новую "память"
+        with open(STATE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(current_state, f, ensure_ascii=False, indent=2)
+            
+        print(f"📝 Обновлен changelog.md (Новых: {len(new_changes)}, Обновлено: {len(updated_changes)})")
+    else:
+        print("📝 Новых изменений для changelog.md не найдено.")
 
     # Упаковываем обратно
     updated_json = json.dumps(game_data, ensure_ascii=False, separators=(',', ':'))
