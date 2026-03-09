@@ -12,7 +12,6 @@ if not CSV_URL:
     sys.exit(1)
 
 def set_value_by_path(obj, path, value):
-    """Умная функция вставки текста по путям с поддержкой массивов и фиксов движка"""
     parts = path.split('.')
     final_key_str = parts.pop()
     path_to_parent = parts
@@ -87,20 +86,26 @@ def build():
     json_str = match.group(1).replace('\\"', '"').replace('\\\\', '\\')
     game_data = json.loads(json_str)
 
-    # --- ЛОГИКА CHANGELOG ---
+    # --- ЛОГИКА ПАМЯТИ ПЕРЕВОДОВ ---
     STATE_FILE = 'translation_state.json'
-    CHANGELOG_FILE = 'changelog.md'
+    CHANGELOG_FILE = 'changelog.txt' # Изменен на .txt для надежности отображения
 
-    # Загружаем память прошлых переводов
-    if os.path.exists(STATE_FILE):
+    # Проверяем, первый ли это запуск
+    is_first_run = not os.path.exists(STATE_FILE)
+    
+    if not is_first_run:
         with open(STATE_FILE, 'r', encoding='utf-8') as f:
-            prev_state = json.load(f)
+            try:
+                prev_state = json.load(f)
+            except json.JSONDecodeError:
+                prev_state = {}
+                is_first_run = True
     else:
         prev_state = {}
 
     current_state = {}
-    new_changes = []
-    updated_changes =[]
+    new_translations = []
+    updated_translations =[]
     # ------------------------
 
     successful, skipped, failed = 0, 0, 0
@@ -114,24 +119,26 @@ def build():
 
         if not path: continue
 
-        # Фиксы структур
+        # Логика для структур (JSON)
         if translation_text.strip().startswith('[') or translation_text.strip().startswith('{'):
             try:
                 parsed_struct = json.loads(translation_text)
                 set_value_by_path(game_data, path, parsed_struct)
                 successful += 1
                 
-                # Запись в Changelog для структур
                 if trans_id:
                     current_state[trans_id] = translation_text
-                    if trans_id not in prev_state:
-                        new_changes.append((path, "[Структура JSON]", "[Переведенная структура]"))
-                    elif prev_state[trans_id] != translation_text:
-                        updated_changes.append((path, "[Старая структура]", "[Обновленная структура]"))
+                    if not is_first_run:
+                        old_val = prev_state.get(trans_id)
+                        if old_val is None:
+                            new_translations.append((path, "[Структура JSON]", translation_text))
+                        elif old_val != translation_text:
+                            updated_translations.append((path, old_val, translation_text))
                 continue
             except json.JSONDecodeError:
                 pass
 
+        # Логика для обычного текста
         is_article = (original_text.strip() in ["The", "the"]) and (not translation_text.strip())
         
         if translation_text.strip() or is_article:
@@ -140,15 +147,14 @@ def build():
                 set_value_by_path(game_data, path, value_to_set)
                 successful += 1
 
-                # Запись в Changelog для обычного текста
                 if trans_id:
                     current_state[trans_id] = value_to_set
-                    # Если ID раньше не было
-                    if trans_id not in prev_state:
-                        new_changes.append((path, original_text, value_to_set))
-                    # Если ID был, но текст изменился
-                    elif prev_state[trans_id] != value_to_set:
-                        updated_changes.append((path, prev_state[trans_id], value_to_set))
+                    if not is_first_run:
+                        old_val = prev_state.get(trans_id)
+                        if old_val is None:
+                            new_translations.append((path, original_text, value_to_set))
+                        elif old_val != value_to_set:
+                            updated_translations.append((path, old_val, value_to_set))
 
             except Exception as e:
                 failed += 1
@@ -157,34 +163,35 @@ def build():
 
     print(f"📊 Статистика: Успешно: {successful} | Пропущено: {skipped} | Ошибок путей: {failed}")
 
-    # --- ЗАПИСЬ В CHANGELOG ---
-    if new_changes or updated_changes:
+    # --- ЗАПИСЬ СОСТОЯНИЯ И CHANGELOG ---
+    # Всегда сохраняем состояние для следующего раза
+    with open(STATE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(current_state, f, ensure_ascii=False, indent=2)
+
+    # Записываем чейнджлог (только если были реальные изменения и это не первый запуск)
+    if not is_first_run and (new_translations or updated_translations):
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         with open(CHANGELOG_FILE, 'a', encoding='utf-8') as f:
-            f.write(f"\n## Сборка: {timestamp}\n\n")
+            f.write(f"\n========================================\n")
+            f.write(f"СБОРКА: {timestamp}\n")
+            f.write(f"========================================\n\n")
             
-            def clean_text(text):
-                # Обрезаем длинный текст и убираем переносы строк для красоты списка
-                t = text.replace('\n', ' ').replace('\r', '')
-                return (t[:60] + '...') if len(t) > 60 else t
-
-            if new_changes:
-                f.write("### 🆕 Новые переводы\n")
-                for p, o, t in new_changes:
-                    f.write(f"* `{p}`: *{clean_text(o)}* ➔ **{clean_text(t)}**\n")
+            if new_translations:
+                f.write("--- 🆕 НОВЫЕ ПЕРЕВОДЫ ---\n\n")
+                for p, orig, new_t in new_translations:
+                    f.write(f"Путь: {p}\nОригинал: {orig}\nПеревод:  {new_t}\n\n")
             
-            if updated_changes:
-                f.write("### 🔄 Обновленные переводы\n")
-                for p, old_t, new_t in updated_changes:
-                    f.write(f"* `{p}`: *{clean_text(old_t)}* ➔ **{clean_text(new_t)}**\n")
+            if updated_translations:
+                f.write("--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---\n\n")
+                for p, old_t, new_t in updated_translations:
+                    f.write(f"Путь: {p}\nБыло:  {old_t}\nСтало: {new_t}\n\n")
                     
-        # Сохраняем новую "память"
-        with open(STATE_FILE, 'w', encoding='utf-8') as f:
-            json.dump(current_state, f, ensure_ascii=False, indent=2)
-            
-        print(f"📝 Обновлен changelog.md (Новых: {len(new_changes)}, Обновлено: {len(updated_changes)})")
+        print(f"📝 Обновлен changelog.txt (Новых: {len(new_translations)}, Обновлено: {len(updated_translations)})")
     else:
-        print("📝 Новых изменений для changelog.md не найдено.")
+        if is_first_run:
+            print("📝 Первый запуск: создана база переводов. Changelog не заполняется, чтобы избежать спама.")
+        else:
+            print("📝 Новых изменений для changelog.txt не найдено.")
 
     # Упаковываем обратно
     updated_json = json.dumps(game_data, ensure_ascii=False, separators=(',', ':'))
