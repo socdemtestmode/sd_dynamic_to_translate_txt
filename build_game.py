@@ -3,6 +3,7 @@ import json
 import re
 import sys
 import os
+from datetime import datetime, timezone
 
 CSV_URL = os.environ.get("SECRET_CSV_URL")
 
@@ -66,6 +67,64 @@ def set_value_by_path(obj, path, value):
     else:
         current_obj[final_key_str] = value
 
+def update_changelog(successful, skipped, failed, translated_paths):
+    """Обновляет changelog.md, добавляя только новые записи переводов"""
+    changelog_file = 'changelog.md'
+
+    # Читаем существующий changelog
+    existing_content = ""
+    existing_paths = set()
+    if os.path.exists(changelog_file):
+        with open(changelog_file, 'r', encoding='utf-8') as f:
+            existing_content = f.read()
+        # Извлекаем все пути, которые уже были внесены ранее
+        # Ищем строки вида "- `path.to.key`" или "- `path.to.key` — ..."
+        for match in re.finditer(r'- `([^`]+)`', existing_content):
+            existing_paths.add(match.group(1))
+
+    # Определяем только новые пути (которых ещё нет в changelog)
+    new_paths = [p for p in translated_paths if p not in existing_paths]
+
+    if not new_paths:
+        print("📋 Changelog: нет новых изменений для добавления.")
+        return
+
+    # Формируем новый блок записи
+    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+    new_block_lines = [
+        f"## Сборка {now}",
+        f"",
+        f"**Статистика:** ✅ Успешно: {successful} | ⏭️ Пропущено: {skipped} | ❌ Ошибок: {failed}",
+        f"",
+        f"**Новые переводы ({len(new_paths)}):**",
+        f"",
+    ]
+    for p in sorted(new_paths):
+        new_block_lines.append(f"- `{p}`")
+    new_block_lines.append("")
+    new_block_lines.append("---")
+    new_block_lines.append("")
+
+    new_block = "\n".join(new_block_lines)
+
+    # Если файл ещё не существует, добавляем заголовок
+    if not existing_content.strip():
+        header = "# 📝 Changelog переводов\n\n"
+        final_content = header + new_block
+    else:
+        # Вставляем новый блок сразу после заголовка (в начало лога)
+        header_match = re.match(r'(#[^\n]*\n\n)', existing_content)
+        if header_match:
+            insert_pos = header_match.end()
+            final_content = existing_content[:insert_pos] + new_block + existing_content[insert_pos:]
+        else:
+            final_content = new_block + existing_content
+
+    with open(changelog_file, 'w', encoding='utf-8') as f:
+        f.write(final_content)
+
+    print(f"📋 Changelog обновлён: добавлено {len(new_paths)} новых записей.")
+
 def build():
     print("📥 Скачиваю переводы из Google Sheets...")
     try:
@@ -88,6 +147,7 @@ def build():
     game_data = json.loads(json_str)
 
     successful, skipped, failed = 0, 0, 0
+    translated_paths = []  # Список путей, которые были успешно переведены
 
     print("⚙️ Встраиваю переводы в код...")
     for index, row in df.iterrows():
@@ -104,6 +164,7 @@ def build():
                 parsed_struct = json.loads(translation_text)
                 set_value_by_path(game_data, path, parsed_struct)
                 successful += 1
+                translated_paths.append(path)
                 continue
             except json.JSONDecodeError:
                 pass # Если это просто текст, начинающийся со скобки, идем дальше
@@ -116,12 +177,16 @@ def build():
             try:
                 set_value_by_path(game_data, path, value_to_set)
                 successful += 1
+                translated_paths.append(path)
             except Exception as e:
                 failed += 1
         else:
             skipped += 1
 
     print(f"📊 Статистика: Успешно: {successful} | Пропущено (нет перевода): {skipped} | Ошибок путей: {failed}")
+
+    # Обновляем changelog (только новые записи)
+    update_changelog(successful, skipped, failed, translated_paths)
 
     # Упаковываем обратно
     updated_json = json.dumps(game_data, ensure_ascii=False, separators=(',', ':'))
