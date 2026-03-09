@@ -1,11 +1,10 @@
 name: Build and Deploy Translation
 
 on:
-  workflow_dispatch: # Позволяет запускать сборку вручную (и через наш скрипт Google)
+  workflow_dispatch: 
 
-# Разрешения для публикации на GitHub Pages
 permissions:
-  contents: read
+  contents: write 
   pages: write
   id-token: write
 
@@ -24,10 +23,20 @@ jobs:
       - name: Install dependencies
         run: pip install pandas
 
-      - name: Run Build Script (Google Sheets -> core.js)
+      - name: Run Build Script
         env:
           SECRET_CSV_URL: ${{ secrets.CSV_URL }}
         run: python build_game.py
+
+      # СОХРАНЕНИЕ CHANGELOG В РЕПОЗИТОРИЙ ---
+      - name: Commit and push Changelog
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add changelog.md translation_state.json
+          # Пытаемся закоммитить, если есть изменения (если нет - игнорируем)
+          git commit -m "📝 Авто-обновление Changelog" || echo "Нет новых изменений для сохранения"
+          git push
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
