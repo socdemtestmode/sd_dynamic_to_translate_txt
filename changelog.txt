@@ -3171,3 +3171,166 @@
 Было:  </span> выходят на улицы, и дело может дойти до крови.
 Стало: </span> выходят на улицы — дело может дойти до крови.
 
+
+========================================
+СБОРКА: 2026-03-14 09:50:45
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.shuffle_leadership.rm_main.title
+Было:  Убрать советников.
+Стало: Сместить советников.
+
+Путь: scenes.shuffle_leadership.rm_main.content.content[2].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.shuffle_leadership.rm_main.content.content[3].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.shuffle_leadership.rm_main.content.content[4].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.shuffle_leadership.rm_main.content.content[5].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.bourgeois_parliament_formed.content.content[1].content[9].content[0]
+Было:  &nbsp;и даже
+Стало: &nbsp;и даже 
+
+Путь: scenes.bruning_vonc_cvp.vote_no.content.content[0].content[0]
+Было:  Мы разорвали отношения с
+Стало: Мы разорвали отношения с 
+
+Путь: scenes.bruning_vonc_cvp.vote_no.content.content[0].content[2]
+Было:  правительством и проголосовали за вотум недоверия. Мы также отменили его чрезвычайные полномочия.
+Стало: ом и проголосовали за вотум недоверия. Мы также отменили его чрезвычайные полномочия.
+
+Путь: scenes.bruning_vonc_kvp.vote_no.content.content[0].content[0]
+Было:  Мы разорвали отношения с
+Стало: Мы разорвали отношения с 
+
+Путь: scenes.bruning_vonc_kvp.vote_no.content.content[0].content[2]
+Было:  правительством и проголосовали против него на вотуме недоверия. Мы также отменили его чрезвычайные полномочия.
+Стало: ом и проголосовали против него на вотуме недоверия. Мы также отменили его чрезвычайные полномочия.
+
+Путь: scenes.dvp_party_congress_3_dingeldey.title[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.dvp_party_congress_3_dingeldey.content.content[0].content[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.prussia_election_1928.new_elections.content.content[29].content[0].content[0]
+Было:  Стремительный рост числа голосов за <span style="color: #7A3C00;">
+Стало: Стремительный рост <span style="color: #7A3C00;">
+
+Путь: scenes.bruning_vonc_bourgeois.content.content[1].content[0]
+Было:  После распада Большой коалиции президент
+Стало: После распада Большой коалиции президент 
+
+Путь: scenes.bruning_vonc_bourgeois.content.content[1].content[2]
+Было:  назначил Генриха Брюнинга из
+Стало: назначил Генриха Брюнинга из 
+
+Путь: scenes.bruning_vonc_kvp.content.content[1].content[0]
+Было:  После распада нашей коалиции президент
+Стало: После распада нашей коалиции президент 
+
+Путь: scenes.bruning_vonc_kvp.content.content[1].content[2]
+Было:  назначил Генриха Брюнинга от
+Стало: назначил Генриха Брюнинга от 
+
+Путь: scenes.bruning_vonc.content.content[1].content[0]
+Было:  После распада нашей коалиции президент
+Стало: После распада нашей коалиции президент 
+
+Путь: scenes.bruning_vonc.content.content[1].content[2]
+Было:  назначил главой правительства Генриха Брюнинга от Партии
+Стало: назначил главой правительства Генриха Брюнинга от 
+
+Путь: scenes.bruning_vonc_hergt.content.content[1].content[0]
+Было:  После распада нашей коалиции президент
+Стало: После распада нашей коалиции президент 
+
+Путь: scenes.bruning_vonc_hergt.content.content[1].content[2]
+Было:  назначил Генриха Брюнинга от
+Стало: назначил Генриха Брюнинга от 
+
+Путь: scenes.bruning_vonc_cvp.content.content[1].content[0]
+Было:  После распада нашей коалиции президент
+Стало: После распада нашей коалиции президент 
+
+Путь: scenes.bruning_vonc_cvp.content.content[1].content[2]
+Было:  назначил главой правительства Генриха Брюнинга от
+Стало: назначил главой правительства Генриха Брюнинга от 
+
+Путь: scenes.bruning_vonc_cvp.content.content[1].content[5]
+Было:  поддерживаемого буржуазными силами.
+Стало:  главой правительства, поддерживаемого буржуазными силами.
+
+Путь: scenes.dvp_party_congress_1.title[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.dvp_party_congress_1.subtitle.content[0]
+Было:  Промышленники пытаются добиться отставки
+Стало: Промышленники пытаются добиться отставки:
+
+Путь: scenes.dvp_party_congress_1.content.content[0].content[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.dvp_party_congress_1.content.content[1].content[2]
+Было:  </span> сопротивлялась этой тенденции благодаря избранию
+Стало: </span> сопротивлялась этой тенденции благодаря избранию 
+
+Путь: scenes.dvp_party_congress_1.content.content[2].content[0].content[5]
+Было:  </span> поддерживать движение за буржуазное единство. Он также придерживается достаточно консервативных взглядов — особенно в отношении сотрудничества с <span style="color: #c00000;">
+Стало: </span>, кто поддержал движение за буржуазное единство. Он также придерживается достаточно консервативных взглядов — особенно в отношении сотрудничества с <span style="color: #c00000;">
+
+Путь: scenes.dvp_party_congress_1.content.content[2].content[1].content[4]
+Было:  </span> поддержал движение за буржуазное единство, отдав ему предпочтение перед <span style="color: #C0A054;">
+Стало: </span>, кто поддержал движение за буржуазное единство, отдав ему предпочтение перед <span style="color: #C0A054;">
+
+Путь: scenes.dvp_party_congress_reform.title[2]
+Было:  </span>: голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.dvp_party_congress_2.title[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.dvp_party_congress_2.content.content[0].content[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_dietrich.title[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_dietrich.content.content[0].content[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_heuss.title[2]
+Было:  </span>: голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_heuss.content[0].content[2]
+Было:  </span>: голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_dingeldey.title[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
+Путь: scenes.lvp_party_congress_dingeldey.content[0].content[2]
+Было:  </span> Голосование в партии
+Стало: </span> — Голосование в партии
+
