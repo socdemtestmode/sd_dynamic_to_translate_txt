@@ -3109,3 +3109,42 @@
 Было:  </span> больше всего выигрывает от этой кампании в ущерб
 Стало: </span> больше всего выигрывает от этой кампании в ущерб 
 
+
+========================================
+СБОРКА: 2026-03-14 09:27:41
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.presidential_election_1932_round_2.pres_election.content.content[1].content[3].content[0]
+Было:  разделены между
+Стало: разделятся между
+
+Путь: scenes.prussia_reichsexekution_aftermath.elections.content.content[0].content[0]
+Было:  Как и ожидалось, демократический процесс возвращается в Пруссию, и 
+Стало: Как и ожидалось, демократический процесс возвращается в Пруссию,
+
+Путь: scenes.streetfighting_unlock.content[1].content[3].content
+Было:  Стальной Шлем (Stahlhelm)
+Стало: Стальным Шлемом (Stahlhelm)
+
+Путь: scenes.streetfighting_unlock.content[1].content[4]
+Было:  </span>, коммунистический союз красных фронтовиков (<span style="color: #8B0000;">Rotfrontkämpferbund</span> (<span style="color: #8B0000;">)
+Стало: </span>, коммунистическим (<span style="color: #8B0000;"> Союзом Красных Фронтовиков 
+
+Путь: scenes.streetfighting_unlock.content[1].content[5].content
+Было:  СКФ
+Стало: (СКФ)
+
+Путь: scenes.streetfighting_unlock.content[1].content[6]
+Было:  </span>) и наш собственный Рейхсбаннер.
+Стало: </span>) и нашим собственным Рейхсбаннером.
+
+Путь: scenes.young_plan_ratified.joever.content.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.young_plan_ratified.joever.content.content.content[0].content[3]
+Было:  могут вновь поднять вопрос о страховании по безработице.
+Стало:  может вновь поднять вопрос о страхованиях по безработице.
+
