@@ -3021,3 +3021,38 @@
 Было:  У
 Стало: 
 
+
+========================================
+СБОРКА: 2026-03-14 09:08:39
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.center_party_conference.title.content[2]
+Было:  проводит съезд
+Стало:   проводит съезд
+
+Путь: scenes.center_party_conference.content.content[0].content[3]
+Было:  проводит съезд
+Стало:  проводит съезд
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.title.content[2].content
+Было:  большая
+Стало: Большая 
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.title.content[3]
+Было:  коалиция сформирована!
+Стало:  Коалиция сформирована!
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.title.content[0]
+Было:  Сформирована
+Стало: Сформирована 
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.title.content[2].content
+Было:  большая
+Стало: Большая 
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.title.content[3]
+Было:  коалиция!
+Стало: Коалиция!
+
