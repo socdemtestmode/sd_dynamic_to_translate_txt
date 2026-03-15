@@ -9261,3 +9261,86 @@
 Было:  Экономический рост:
 Стало: Экономический рост: 
 
+
+========================================
+СБОРКА: 2026-03-15 14:26:46
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.main.main_easy.content.content[86].content[1].content[6]
+Было:  на протяжении всего существования Республики.
+Стало:  на протяжении всего существования Республики.
+
+Путь: scenes.braun.coalition.content.content.content[0]
+Было:  Мы улучшили отношения с
+Стало: Мы улучшили отношения с 
+
+Путь: scenes.braun.coalition.content.content.content[3].content[2].content[4]
+Было:  </span>)
+Стало: </span>
+
+Путь: scenes.braun.coalition.content.content.content[3].content[4].content[0]
+Было:  ), <span style="color: #D3C24D;">
+Стало: , <span style="color: #D3C24D;">
+
+Путь: scenes.bruning_vonc_hergt.vote_no.content.content[0].content[0]
+Было:  Мы порвали с
+Стало: Мы порвали с 
+
+Путь: scenes.bruning_vonc_hergt.vote_no.content.content[0].content[2]
+Было:  правительством и проголосовали за вотум недоверия. Мы также отменили его чрезвычайные полномочия.
+Стало: ом и его правительством — и проголосовали за вотум недоверия. Мы также отменили его чрезвычайные полномочия.
+
+Путь: scenes.saxon_collapse.grand_coalition_saxony.content.content[0].content[3]
+Было:   коалицию с нами, которая заменит 
+Стало:  коалицию с нами, которая заменит кабинет 
+
+Путь: scenes.saxon_collapse.grand_coalition_saxony.content.content[0].content[5]
+Было:  кабинет и предотвратит необходимость новых выборов.
+Стало: а и предотвратит необходимость новых выборов.
+
+Путь: scenes.saxon_collapse.no_majority_saxony.content.content[0].content[0]
+Было:  Как и ожидалось, буржуазное правительство в Саксонии не смогло устоять после вотума недоверия. Новые выборы назначены на июнь, но 
+Стало: Как и ожидалось, буржуазное правительство в Саксонии не смогло устоять после вотума недоверия. Новые выборы назначены на июнь, но кабинет 
+
+Путь: scenes.saxon_collapse.no_majority_saxony.content.content[0].content[2]
+Было:  кабинет продолжает действовать в качестве временного правительства.
+Стало: а продолжает действовать в качестве временного правительства.
+
+Путь: scenes.saxon_collapse.subtitle.content[1].content
+Было:  Макс Хельдт
+Стало: Максу Хельдту
+
+Путь: scenes.saxon_collapse.subtitle.content[2]
+Было:  грозит вотум недоверия.
+Стало:  грозит вотум недоверия.
+
+Путь: scenes.saxon_collapse.content.content[1].content[0]
+Было:  Дни
+Стало: Дни 
+
+Путь: scenes.bruning_vonc_hergt.subtitle.content[0]
+Было:  Канцлеру
+Стало: Канцлеру 
+
+Путь: scenes.bruning_vonc_hergt.subtitle.content[2]
+Было:  грозит вотум недоверия.
+Стало: у грозит вотум недоверия.
+
+Путь: scenes.bruning_vonc_cvp.subtitle.content[0]
+Было:  Канцлеру
+Стало: Канцлеру 
+
+Путь: scenes.bruning_vonc_cvp.subtitle.content[2]
+Было:  грозит вотум недоверия.
+Стало: у грозит вотум недоверия.
+
+Путь: scenes.enemies.content.content[2].content.content[0]
+Было:  Ранее мы считали своими главными врагами
+Стало: Ранее мы считали своими главными врагами 
+
+Путь: scenes.enemies.content.content[2].content.content[2]
+Было:  Именно их. Не пора ли сменить курс?
+Стало: . Не пора ли сменить курс?
+
