@@ -9795,3 +9795,282 @@
 Было:  Мы приняли решение о пассивной поддержке правительства Брюнинга. Это означает, что мы будем голосовать против вотумов недоверия, чтобы они не прошли, но при этом не будем напрямую участвовать в правительстве в качестве министров. Таким образом, мы сможем предотвратить новые выборы и не допустить <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span> в правительство.
 Стало: Мы приняли решение о воздержании от вотума недоверия правительству меньшинства Брюнинга. Это означает, что мы будем голосовать против вотумов недоверия, чтобы правительство не пало, но при этом не будем напрямую участвовать в правительстве в качестве министров. Таким образом, мы сможем предотвратить новые выборы и не допустить <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span> в правительство.
 
+
+========================================
+СБОРКА: 2026-03-15 15:35:10
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.status.politics.content.content[1].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[2].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.politics.content.content[3].content[0].content[4]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.politics.content.content[4].content[0].content[0]
+Было:  <span class="tooltip-text" title="Liberal People's Party" style="color: #FFCC00;">
+Стало: <span class="tooltip-text" title="Либеральная народная партия" style="color: #FFCC00;">
+
+Путь: scenes.status.politics.content.content[4].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[5].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[7].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[8].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[9].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[10].content[0].content[0]
+Было:  <span class="tooltip-text" title="Немецкий национальный фронт" style="color: #003755;">
+Стало: <span class="tooltip-text" title="Национальный Фронт Германии" style="color: #003755;">
+
+Путь: scenes.status.politics.content.content[10].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[11].content[4]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.politics.content.content[13].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[13].content[0].content[6]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[14].content[1].content[3]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.politics.content.content[14].content[1].content[5].content[7].content
+Было:  Демократия тори
+Стало: Тори-демократия
+
+Путь: scenes.status.politics.content.content[14].content[1].content[6]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[16].content[1].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[17].content[0].content[0]
+Было:  <span class="tooltip-text" title="Liberal People's Party" style="color: #FFCC00;">
+Стало: <span class="tooltip-text" title="Либеральная народная партия" style="color: #FFCC00;">
+
+Путь: scenes.status.politics.content.content[17].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[18].content[0].content[0]
+Было:  <span class="tooltip-text" title="Liberal People's Party" style="color: #FFCC00;">
+Стало: <span class="tooltip-text" title="Либеральная народная партия" style="color: #FFCC00;">
+
+Путь: scenes.status.politics.content.content[19].content[1].content[1].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[19].content[1].content[1].content[7]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[21].content[1].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[21].content[1].content[3].content
+Было:  Марксизм-ленинизм единого фронта
+Стало: Марксизм-Ленинизм: народный фронт
+
+Путь: scenes.status.politics.content.content[21].content[1].content[4].content
+Было:  Марксизм-ленинизм третьего периода
+Стало: Марксизм-Ленинизм: класс против класса
+
+Путь: scenes.status.politics.content.content[22].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[23].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[24].content[1].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[24].content[1].content[7].content
+Было:  Демократия тори
+Стало: Тори-демократия
+
+Путь: scenes.status.politics.content.content[24].content[1].content[9]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[25].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[25].content[0].content[5]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[26].content[0].content[0]
+Было:  <span class="tooltip-text" title="Немецкий национальный фронт" style="color: #003755;">
+Стало: <span class="tooltip-text" title="Национальный фронт Германии" style="color: #003755;">
+
+Путь: scenes.status.politics.content.content[27].content[0].content[0]
+Было:  <span class="tooltip-text" title="Германский социальный союз" style="color: #6A1E1E;">
+Стало: <span class="tooltip-text" title="Немецкий социальный союз" style="color: #6A1E1E;">
+
+Путь: scenes.status.politics.content.content[27].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[27].content[0].content[5]
+Было:  (
+Стало:  (
+
+Путь: scenes.status.politics.content.content[29].content[0].content[0]
+Было:  <span class="tooltip-text" title="National People's Front" style="color: #142e20;">
+Стало: <span class="tooltip-text" title="Национальный Народный фронт" style="color: #142e20;">
+
+Путь: scenes.status.politics.content.content[29].content[0].content[2]
+Было:  </span>: Революционный фёлькизм (Рём)
+Стало: </span>: Революционное фёлькише (Рём)
+
+Путь: scenes.status.politics.content.content[31].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[32].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[33].content[0].content[3]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.politics.content.content[34].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[35].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[36].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[37].content[0].content[0]
+Было:  <span class="tooltip-text" title="Немецкий национальный фронт" style="color: #003755;">
+Стало: <span class="tooltip-text" title="Национальный Фронт Германии" style="color: #003755;">
+
+Путь: scenes.status.politics.content.content[40].content[0].content[0]
+Было:  <span class="tooltip-text" title="Германский социальный союз" style="color: #6A1E1E;">
+Стало: <span class="tooltip-text" title="Немецкий Социальный союз" style="color: #6A1E1E;">
+
+Путь: scenes.status.politics.content.content[41].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.politics.content.content[42].content[0].content[0]
+Было:  <span class="tooltip-text" title="National People's Front" style="color: #142e20;">
+Стало: <span class="tooltip-text" title="Национальный Народный фронт" style="color: #142e20;">
+
+Путь: scenes.status.politics.content.content[44].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.status.politics.content.content[44].content[3]
+Было:  , внутренние разногласия: 
+Стало: , недовольство: 
+
+Путь: scenes.status.politics.content.content[45].content[0].content
+Было:  <span class="tooltip-text" title="Центр — это фракция центристов-марксистов, находящаяся между реформой и революцией.">Центр</span>
+Стало: <span class="tooltip-text" title="Центр — это фракция центристов-марксистов, находящаяся между реформой и революцией.">Центристы</span>
+
+Путь: scenes.status.politics.content.content[45].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.status.politics.content.content[45].content[3]
+Было:  , внутренние разногласия: 
+Стало: , недовольство: 
+
+Путь: scenes.status.politics.content.content[46].content[0].content
+Было:  <span class="tooltip-text" title="Цель профсоюзного крыла — экономические реформы и льготы для организованных рабочих.">Профсоюзники</span>
+Стало: <span class="tooltip-text" title="Цель профсоюзного крыла — экономические реформы и льготы для организованных рабочих.">Тред-юнионисты</span>
+
+Путь: scenes.status.politics.content.content[46].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.status.politics.content.content[46].content[3]
+Было:  , внутренние разногласия: 
+Стало: , недовольство: 
+
+Путь: scenes.status.politics.content.content[47].content[1]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.status.politics.content.content[47].content[3]
+Было:  , внутренние разногласия: 
+Стало: , недовольство: 
+
+Путь: scenes.status.politics.content.content[48].content.content[2]
+Было:  сила:
+Стало:  сила: 
+
+Путь: scenes.status.politics.content.content[48].content.content[4]
+Было:  , внутренние разногласия: 
+Стало: , недовольство: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[29].content[0]
+Было:  <span class="tooltip-text" title="Немецкий национальный фронт" style="color: #003755;">
+Стало: <span class="tooltip-text" title="Национальный Фронт Германии" style="color: #003755;">
+
+Путь: scenes.library.curr_gov.content.content[5].content[31].content[0]
+Было:  <span class="tooltip-text" title="Германский социальный союз" style="color: #6A1E1E;">
+Стало: <span class="tooltip-text" title="Немецкий социальный союз" style="color: #6A1E1E;">
+
+Путь: scenes.library.curr_gov.content.content[5].content[37].content[0]
+Было:  <span class="tooltip-text" title="National People's Front" style="color: #142e20;">
+Стало: <span class="tooltip-text" title="Национальный Народный фронт" style="color: #142e20;">
+
+Путь: scenes.status.content.content[18].content[29].content[0]
+Было:  <span class="tooltip-text" title="Немецкий национальный фронт" style="color: #003755;">
+Стало: <span class="tooltip-text" title="Национальный Фронт Германии" style="color: #003755;">
+
+Путь: scenes.status.content.content[18].content[31].content[0]
+Было:  <span class="tooltip-text" title="Германский социальный союз" style="color: #6A1E1E;">
+Стало: <span class="tooltip-text" title="Немецкий социальный союз" style="color: #6A1E1E;">
+
+Путь: scenes.status.content.content[18].content[37].content[0]
+Было:  <span class="tooltip-text" title="Национальный народный фронт" style="color: #142e20;">
+Стало: <span class="tooltip-text" title="Национальный Народный фронт" style="color: #142e20;">
+
+Путь: scenes.library.parties.content.content[16].content[0].content[2]
+Было:  </span> - <i>Deutschnationale Front</i> (Немецкий национальный фронт) — ультраправая национал-консервативная партия, возглавляемая Альфредом Гугенбергом, изначально отколовшаяся от <span style="color: #3E88B3;">
+Стало: </span> - <i>Deutschnationale Front</i> (Национальный Фронт Германии) — ультраправая национал-консервативная партия, возглавляемая Альфредом Гугенбергом, изначально отколовшаяся от <span style="color: #3E88B3;">
+
