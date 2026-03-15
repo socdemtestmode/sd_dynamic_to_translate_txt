@@ -10074,3 +10074,58 @@
 Было:  </span> - <i>Deutschnationale Front</i> (Немецкий национальный фронт) — ультраправая национал-консервативная партия, возглавляемая Альфредом Гугенбергом, изначально отколовшаяся от <span style="color: #3E88B3;">
 Стало: </span> - <i>Deutschnationale Front</i> (Национальный Фронт Германии) — ультраправая национал-консервативная партия, возглавляемая Альфредом Гугенбергом, изначально отколовшаяся от <span style="color: #3E88B3;">
 
+
+========================================
+СБОРКА: 2026-03-15 15:46:59
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.status.paramilitaries.content.content[1].content[2]
+Было:  </span> Численность:
+Стало: </span> Численность: 
+
+Путь: scenes.status.paramilitaries.content.content[1].content[4]
+Было:  тыс.
+Стало:  тыс.
+
+Путь: scenes.status.paramilitaries.content.content[2].content[2]
+Было:  </span> Военизация:
+Стало: </span> Военизация: 
+
+Путь: scenes.status.paramilitaries.content.content[3].content[2]
+Было:  </span> Численность:
+Стало: </span> Численность: 
+
+Путь: scenes.status.paramilitaries.content.content[3].content[4]
+Было:  тыс.
+Стало:  тыс.
+
+Путь: scenes.status.paramilitaries.content.content[4].content[2]
+Было:  </span> Военизация:
+Стало: </span> Военизация: 
+
+Путь: scenes.status.paramilitaries.content.content[5].content[2]
+Было:  </span> Численность:
+Стало: </span> Численность: 
+
+Путь: scenes.status.paramilitaries.content.content[5].content[4]
+Было:  тыс.
+Стало:  тыс.
+
+Путь: scenes.status.paramilitaries.content.content[6].content[2]
+Было:  </span> Военизация:
+Стало: </span> Военизация: 
+
+Путь: scenes.status.paramilitaries.content.content[7].content[2]
+Было:  </span> Численность:
+Стало: </span> Численность: 
+
+Путь: scenes.status.paramilitaries.content.content[7].content[4]
+Было:  тыс.
+Стало:  тыс.
+
+Путь: scenes.status.paramilitaries.content.content[8].content[2]
+Было:  </span> Военизация:
+Стало: </span> Военизация: 
+
