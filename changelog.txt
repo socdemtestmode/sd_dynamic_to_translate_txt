@@ -9344,3 +9344,454 @@
 Было:  Именно их. Не пора ли сменить курс?
 Стало: . Не пора ли сменить курс?
 
+
+========================================
+СБОРКА: 2026-03-15 15:06:06
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.main.main_easy.content.content[143].content[1].content[4]
+Было:  , с призывом к созданию совместного избирательного списка всех буржуазных партий в случае проведения новых выборов. 
+Стало: ом, с призывом к созданию совместного избирательного списка всех буржуазных партий в случае проведения новых выборов. 
+
+Путь: scenes.dealing_with_toleration.break_toleration.content.content.content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration.break_toleration.content.content.content[1].content[1].content
+Было:  <span style="color: #000000;">«Центр»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_cvp.break_toleration.content.content.content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_cvp.break_toleration.content.content.content[1].content[1].content
+Было:  <span style="color: #000000;">«Центр»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_right.break_toleration.content.content.content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_right.break_toleration.content.content.content[1].content[1].content
+Было:  <span style="color: #000000;">«Центр»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.iron_front.defense.content.content[1].content.content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.reichsbanner.militant.content.content[1].content.content[1].content[0]
+Было:  Организация
+Стало: 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[20].content[13]
+Было:   <hr id="read-marker"> Несколько 
+Стало:  <hr id="read-marker"> Кабинет
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[20].content[15]
+Было:   месяцев назад кабинет распался из-за разногласий, связанных с голосованием саксонской делегации в рейхсрате за план Юнга, что привело к вотуму недоверия со стороны <span style="color: #3E88B3;">
+Стало: а распался несколько месяцев назад из-за разногласий, связанных с голосованием саксонской делегации в рейхсрате за план Юнга, что привело к вотуму недоверия со стороны <span style="color: #3E88B3;">
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[20].content[21]
+Было:  </span>. Однако они всё же избирают представителя
+Стало: </span>. Однако они всё же избирают представителя 
+
+Путь: scenes.lvp_merger_1930.dvp_success.content.content[0].content[2]
+Было:  </span> оказалось не в силах ему противостоять. Партия официально проголосовала за слияние с <span style="color: #D3C24D;">
+Стало: </span>, чтобы оказаться ему сопротивление. Партия официально проголосовала за слияние с <span style="color: #D3C24D;">
+
+Путь: scenes.leber.military_affairs.title
+Было:  Военные вопросы
+Стало: Министерство Рейхсвера
+
+Путь: scenes.dealing_with_toleration.vonc.content.content[0].content[0]
+Было:  Мы инициировали вотум недоверия и добились отставки правительства. Канцлер
+Стало: Мы инициировали вотум недоверия и добились отставки правительства. Канцлер 
+
+Путь: scenes.dealing_with_toleration.vonc.content.content[0].content[2]
+Было:  временно исполняет обязанности канцлера.
+Стало:  временно исполняет обязанности канцлера.
+
+Путь: scenes.dealing_with_toleration.vonc.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.streetfighting.arm_rb.content.content[1].content.content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.streetfighting.arm_rb.content.content[1].content.content[1].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.lvp_merger_1930.title.content[4]
+Было:  </span> проводит съезд
+Стало: </span> проводят съезд
+
+Путь: scenes.lvp_merger_1930.content.content[1].content[2]
+Было:  </span> под руководством
+Стало: </span> под руководством 
+
+Путь: scenes.lvp_merger_1930.content.content[1].content[4]
+Было:  ведёт борьбу с правым крылом партии и её сторонниками-промышленниками из-за предложенного слияния с <span style="color: #D3C24D;">
+Стало: а ведёт борьбу с правым крылом партии и её сторонниками-промышленниками из-за предложенного слияния с <span style="color: #D3C24D;">
+
+Путь: scenes.lvp_merger_1929.title.content[4]
+Было:  </span> проводит съезд
+Стало: </span> проводят съезд
+
+Путь: scenes.leber.support_peoples_party.title
+Было:  Обеспечить поддержку концепции Общенародной партии
+Стало: Поддержать концепцию Общенародной партии
+
+Путь: scenes.mierendorff.content[1].content
+Было:  Карло Мерендорфф — основатель неоревизионистского идеологического течения, который поддерживает как демократические реформы, так и внепарламентские действия для борьбы с <span style="color: #7A3C00;">нацистами</span> и <span style="color: #808080;">авторитарными</span> партиями. Он выходец из академической среды среднего класса и является одним из самых молодых наших лидеров.
+Стало: Карло Мерендорфф — основатель неоревизионистского идеологического течения, который поддерживает как демократические реформы, так и внепарламентские действия для борьбы с <span style="color: #7A3C00;">нацистами</span> и <span style="color: #808080;">авторитарными</span> партиями. Он выходец из академической среды среднего класса и один из самых молодых наших лидеров.
+
+Путь: scenes.sender.against_toleration.subtitle
+Было:  Расторгнуть наше текущее соглашение о политике терпимости и свергнуть правительство через вотум недоверия.
+Стало: Расторгнуть наше текущее соглашение о «воздержании» и свергнуть правительство меньшинства через вотум недоверия.
+
+Путь: scenes.prussian_coalition_formation.social_christian_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.soclib_prussia_collapse.right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.soclib_prussia_collapse.right_coalition.content.content[2].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.weimar_prussia_collapse.right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.weimar_prussia_collapse.right_coalition.content.content[2].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration.center_right_coalition_prussia.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration.center_right_coalition_prussia.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration.center_right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.dealing_with_toleration.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration_cvp.center_right_coalition_prussia.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_cvp.center_right_coalition_prussia.content.content[0].content[1].content
+Было:  <span style="color: #000000;">центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_cvp.center_right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.dealing_with_toleration_cvp.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration_right.center_right_coalition_prussia.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_right.center_right_coalition_prussia.content.content[0].content[1].content
+Было:  <span style="color: #000000;">центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_right.center_right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.dealing_with_toleration_right.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.social_liberal_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.socchrist_prussia_collapse.right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.socchrist_prussia_collapse.right_coalition.content.content[2].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.soclib_prussia_collapse.center_right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.soclib_prussia_collapse.center_right_coalition.content.content[2].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.wtb_conceptualized.subtitle
+Было:  Профсоюзы АДГБ предлагает изменить наш экономический курс и отказаться от пассивного созерцания.
+Стало: Профсоюзы АДГБ предлагают изменить наш экономический курс и отказаться от пассивного созерцания.
+
+Путь: scenes.sender.center_right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.sender.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.seydewitz.center_right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.seydewitz.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.schleicher_right_coalition_prussia.content.content[1].content[1]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.minority_social_christian_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.socchrist_prussia_collapse.center_right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.socchrist_prussia_collapse.center_right_coalition.content.content[2].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.austrian_customs_union.center_right_coalition_prussia.content.content[1].content[2]
+Было:  Представитель
+Стало:  из 
+
+Путь: scenes.austrian_customs_union.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.banking_crisis.center_right_coalition_prussia.content.content[1].content[2]
+Было:  Представитель
+Стало:  из 
+
+Путь: scenes.banking_crisis.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.minority_social_liberal_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition_kvp.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition_kvp.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.social_christian_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[3].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration.urge_against_austerity_limited.title
+Было:  Попытаться надавить на Брюнинга, чтобы он смягчил самые тяжёлые последствия своей политики строгой экономии.
+Стало: Попытаться надавить на Брюнинга, чтобы он смягчил самые тяжёлые последствия политики строгой экономии.
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration_cvp.content.content[1].content[0]
+Было:  В настоящее время мы оказываем внешнюю поддержку правительству канцлера
+Стало: В настоящее время мы оказываем внешнюю поддержку правительству канцлера 
+
+Путь: scenes.dealing_with_toleration_cvp.content.content[1].content[2]
+Было:  ., но наше влияние серьёзно ослабло из-за формирования <span style="color: #000000;">
+Стало: а, но наше влияние серьёзно ослабло из-за формирования <span style="color: #000000;">
+
+Путь: scenes.prussia_election_1928.minority_social_christian_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.dealing_with_toleration.urge_paramilitary.title
+Было:  Призвать Брюнинга принять более решительные меры против политических экстремистов и ограничить определённые права.
+Стало: Призвать Брюнинга принять решительные меры против политических экстремистов и ограничить определённые права.
+
+Путь: scenes.dealing_with_toleration_right.urge_paramilitary.title
+Было:  Призвать Брюнинга принять более решительные меры против политических экстремистов и ограничить определённые права.
+Стало: Призвать Брюнинга принять решительные меры против политических экстремистов и ограничить определённые права.
+
+Путь: scenes.prussia_election_1928.minority_social_liberal_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.braun.content.content.content[1]
+Было:  вновь избран министром-президентом Пруссии.
+Стало:  вновь избран министром-президентом Пруссии.
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.title.content[4].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">партии Центра</span>
+
+Путь: scenes.dealing_with_toleration.content.content[1].content[0]
+Было:  В настоящее время мы оказываем внешнюю поддержку правительству канцлера
+Стало: В настоящее время мы оказываем внешнюю поддержку правительству канцлера 
+
+Путь: scenes.dealing_with_toleration.content.content[1].content[2]
+Было:  …Как нам следует использовать наше положение?
+Стало: а… Как нам следует использовать наше положение?
+
+Путь: scenes.dealing_with_toleration_right.content.content[1].content[0]
+Было:  В настоящее время мы оказываем внешнюю поддержку правительству канцлера
+Стало: В настоящее время мы оказываем внешнюю поддержку правительству канцлера 
+
+Путь: scenes.dealing_with_toleration_right.content.content[1].content[2]
+Было:  , хотя наше влияние ослаблено тем, что в правительство вошли 
+Стало: а, хотя наше влияние ослаблено тем, что в правительство вошли члены
+
+Путь: scenes.dealing_with_toleration_right.content.content[1].content[3].content
+Было:  единственный
+Стало: 
+
+Путь: scenes.dealing_with_toleration_right.content.content[1].content[8].content
+Было:  &nbsp;члены
+Стало: &nbsp;
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.grand_coalition_prussia.content.content[1].content[2].content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.grand_coalition_prussia.content.content[1].content[2].content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.minority_grand_coalition_prussia.content.content[1].content[3].content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.prussian_coalition_formation.right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_kvp_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_kvp_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.right_coalition_prussia.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.prussia_election_1928.right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.center_right_coalition_prussia.content.content[1].content[2]
+Было:  от
+Стало:  от 
+
+Путь: scenes.prussia_election_1928.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.tolerate_bourgeois_coalition.content.content[1].content.content[2]
+Было:  избран министром-президентом Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.shuffle_leadership.add_mierendorff.subtitle.content[2].content
+Было:  Действия — Создать <span style="color: #c00000;">Железный</span> <span style="color: #1A1A1A;">фронт</span>, Предупреждение о <span style="color: #7A3C00;">нацистах</span>
+Стало: Действия — Создать <span style="color: #c00000;">Железный</span> <span style="color: #1A1A1A;">фронт</span>, вербовать в Железный фронт, предупредить об угрозе <span style="color: #7A3C00;">нацизма</span>
+
+Путь: scenes.shuffle_leadership.add_schumacher.subtitle.content[0]
+Было:  Курт Шумахер — ветеран Великой войны и пламенный оратор, защитник <span style="color: #c00000;">социал-демократических</span> идей. Он выступает за политику реформ. 
+Стало: Курт Шумахер — ветеран Великой войны и пламенный оратор, защитник <span style="color: #c00000;">социал-демократических</span> идей. Он выступает за реформизм. 
+
+Путь: scenes.shuffle_leadership.add_schumacher.subtitle.content[2].content
+Было:  Действия: срочный сбор средств, укрепление Рейхсбаннера, преодоление экономического кризиса.
+Стало: Действия: срочный сбор средств, укрепление Рейхсбаннера, поддержать экономический план реформистов.
+
+Путь: scenes.shuffle_leadership.add_leber.subtitle.content[0]
+Было:  Юлиус Лебер — бывший офицер рейхсвера, который подал в отставку в знак протеста против Капповского путча. 
+Стало: Юлиус Лебер — бывший офицер рейхсвера, подавший в отставку в знак протеста против Капповского путча. 
+
+Путь: scenes.shuffle_leadership.add_leber.subtitle.content[2].content
+Было:  Действия: митинг в защиту демократии, военные вопросы, создание Общенародной партии.
+Стало: Действия: митинг в защиту демократии, министерство Рейхсвера, создание Общенародной партии.
+
+Путь: scenes.election_1928.grand_coalition_bourgeois_parliament.content.content[0].content[3].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;"></span>
+
+Путь: scenes.election_1928.grand_coalition_bourgeois_parliament.content.content[0].content[19]
+Было:  партий.
+Стало:  партии.
+
+Путь: scenes.election_1928.toleration_bruning.content.content
+Было:  Мы приняли решение о пассивной поддержке правительства Брюнинга. Это означает, что мы будем голосовать против вотумов недоверия, чтобы они не прошли, но при этом не будем напрямую участвовать в правительстве в качестве министров. Таким образом, мы сможем предотвратить новые выборы и не допустить <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span> в правительство.
+Стало: Мы приняли решение о воздержании от вотума недоверия правительству меньшинства Брюнинга. Это означает, что мы будем голосовать против вотумов недоверия, чтобы правительство не пало, но при этом не будем напрямую участвовать в правительстве в качестве министров. Таким образом, мы сможем предотвратить новые выборы и не допустить <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span> в правительство.
+
