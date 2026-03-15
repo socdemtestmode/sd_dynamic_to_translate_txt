@@ -8698,3 +8698,566 @@
 Было:  и других партий.
 Стало:  и других партий.
 
+
+========================================
+СБОРКА: 2026-03-15 14:15:16
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.status.emergency.content.content[5].content[0]
+Было:  Доступные ресурсы:
+Стало: Доступные ресурсы: 
+
+Путь: scenes.status.emergency.content.content[5].content[2]
+Было:  <br> Внутренний раскол:
+Стало: <br> Внутренние разногласия: 
+
+Путь: scenes.status.emergency.content.content[5].content[4]
+Было:  <br> Поддержка Республики:
+Стало: <br> Поддержка Республики: 
+
+Путь: scenes.status.emergency.content.content[5].content[7].content[2]
+Было:  </span> Отношение к:
+Стало: </span> Отношение к: 
+
+Путь: scenes.police.loyalty.content.content[1].content[0]
+Было:  Текущая лояльность полиции:
+Стало: Текущая лояльность полиции: 
+
+Путь: scenes.prussian_affairs.police_loyalty.content.content[1].content[0]
+Было:  Текущая лояльность полиции:
+Стало: Текущая лояльность полиции: 
+
+Путь: scenes.prussian_affairs_left.police_loyalty.content.content[1].content[0]
+Было:  Текущая лояльность полиции:
+Стало: Текущая лояльность полиции: 
+
+Путь: scenes.root.pls_player.content.content
+Было:  Прочитано.
+Стало: Прочитать.
+
+Путь: scenes.status.polls.content.content[2].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[3].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[4].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[5].content[4]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[6].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[7].content[0].content[3]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[8].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[9].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[10].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[11].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[12].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[13].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[14].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[15].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[16].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[17].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.polls.content.content[18].content[1]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[19].content[0]
+Было:  Поддержка республики:
+Стало: Поддержка республики: 
+
+Путь: scenes.status.polls.content.content[21].content[0]
+Было:  Рабочие:
+Стало: Рабочие: 
+
+Путь: scenes.status.polls.content.content[21].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[21].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[21].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[21].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[21].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[21].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[21].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[21].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[21].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[21].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.polls.content.content[22].content[0]
+Было:  Новый средний класс:
+Стало: Новый средний класс: 
+
+Путь: scenes.status.polls.content.content[22].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[22].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[22].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[22].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[22].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[22].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[22].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[22].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[22].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[22].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.polls.content.content[23].content[0]
+Было:  Старый средний класс:
+Стало: Старый средний класс: 
+
+Путь: scenes.status.polls.content.content[23].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[23].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[23].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[23].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[23].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[23].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[23].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[23].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[23].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[23].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.polls.content.content[24].content[0]
+Было:  Сельское население:
+Стало: Сельское население: 
+
+Путь: scenes.status.polls.content.content[24].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[24].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[24].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[24].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[24].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[24].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[24].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[24].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[24].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[24].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.polls.content.content[25].content[0]
+Было:  Безработные:
+Стало: Безработные: 
+
+Путь: scenes.status.polls.content.content[25].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[25].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[25].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[25].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[25].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[25].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[25].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[25].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[25].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[25].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.polls.content.content[26].content[0]
+Было:  Католики:
+Стало: Католики: 
+
+Путь: scenes.status.polls.content.content[26].content[1].content[0]
+Было:  ФНЕГ:
+Стало: ФНЕГ: 
+
+Путь: scenes.status.polls.content.content[26].content[2]
+Было:  СДПГ:
+Стало: СДПГ: 
+
+Путь: scenes.status.polls.content.content[26].content[6]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[26].content[11].content[2]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.polls.content.content[26].content[11].content[5].content[0]
+Было:  ННП:
+Стало: ННП: 
+
+Путь: scenes.status.polls.content.content[26].content[12].content[0]
+Было:  ЛНП:
+Стало: ЛНП: 
+
+Путь: scenes.status.polls.content.content[26].content[14].content[0]
+Было:  НННП:
+Стало: НННП: 
+
+Путь: scenes.status.polls.content.content[26].content[16].content[0]
+Было:  НФГ:
+Стало: НФГ: 
+
+Путь: scenes.status.polls.content.content[26].content[17].content[0]
+Было:  КНП:
+Стало: КНП: 
+
+Путь: scenes.status.polls.content.content[26].content[18]
+Было:  НСДАП:
+Стало: НСДАП: 
+
+Путь: scenes.status.content.content[2].content[0]
+Было:  Доступные ресурсы:
+Стало: Доступные ресурсы: 
+
+Путь: scenes.status.content.content[3].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[3].content[6].content
+Было:  формирует переходное правительство
+Стало: в переходном правительстве
+
+Путь: scenes.status.content.content[3].content[14].content[2]
+Было:  </span> большинство
+Стало: </span>-большинство
+
+Путь: scenes.status.content.content[4].content[0].content[0]
+Было:  Поддержка Брюнинга в рейхстаге:
+Стало: Поддержка Брюнинга в рейхстаге: 
+
+Путь: scenes.status.content.content[5].content[0].content[0]
+Было:  Отношение Гинденбургом:
+Стало: Одобрение Гинденбурга:
+
+Путь: scenes.status.content.content[6].content[0].content[0]
+Было:  Цели правительства:
+Стало: Цели правительства: 
+
+Путь: scenes.status.content.content[6].content[0].content[5]
+Было:  мес.
+Стало:  мес.
+
+Путь: scenes.status.content.content[7].content[0].content[0]
+Было:  Второстепенные цели правительства:
+Стало: Второстепенные цели правительства: 
+
+Путь: scenes.status.content.content[7].content[0].content[5]
+Было:  мес.
+Стало:  мес.
+
+Путь: scenes.status.content.content[8].content[0]
+Было:  Правительство Пруссии:
+Стало: Правительство Пруссии: 
+
+Путь: scenes.status.content.content[8].content[15].content
+Было:  <span style="color: #808080;"><i>Reichskommissar</i></span> у власти 
+Стало: <span style="color: #808080;"><i>Рейхскомиссар</i></span> у власти 
+
+Путь: scenes.status.content.content[8].content[16].content[2]
+Было:  </span> большинство
+Стало: </span>-большинство
+
+Путь: scenes.status.content.content[8].content[18].content
+Было:  техническое правительство
+Стало: Переходное правительство
+
+Путь: scenes.status.content.content[9].content[0].content[0]
+Было:  Разногласия в коалиции:
+Стало: Разногласия в коалиции: 
+
+Путь: scenes.status.content.content[10].content[0].content[0]
+Было:  Отношение Гинденбурга:
+Стало: Отношение Гинденбурга: 
+
+Путь: scenes.status.content.content[11].content[0].content[2]
+Было:  </span> разногласия в коалиции:
+Стало: </span> разногласия в коалиции: 
+
+Путь: scenes.status.content.content[12].content[0]
+Было:  Внутренние разногласия:
+Стало: Внутренние разногласия: 
+
+Путь: scenes.status.content.content[14].content[0]
+Было:  Президент:
+Стало: Рейхспрезидент: 
+
+Путь: scenes.status.content.content[15].content[0]
+Было:  Канцлер:
+Стало: Рейхсканцлер: 
+
+Путь: scenes.status.content.content[16].content[0]
+Было:  Министр-президент Пруссии:
+Стало: Министр-президент Пруссии: 
+
+Путь: scenes.status.content.content[18].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[3]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[6].content[0]
+Было:  <span class="tooltip-text" title="Socialist Workers' Party of Germany" style="color: #9B0000;">
+Стало: <span class="tooltip-text" title="Социалистическая Рабочая Партия Германии" style="color: #9B0000;">
+
+Путь: scenes.status.content.content[18].content[6].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[10]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.content.content[18].content[14]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[17].content[0]
+Было:  <span class="tooltip-text" title="Liberal People's Party" style="color: #FFCC00;">
+Стало: <span class="tooltip-text" title="Либеральная Народная партия" style="color: #FFCC00;">
+
+Путь: scenes.status.content.content[18].content[17].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[19].content[4]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.content.content[18].content[21].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[23].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[25].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[27].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[29].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[31].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[33].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[35].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[37].content[0]
+Было:  <span class="tooltip-text" title="National People's Front" style="color: #142e20;">
+Стало: <span class="tooltip-text" title="Национальный народный фронт" style="color: #142e20;">
+
+Путь: scenes.status.content.content[18].content[37].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.content.content[18].content[40]
+Было:  :
+Стало: : 
+
+Путь: scenes.status.content.content[19].content[0].content[0]
+Было:  Бюджет:
+Стало: Бюджет: 
+
+Путь: scenes.status.content.content[20].content[0]
+Было:  Следующие выборы:
+Стало: Следующие выборы: 
+
+Путь: scenes.status.content.content[21].content[0]
+Было:  Следующие выборы в Пруссии:
+Стало: Следующие выборы в Пруссии: 
+
+Путь: scenes.status.content.content[23].content[0]
+Было:  Инфляция:
+Стало: Инфляция: 
+
+Путь: scenes.status.content.content[24].content[0].content[0]
+Было:  Безработица:
+Стало: Безработица: 
+
+Путь: scenes.status.content.content[25].content[0]
+Было:  Экономический рост:
+Стало: Экономический рост: 
+
