@@ -8135,3 +8135,566 @@
 Было:  Фридрих Штампфер — многолетний главный редактор «Vorwärts», нашей партийной газеты. 
 Стало: Фридрих Штампфер — многолетний главный редактор «Форвертс», нашей партийной газеты. 
 
+
+========================================
+СБОРКА: 2026-03-15 13:57:05
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.main.main_easy.content.content[17].content[1].content[0]
+Было:  После слабых результатов<span style="color: #7A3C00;">
+Стало: После слабых результатов <span style="color: #7A3C00;">
+
+Путь: scenes.main.main_easy.content.content[19].content[1].content[0]
+Было:  Адам Штегервальд, председатель католических профсоюзов,
+Стало: Адам Штегервальд, председатель католических профсоюзов
+
+Путь: scenes.main.main_easy.content.content[19].content[1].content[1].content
+Было:  и министр-президент Пруссии,
+Стало:  и министр-президент Пруссии,
+
+Путь: scenes.main.main_easy.content.content[19].content[1].content[2]
+Было:   ведущий кандидат на смену Вильгельма Маркса. Он выступает за широкий межконфессиональный «народный блок» вместо текущего бренда партии католиков. Штегервальд скептически относится к сотрудничеству с нами.
+Стало:  — ведущий кандидат на смену Вильгельма Маркса. Он выступает за широкий межконфессиональный «народный блок» вместо текущего бренда партии католиков. Штегервальд скептически относится к сотрудничеству с нами.
+
+Путь: scenes.main.main_easy.content.content[29].content[1].content[0]
+Было:  Позиции Штегервальда в
+Стало: Позиции Штегервальда в 
+
+Путь: scenes.main.main_easy.content.content[29].content[1].content[3]
+Было:  ослабевают из-за значительного сопротивления от среднего класса в партии из-за его связей с рабочим движением и порицания с инициативой о повышении жалованья госслужащим. К декабрьскому съезду партии появились новые кандидаты, в результате борьба развернётся между тремя претендентами. 
+Стало:  ослабевают из-за значительного сопротивления от среднего класса в партии из-за его связей с рабочим движением и порицания с инициативой о повышении жалованья госслужащим. К декабрьскому съезду партии появились новые кандидаты, в результате борьба развернётся между тремя претендентами. 
+
+Путь: scenes.main.main_easy.content.content[30].content[1].content[3].content
+Было:  <span style="color: #000000;">партией </span>
+Стало: <span style="color: #000000;">партией Центра</span>
+
+Путь: scenes.main.main_easy.content.content[30].content[1].content[5]
+Было:   Центра. Хотя это и хорошая новость для стабильности здесь и сейчас, правое крыло <span style="color: #C0A054;">
+Стало: . Хотя это и хорошая новость для стабильности здесь и сейчас, правое крыло <span style="color: #C0A054;">
+
+Путь: scenes.main.main_easy.content.content[36].content[1].content[0]
+Было:  Избрание Штегервальда председателем
+Стало: Избрание Штегервальда председателем 
+
+Путь: scenes.main.main_easy.content.content[36].content[1].content[3]
+Было:   привело к серьёзным последствиям: массовому оттоку избирателей из среднего класса и католиков. Некогда стагнирующая партия превращается в <span class="tooltip-text" title="good mod">динамичную</span> силу, которую более не скрепляет католицизм. Штегервальд продвигает идею межконфессиональной, общехристианской партии и 
+Стало:  привело к серьёзным последствиям: массовому оттоку избирателей из среднего класса и католиков. Некогда стагнирующая партия превращается в динамичную силу, которую более не скрепляет католицизм. Штегервальд продвигает идею межконфессиональной, общехристианской партии и 
+
+Путь: scenes.muller.coalition.content.content.content[0]
+Было:  Мы улучшили наши отношения с
+Стало: Мы улучшили наши отношения с 
+
+Путь: scenes.fundraising.maintain.subtitle.content[0]
+Было:  Мы получаем
+Стало: Мы получаем 
+
+Путь: scenes.blutmai.ban.content.content[1].content[5]
+Было:  а также
+Стало:  а также 
+
+Путь: scenes.blutmai.ban.content.content[1].content[6].content[1].content
+Было:  Народная и
+Стало: Народная
+
+Путь: scenes.blutmai.ban.content.content[1].content[8]
+Было:  партии одобряют наши действия.
+Стало:  партия одобряют наши действия.
+
+Путь: scenes.stegerwald_formation_2.stegerwald.content.content[0].content[0]
+Было:  Штегервальд продолжит превращать
+Стало: Штегервальд продолжит превращать 
+
+Путь: scenes.streetfighting_unlock.content[1].content[4]
+Было:  </span>, коммунистическим (<span style="color: #8B0000;"> Союзом Красных Фронтовиков 
+Стало: </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span> (<span style="color: #8B0000;">
+
+Путь: scenes.streetfighting_unlock.content[1].content[5].content
+Было:  (СКФ)
+Стало:  (СКФ)
+
+Путь: scenes.campaigning.new_middle.content.content.content[0]
+Было:  Мы усилили агитацию среди нового среднего класса.
+Стало: Мы усилили агитацию среди нового среднего класса. 
+
+Путь: scenes.fundraising.reduce.subtitle.content[0]
+Было:  Мы будем получать
+Стало: Мы будем получать 
+
+Путь: scenes.fundraising.reduce.subtitle.content[2]
+Было:  ресурсов в год. –1 ресурс
+Стало:  ресурсов в год. –1 ресурс
+
+Путь: scenes.center_party_conference_joos.options[1].title.content[3]
+Было:  избирает Адама Штегервальда председателем партии.
+Стало:  избирает Адама Штегервальда председателем партии.
+
+Путь: scenes.local_election_thuringia.thuringia_coalition_menu.content.content[0].content[0]
+Было:  <hr id="read-marker"> Буржуазные партии исторически были враждебны к нам в политике земли, особенно после пресловутого <span style="color: #c00000;">
+Стало: <hr id="read-marker"> Буржуазные партии исторически враждебны к нам в политике земли, особенно после пресловутого единого правительства левых <span style="color: #c00000;">
+
+Путь: scenes.local_election_thuringia.thuringia_coalition_menu.content.content[0].content[6]
+Было:  </span> Единое левое правительство, столкнувшееся с <i>Reichsexekution (Имперской экзекуцией)</i> шесть лет назад. Они все еще не забыли, что <span style="color: #c00000;">
+Стало: </span>, столкнувшееся с <i>Reichsexekution (Имперской экзекуцией)</i> шесть лет назад. Они все еще не забыли, что <span style="color: #c00000;">
+
+Путь: scenes.saxon_collapse.grand_coalition_saxony.unavailableSubtitle.content[0].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.saxon_collapse.grand_coalition_saxony.unavailableSubtitle.content[1].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.status.paramilitaries.content.content[10].content[0].content[1].content
+Было:  <span style="color: #000000;">Дем</span><span style="color: #DD0000;">окра</span><span style="color: #FFCC00;">тические</span>
+Стало: <span style="color: #000000;">Дем</span><span style="color: #DD0000;">окра</span><span style="color: #FFCC00;">тические</span> 
+
+Путь: scenes.status.paramilitaries.content.content[10].content[0].content[2].content
+Было:  анти<span style="color: #7A3C00;">фашистские</span>
+Стало: анти<span style="color: #7A3C00;">фашистские</span> 
+
+Путь: scenes.status.paramilitaries.content.content[11].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.paramilitaries.content.content[12].content[0].content[0]
+Было:  <b>Полиция Пруссии:
+Стало: <b>Полиция Пруссии: 
+
+Путь: scenes.status.paramilitaries.content.content[13].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.paramilitaries.content.content[15].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.paramilitaries.content.content[16].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.paramilitaries.content.content[17].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.paramilitaries.content.content[18].content[0].content[2]
+Было:  </span> силы:
+Стало: </span> силы: 
+
+Путь: scenes.status.paramilitaries.content.content[19].content[0].content[0]
+Было:  <b>Полиция Пруссии:
+Стало: <b>Полиция Пруссии: 
+
+Путь: scenes.status.paramilitaries.content.content[20].content[0].content[0]
+Было:  <b>Жандармерия рейхсвера:
+Стало: <b>Жандармерия рейхсвера: 
+
+Путь: scenes.status.paramilitaries.content.content[23].content[0]
+Было:  Рейхсвер:
+Стало: Рейхсвер: 
+
+Путь: scenes.status.paramilitaries.content.content[23].content[2]
+Было:  тысяч солдат.
+Стало:  тысяч солдат.
+
+Путь: scenes.status.paramilitaries.content.content[24].content[0]
+Было:  Лояльность рейхсвера:
+Стало: Лояльность рейхсвера: 
+
+Путь: scenes.status.paramilitaries.content.content[25].content[0]
+Было:  Прусская полиция:
+Стало: Прусская полиция: 
+
+Путь: scenes.status.paramilitaries.content.content[25].content[2]
+Было:  тысяч сотрудников.
+Стало:  тысяч сотрудников.
+
+Путь: scenes.status.paramilitaries.content.content[26].content[0]
+Было:  Лояльность прусской полиции:
+Стало: Лояльность прусской полиции: 
+
+Путь: scenes.status.paramilitaries.content.content[27].content.content[0]
+Было:  Лояльность полиции министерства внутренних дел:
+Стало: Лояльность полиции министерства внутренних дел: 
+
+Путь: scenes.campaigning.old_middle.content.content.content[0]
+Было:  Мы усилили нашу агитацию среди старого среднего класса.
+Стало: Мы усилили нашу агитацию среди старого среднего класса. 
+
+Путь: scenes.fundraising.content[1].content
+Было:  Как рабочему не выжить без еды, так и партии не выжить без денег. В отличие от буржуазных организаций нас не финансируют капиталисты, потому мы можем полагаться только на партийные взносы.. Не пользуясь поддержкой богатых промышленников, мы зависим от членских взносов, на которые ведём свою деятельность.
+Стало: Как рабочему не выжить без еды, так и партии не выжить без денег. В отличие от буржуазных организаций нас не финансируют капиталисты, потому мы можем полагаться только на партийные взносы. Не пользуясь поддержкой богатых промышленников, мы зависим от членских взносов, на которые ведём свою деятельность.
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[0].content
+Было:  Провал референдума по плану Янга, не преодолевшего 10%-й порог,
+Стало: Провал референдума по плану Юнга, не преодолевшего 10%-й порог
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[1].content[0]
+Было:  политика Гугенберга «всё или ничего», лишившая партию возможности войти в правительство и отменить наши 
+Стало: , политика Гугенберга «всё или ничего», лишившая партию возможности войти в правительство и отменить наши 
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[1].content[3].content
+Было:  снижение тарифов
+Стало: снижения тарифов
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[7].content[0]
+Было:  В результате <span style="color: #3E88B3;">
+Стало:  В результате <span style="color: #3E88B3;">
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[7].content[2]
+Было:  </span> становится более националистической и консервативной альтернативой партии
+Стало: </span> становится более националистической и консервативной альтернативой 
+
+Путь: scenes.dnvp_party_congress_2.hugenbergremoval.content.content[0].content[7].content[3].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">партии Центра</span>
+
+Путь: scenes.local_election_thuringia.toleration_thuringia.subtitle[0]
+Было:  Мы предложим им свою пассивную поддержку, чтобы не допустить их зависимости от <span style="color: #7A3C00;">
+Стало: Мы предложим свое воздержание от вотума недоверия, чтобы не допустить их зависимости от <span style="color: #7A3C00;">
+
+Путь: scenes.local_election_thuringia.toleration_thuringia.unavailableSubtitle
+Было:  Буржуазия скорее будет сотрудничать с <span style="color: #7A3C00;">нацистами</span>, чем примет нашу пассивную поддержку.
+Стало: Буржуазия скорее будет сотрудничать с <span style="color: #7A3C00;">нацистами</span>, чем сохранит собственное правительство меньшинства с опорой на нас
+
+Путь: scenes.local_election_thuringia.toleration_thuringia.content.content[0]
+Было:  Удивительно, но, благодаря нашему примирению с буржуазными партиями, они согласились воздержаться от вотума недоверия и таким образом предотвратить вхождение в правительство <span style="color: #7A3C00;">
+Стало: Удивительно, но, благодаря нашему примирению с буржуазными партиями, они согласились на наше воздержание от вотума недоверия. Таким образом, они правят в правительстве меньшинства с нашей поддержкой, чтобы предотвратить вхождение <span style="color: #7A3C00;">
+
+Путь: scenes.local_election_thuringia.toleration_thuringia.content.content[2]
+Было:  </span>. Однако это становится отличной пропагандой для <span style="color: #7A3C00;">нацистов</span>, которые заручаются поддержкой избирателей за счёт <span style="color: #3E88B3;">
+Стало: </span> в правительство. Однако это становится отличной пропагандой для <span style="color: #7A3C00;">нацистов</span>, которые заручаются поддержкой избирателей за счёт <span style="color: #3E88B3;">
+
+Путь: scenes.stegerwald_formation_2.kaiser_campaign.content.content[1].content[1].content[0]
+Было:  Кроме того, это остановило приток <span style="color: #3E88B3;">
+Стало: Кроме того, это остановило приток умеренных членов <span style="color: #3E88B3;">
+
+Путь: scenes.stegerwald_formation_2.kaiser_campaign.content.content[1].content[1].content[2]
+Было:  </span> умеренных в партию, а их избиратели вернутся к различным малым партиям, расположенным между ними. 
+Стало: </span> в партию, а их избиратели вернутся к различным малым партиям, расположенным между ними. 
+
+Путь: scenes.stegerwald_formation_2.kaiser_campaign.content.content[1].content[3]
+Было:   Благодаря <span class="tooltip-text" title="good mod">динамизму</span> партии, его могут сместить, если он окажется слишком спорной фигурой.
+Стало:  Благодаря динамизму партии, его могут сместить, если он окажется слишком спорной фигурой.
+
+Путь: scenes.stegerwald_formation_2.title.content[4]
+Было:  проводит съезд партии
+Стало:  проводит съезд
+
+Путь: scenes.stegerwald_formation_2.options[0].title.content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.stegerwald_formation_2.options[0].title.content[3]
+Было:  избирает Адама Штегервальда председателем партии.
+Стало:  избирает Адама Штегервальда председателем партии.
+
+Путь: scenes.stegerwald_formation_2.options[1].title.content[0]
+Было:  Повлиять на выборы в
+Стало: Повлиять на выборы в 
+
+Путь: scenes.stegerwald_formation_2.options[1].title.content[3]
+Было:   , чтобы председателем избрали Якоба Кайзера.
+Стало: , чтобы председателем избрали Якоба Кайзера.
+
+Путь: scenes.stegerwald_formation_2.content.content[1].content[0]
+Было:  Трансформация
+Стало: Трансформация 
+
+Путь: scenes.stegerwald_formation_2.content.content[1].content[6]
+Было:  Левое крыло
+Стало:  Левое крыло 
+
+Путь: scenes.stegerwald_formation_2.content.content[2].content[0]
+Было:  Реформирование
+Стало: Реформирование 
+
+Путь: scenes.stegerwald_formation_1.nothing.content.content.content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.stegerwald_formation_1.nothing.content.content.content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.stegerwald_formation_1.title.content[2]
+Было:  трансформируется
+Стало:  трансформируется
+
+Путь: scenes.stegerwald_formation_1.content.content[0].content[3]
+Было:  трансформируется
+Стало:  трансформируется
+
+Путь: scenes.stegerwald_formation_1.content.content[1].content[0]
+Было:  Будучи новоизбранным председателем
+Стало: Будучи новоизбранным председателем 
+
+Путь: scenes.stegerwald_formation_1.content.content[1].content[5].content[2]
+Было:  </span> осуществляет строгий надзор за своим <span style="color: #6D5298;">христианско-социальным</span> крылом и не потерпит никакого сотрудничества, что значительно усложняет процесс без поддержки <span style="color: #3E88B3;">
+Стало: </span> осуществляет строгий надзор за своим <span style="color: #6D5298;">христианско-социальным</span> крылом и не потерпит никакого сотрудничества, что значительно усложняет процесс без поддержки  аффилированных с <span style="color: #3E88B3;">
+
+Путь: scenes.stegerwald_formation_1.content.content[1].content[5].content[4]
+Было:  </span>-аффилированных профсоюзов. Кроме того, бездействие Гугенберга в то время, как <span style="color: #3E88B3;">
+Стало: </span> профсоюзов. Кроме того, бездействие Гугенберга в то время, как <span style="color: #3E88B3;">
+
+Путь: scenes.unemployment_insurance_0_lvp.compromise.content.content.content[5].content
+Было:  минимальное большинство в партии
+Стало:  минимальное большинство в партии
+
+Путь: scenes.unemployment_insurance_0_lvp.compromise.content.content.content[6].content
+Было:  большинство в партии
+Стало:  большинство в партии
+
+Путь: scenes.unemployment_insurance_0.compromise.content.content.content[2]
+Было:  удалось убедить
+Стало:  удалось убедить
+
+Путь: scenes.unemployment_insurance_0.compromise.content.content.content[3].content
+Было:  минимальное большинство в его партии
+Стало:  минимальное большинство в его партии
+
+Путь: scenes.unemployment_insurance_0.compromise.content.content.content[4].content
+Было:  большинство в его партии
+Стало:  большинство в его партии
+
+Путь: scenes.campaigning.rural.content.content.content[0]
+Было:  Мы усилили нашу агитацию среди крестьян.
+Стало: Мы усилили нашу агитацию среди крестьян. 
+
+Путь: scenes.campaigning.rural.content.content.content[1].content
+Было:  Исторически мы не вели активной агитации среди крестьян, и они нам не доверяют. 
+Стало: Исторически мы не вели активной агитации среди крестьян — они нам не доверяют. 
+
+Путь: scenes.center_party_conference.stegerwald.content.content[0].content[0]
+Было:  Адам Штегервальд избран председателем
+Стало: Адам Штегервальд избран председателем 
+
+Путь: scenes.center_party_conference.stegerwald.content.content[0].content[6]
+Было:  менее склонную к компромиссам с левыми. Он рассматривает
+Стало:  менее склонную к компромиссам с левыми. Он рассматривает 
+
+Путь: scenes.center_party_conference.options[3].title.content[1].content
+Было:  <span style="color: #000000;">«Партия Центра»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.center_party_conference.options[3].title.content[3]
+Было:  избирает Адама Штегервальда председателем партии.
+Стало:  избирает Адама Штегервальда председателем партии.
+
+Путь: scenes.center_party_conference.content.content[2].content[7].content
+Было:  Председатель христианских профсоюзов и министр-президент Адам Штегервальд несколько сдал позиции, но он по-прежнему пользуется мощной поддержкой прусского отделения партии, что фактически обеспечивает ему выдвижение.
+Стало:  Председатель христианских профсоюзов и министр-президент Адам Штегервальд несколько сдал позиции, но он по-прежнему пользуется мощной поддержкой прусского отделения партии, что фактически обеспечивает ему выдвижение.
+
+Путь: scenes.dvp_party_congress.luther.content.content[1].content[0]
+Было:  Лютер особенно поддерживает объединение либеральных партий и даже создание широкой буржуазной партии.
+Стало: Лютер особенно поддерживает объединение либеральных партий и даже создание широкой буржуазной партии. 
+
+Путь: scenes.weltbuhne.content.content[1].content
+Было:  Новостной и литературный журнал <span style="color: #c00000;">левого толка</span> „Вельтбюне“ стал объектом преследования со стороны властей по обвинению в разглашении государственной тайны. В журнале были опубликованы статьи о тайной программе перевооружения рейхсвера в нарушение Версальского договора. Военные, разумеется, не желают огласки этой информации. Ситуацию усугубляет тот факт, что редактор журнала, Карл фон Осецкий, является известным пацифистом.
+Стало: Новостной и литературный журнал <span style="color: #c00000;">левого толка</span> „Вельтбюне“ стал объектом преследования со стороны властей по обвинению в разглашении государственной тайны. В журнале опубликованы статьи о тайной программе перевооружения рейхсвера в нарушение Версальского договора. Военные, разумеется, не желают огласки этой информации. Ситуацию усугубляет один факт: редактор журнала Карл фон Осецкий — известный пацифист.
+
+Путь: scenes.economic_democracy.content.content[2].content[4].content
+Было:  Однако наши буржуазные партнёры по коалиции могут не согласиться.
+Стало:  Однако наши буржуазные партнёры по коалиции могут не согласиться.
+
+Путь: scenes.enemies.options[0].title.content[7]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.enemies.options[1].title.content[5]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.enemies.options[4].title.content[0]
+Было:  Буржуазные партии:
+Стало: Буржуазные партии: 
+
+Путь: scenes.enemies.options[4].title.content[3]
+Было:  и
+Стало: и 
+
+Путь: scenes.main.content.content[51].content[1].content[7]
+Было:  </span> в сближении с
+Стало: </span> в сближении с 
+
+Путь: scenes.ideology.content.content[2].content.content[0]
+Было:  Мы уже выбрали
+Стало: Мы уже выбрали 
+
+Путь: scenes.reichsbanner.content.content[1].content[9]
+Было:  </span>, но, все-таки, главной составной частью является <span style="color: #c00000;">
+Стало: </span>, но, все-таки, главной составная часть — <span style="color: #c00000;">
+
+Путь: scenes.streetfighting.content[1].content[4]
+Было:  </span>, коммунистическим <span style="color: #8B0000;">Rotfrontkämpferbund</span> (<span style="color: #8B0000;">
+Стало: </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span> (<span style="color: #8B0000;">
+
+Путь: scenes.streetfighting.content[1].content[5].content
+Было:  СКФ
+Стало:  (СКФ)
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.title.content[0]
+Было:  Сформирована
+Стало: Сформирована 
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.title.content[2].content
+Было:  большая
+Стало: Большая
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.title.content[3]
+Было:  коалиция!
+Стало:  Коалиция!
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.subtitle
+Было:  Нам каким-то образом удалось примириться с буржуазными партиями, и теперь они снова готовы править вместе с нами.
+Стало: Нам каким-то образом удалось примириться с буржуазными партиями: теперь они снова готовы править вместе с нами.
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.unavailableSubtitle.content[0].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.unavailableSubtitle.content[1].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.subtitle
+Было:  Нам каким-то образом удалось примириться с буржуазными партиями, и теперь они снова готовы править вместе с нами.
+Стало: Нам каким-то образом удалось примириться с буржуазными партиями: теперь они снова готовы править вместе с нами.
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.unavailableSubtitle.content[0].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.unavailableSubtitle.content[1].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.police.title
+Было:  Внутренняя безопасность
+Стало: Дела полиции
+
+Путь: scenes.police.content[0].content
+Было:  Внутренняя безопасность
+Стало: Дела полиции
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.title.content[2].content
+Было:  Большая 
+Стало: Большая
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.title.content[3]
+Было:  Коалиция!
+Стало:  Коалиция!
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.subtitle
+Было:  Нам каким-то образом удалось примириться с буржуазными партиями, и теперь они снова готовы править вместе с нами.
+Стало: Нам каким-то образом удалось примириться с буржуазными партиями: теперь они снова готовы править вместе с нами.
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.unavailableSubtitle.content[0].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.unavailableSubtitle.content[1].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.inter_party_relationships.center_op.content.content.content[0]
+Было:  Мы в данный момент находимся в оппозиции к
+Стало: Мы сейчас находимся в оппозиции к 
+
+Путь: scenes.prussian_affairs_dvp.options[1].title
+Было:  Набрать дополнительных полицейских.
+Стало: Набрать больше полицейских.
+
+Путь: scenes.prussian_affairs_dvp.content.content[0].content
+Было:  Дела Пруссии
+Стало: Прусский оплот
+
+Путь: scenes.prussian_affairs_dvp.content.content[1].content[13].content
+Было:  Без Брауна во главе Пруссии темпы нашей деятельности заметно снизились.
+Стало:  Без Брауна во главе Пруссии темпы нашей деятельности заметно снизились.
+
+Путь: scenes.prussian_affairs.options[9].title[1].content
+Было:  Стальной Шлем
+Стало: Стального Шлема
+
+Путь: scenes.inter_party_relationships.center_bruning.content.content
+Было:  Полу<span style="color: #808080;">автократический</span> режим Брюнинга затрудняет построение дружественных отношений, но не делает его невозможным.
+Стало: Полу<span style="color: #808080;">автократический</span> режим Брюнинга затрудняет построение дружественных отношений, но не делает это невозможным.
+
+Путь: scenes.prussian_coalition_formation.grand_coalition_prussia.content.content[0].content[14].content[0]
+Было:  Наше решение включить <span style="color: #C0A054;">
+Стало:  Наше решение включить <span style="color: #C0A054;">
+
+Путь: scenes.inter_party_relationships.liberals.content.content.content[2]
+Было:  </span> был одним из наших ближайших союзников на протяжении всего существования республики.
+Стало: </span> — один из наших ближайших союзников на протяжении всего существования республики.
+
+Путь: scenes.prussia_election_1928.give_up_prussia.content.content[1].content[0]
+Было:  Пост министра-президента передан
+Стало: Пост министра-президента передан 
+
+Путь: scenes.prussia_election_1928.give_up_prussia.content.content[1].content[3]
+Было:  и его представителю по имени
+Стало:  и его представителю по имени 
+
+Путь: scenes.election_1928.wholesome_coalition.unavailableSubtitle.content[11].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.prussia_election_1928.grand_coalition_prussia.content.content[0].content[13]
+Было:  партиями.
+Стало:  партиями.
+
+Путь: scenes.prussia_election_1928.grand_coalition_prussia.content.content[0].content[14].content[0]
+Было:  Наше решение включить <span style="color: #C0A054;">
+Стало:  Наше решение включить <span style="color: #C0A054;">
+
+Путь: scenes.local_election_1932.weimar_coalition_wurttemberg.unavailableSubtitle.content[0].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_1932.weimar_coalition_wurttemberg.unavailableSubtitle.content[1].content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.local_election_1932.social_liberal_coalition_wurttemberg.unavailableSubtitle.content.content[0]
+Было:  Нам нужно улучшить отношения с
+Стало: Нам нужно улучшить отношения с 
+
+Путь: scenes.inter_party_relationships.options[0].title.content[0]
+Было:  Укрепить наши связи с леволиберальной
+Стало: Укрепить наши связи с леволиберальной 
+
+Путь: scenes.inter_party_relationships.content.content[1].content[10]
+Было:  Мы можем наладить и укрепить связи с этими партиями или же действовать в одиночку.
+Стало:  Мы можем наладить и укрепить связи с этими партиями или же действовать в одиночку.
+
+Путь: scenes.shuffle_leadership.add_sender.content.content
+Было:  Тони Зендер назначен советником.
+Стало: Тони Зендер назначена советником.
+
+Путь: scenes.election_1928.grand_coalition_spd_lead.content.content[0].content[23]
+Было:  партиями.
+Стало:  партиями.
+
+Путь: scenes.election_1928.muller.subtitle.content[0]
+Было:  Мюллер пользуется популярностью в партии и является предпочтительным кандидатом для
+Стало: Мюллер пользуется популярностью в партии и предпочтительный кандидат для 
+
+Путь: scenes.election_1928.muller.subtitle.content[1].content[1].content
+Было:  <span style="color: #000000;">Партии Центра</span>,
+Стало: <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.election_1928.muller.subtitle.content[1].content[2].content[1].content
+Было:  ХНП,
+Стало: ХНП
+
+Путь: scenes.election_1928.muller.subtitle.content[2].content[2].content[1].content
+Было:  ЛНП
+Стало: , ЛНП
+
+Путь: scenes.election_1928.muller.subtitle.content[3]
+Было:  и других партий.
+Стало:  и других партий.
+
