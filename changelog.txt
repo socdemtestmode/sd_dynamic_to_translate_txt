@@ -19407,3 +19407,318 @@
 Было:  <span style="color: #700000;">Коммунисты</span> начинают относиться к нему благосклоннее…
 Стало: <span style="color: #700000;">Коммунисты</span> начинают относятся к нему благосклоннее…
 
+
+========================================
+СБОРКА: 2026-03-18 17:16:57
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[0]
+Было:  Альфред Гугенберг не хочет никого поддерживать
+Стало: Альфред Гугенберг не хочет никого поддерживать 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[2]
+Было:   и предпочитает баллотироваться сам. Однако его финансовое положение подорвано тем, что он в одиночку финансировал 
+Стало: а, он предпочитает баллотироваться сам. Однако его финансовое положение подорвано тем, что он в одиночку финансировал 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[4].content[0]
+Было:  <span style="color: #003755;">
+Стало: d
+
+Путь: scenes.prussia_reichsexekution_aftermath.elections.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.schleicher_cabinet_14.press_censorship.content.content[0].content
+Было:  Используя полномочия, которые Шлейхер передал новому Министерству национального руководства, редакторам теперь рассылают свежие директивы, указывающие, что печатать, а что — нет. Это цензура, пусть и не названная так. Неповиновение влечёт за собой быстрые последствия.
+Стало: Используя полномочия, которые Шлейхер передал новому Министерству национального просвещения, редакторам теперь рассылают свежие директивы, указывающие, что печатать, а что — нет. Это цензура, пусть и не названная так. Неповиновение влечёт за собой быстрые последствия.
+
+Путь: scenes.schleicher_cabinet_14.press_censorship.content.content[2].content[2].content
+Было:  Похоже, даже нашу газету, «Форвертс», не обошли стороной репрессии. В редакцию совершают налёты, сотрудников арестовывают по надуманным обвинениям, и мы не можем даже донести правду до рабочих. 
+Стало: Похоже, даже нашу газету, «Форвертс», не обошли стороной репрессии. В редакцию совершают налёты, сотрудников арестовывают по надуманным обвинениям: мы не можем даже донести правду до рабочих. 
+
+Путь: scenes.schleicher_cabinet_14.content[1].content[2]
+Было:  </span> Шлейхер взялся за свободную немецкую прессу, в которой доминировали антишлейхеровские <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцы</span>, <span style="color: #FFCC00;">либералы</span> и ненавистный Гугенберг. Канцлер утверждает, что пресса подрывает государство и помогает <span style="color: #700000;">революционерам</span> своей предвзятостью и лживыми новостями.
+Стало: </span> Шлейхер взялся за свободную немецкую прессу, в которой доминировали антишлейхеровские <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцы</span>, <span style="color: #FFCC00;">либералы</span> и ненавистный Гугенберг. Канцлер утверждает: пресса подрывает государство и помогает <span style="color: #700000;">революционерам</span> своей предвзятостью и лживыми новостями.
+
+Путь: scenes.schleicher_cabinet_18.content[2].content
+Было:  В публичном заявлении Шлейхер объявляет об отставке и сообщает: вскоре он лично выберет преемника, которого должен будет назначить Гинденбург. Эта роль никогда не приносила ему удовольствия, и в последние месяцы он незаметно передавал свои обязанности доверенным союзникам в рейхсвере, готовя их себе на смену.
+Стало: В публичном заявлении Шлейхер объявляет об отставке и сообщает: вскоре он лично выберет преемника, которого должен будет назначить Гинденбург. Эта роль никогда не приносила ему удовольствия: в последние месяцы он незаметно передавал свои обязанности доверенным союзникам в рейхсвере, готовя их себе на смену.
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse.content.content[1].content
+Было:  Поскольку Шлейхер близок к своему концу — и политическу, и в личному, — он не может остановить распад собственного творения. Возможно, это запомнится как его величайший просчёт: всё, что он построил, закончилось бесславно. И всё же <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ская</span> система уже выхолощена за последние несколько лет.
+Стало: Поскольку Шлейхер близок к своему концу — и политическу, и личному, — он не может остановить распад собственного творения. Возможно, это запомнится как его величайший просчёт: всё, что он построил, закончилось бесславно. И всё же <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ская</span> система уже выхолощена за последние несколько лет.
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse.content.content[2].content[0]
+Было:  The Blocparteis вернутся к своему независимому статусу, и в первую очередь 
+Стало: Blocparteis вернутся к своему независимому статусу, и в первую очередь 
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse.content.content[2].content[5]
+Было:  </span>) — основанную на классовом сотрудничестве, национализме и лейборизме. Они продвигают нечто, что называют «Volksocialism», что бы это ни значило.
+Стало: </span>) — основанную на классовом сотрудничестве, национализме и лейборизме. Они продвигают нечто, что называют «народный социализм» — что бы это ни значило.
+
+Путь: scenes.inter_party_relationships.kpd_1.content.content
+Было:  <span style="color: #700000;">Коммунисты</span> с подозрением относятся к нашим попыткам сближения, особенно <span style="color: #8B0000;">сталинское</span> руководство, которое упорно называет нас «<span style="color: #c00000;">социаль-</span><span style="color: #7A3C00;">фашистами</span>». Тем не менее, связи налаживаются на низовом и местном уровнях.
+Стало: <span style="color: #700000;">Коммунисты</span> с подозрением относятся к нашим попыткам сближения, особенно <span style="color: #8B0000;">сталинское</span> руководство, которое упорно называет нас «<span style="color: #c00000;">социал-</span><span style="color: #7A3C00;">фашистами</span>». Тем не менее, связи налаживаются на низовом и местном уровнях.
+
+Путь: scenes.hunger_chancellor.content.content[2].content.content[0]
+Было:  Поскольку мы сейчас поддерживаем
+Стало: Поскольку мы сейчас поддерживаем правительство 
+
+Путь: scenes.hunger_chancellor.content.content[2].content.content[2]
+Было:   правительство, это вполне может плохо на нас отразиться.
+Стало: а, это вполне может плохо на нас отразиться.
+
+Путь: scenes.landtag_referendum_results.PLR_passed_votes.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_running.content.content[1].content[2].content[0]
+Было:  <span style="color: #000000;">
+Стало: аффилированных с <span style="color: #000000;">
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse_2.content.content.content[2]
+Было:  </span> немедленно выносится вотум недоверия
+Стало: </span> немедленно выносится вотум недоверия 
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse_2.content.content.content[4]
+Было:  ., который принимается.
+Стало: у, который принимается.
+
+Путь: scenes.z_right_party_congress.title.content[3]
+Было:  проводит съезд партии
+Стало:  проводит съезд партии
+
+Путь: scenes.z_right_party_congress.subtitle.content[1]
+Было:  склоняется к слиянию с антигугенбергскими правыми…
+Стало:  склоняется к слиянию с антигугенбергскими правыми…
+
+Путь: scenes.dealing_with_toleration.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.dealing_with_toleration_cvp.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.dealing_with_toleration_right.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.dnvp_collapse_right_coalition.vonc_no.title.content[0]
+Было:  Поддержать уменьшенную правую коалицию во главе с Партией
+Стало: Поддержать уменьшенную правую коалицию во главе с 
+
+Путь: scenes.dnvp_collapse_right_coalition.vonc_no.title.content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партией Центра</span>
+
+Путь: scenes.dnvp_collapse_right_coalition.vonc_no.title.content[3]
+Было:  и проголосовать за его утверждение.
+Стало: и проголосовать за утверждение правительства меньшинства.
+
+Путь: scenes.emergency_cuts.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.groko_prussia_collapse.collapse.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.kaiser_party_congress.title.content[1].content
+Было:  <span style="color: #000000;">Партия Центра</span>
+Стало:  — <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.kaiser_party_congress.title.content[3]
+Было:  проводит съезд партии
+Стало: проводит съезд
+
+Путь: scenes.schleicher_cabinet_20.dnef_collapse_3.content.content[0].content[2]
+Было:   он теряет то немногое доверие, которое 
+Стало:  теряет то немногое доверие, которое 
+
+Путь: scenes.stegerwald_formation_2.title.content[2].content
+Было:  <span style="color: #000000;">Партия Центра</span>
+Стало:  — <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.stegerwald_formation_2.content.content[0].content[3].content
+Было:  <span style="color: #000000;">Партия Центра</span>
+Стало:  — <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.stegerwald_formation_2.content.content[0].content[5]
+Было:  проводит съезд партии
+Стало: проводит съезд
+
+Путь: scenes.wittorf_affair.content[1].content[4]
+Было:  </span> Эрнста Тельмана, <span style="color: #700000;">
+Стало: </span> Эрнста Тельмана, функционер <span style="color: #700000;">
+
+Путь: scenes.wittorf_affair.content[1].content[6]
+Было:  </span> функционер по имени Йон Витторф обвиняется в хищении средств избирательного фонда и присвоении тысяч рейхсмарок в личных целях, а Тельман — в сокрытии этого дела. Центральный комитет партии считает это обвинение серьёзным.
+Стало: </span> по имени Йон Витторф обвиняется в хищении средств избирательного фонда и присвоении тысяч рейхсмарок в личных целях, а Тельман — в сокрытии этого дела. Центральный комитет партии считает это обвинение серьёзным.
+
+Путь: scenes.sender.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.sender.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.sender.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.seydewitz.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.seydewitz.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.seydewitz.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.kpd_ultimatum_prussia.new_elections.content.content.content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.rosenfeld.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.rosenfeld.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.rosenfeld.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.austrian_customs_union.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.austrian_customs_union.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.banking_crisis.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.banking_crisis.new_prussia_election.content.content[0].content[3]
+Было:   инициировал ответное голосование в Пруссии, добившись роспуска ландтага и назначения новых выборов.
+Стало:  инициировала ответное голосование в Пруссии, добившись роспуска ландтага и назначения новых выборов.
+
+Путь: scenes.banking_crisis.new_prussia_election.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.local_election_thuringia.grand_coalition_thuringia.unavailableSubtitle.content[0].content[1].content
+Было:  <span style="color: #000000;">Партии Центра</span>
+Стало: <span style="color: #000000;">Партией Центра</span>
+
+Путь: scenes.lvp_popfront.collapse_prussia.content.content.content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.dnf_collapse_right_coalition_lvp.new_prussia_election_called.content.content.content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.dnf_collapse_center_right_coalition.new_prussia_election_called.content.content.content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.lvp_party_congress_1928_2_luther.content[0].content[2]
+Было:  </span> проводит съезд партии
+Стало: </span> проводит съезд
+
+Путь: scenes.dnf_collapse_right_coalition.new_prussia_election_called.content.content.content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.soclib_prussia_collapse.new_elections.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.weimar_prussia_collapse.new_elections.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.socchrist_prussia_collapse.new_elections.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[1].content
+Было:  Курт Розенфельд
+Стало: Куртом Розенфельдом
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[2].content
+Было:  Эрнст Тельман
+Стало: Эрнстом Тельманом
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[3].content
+Было:  Вилли Мюнценберг
+Стало: Вилли Мюнценбергом
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[4].content
+Было:  Карл фон Осецкий
+Стало: Карлом фон Осецким
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[5].content
+Было:  Генрих Манн
+Стало: Генрихом Манном
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[6]
+Было:  , выдержало все брошенные ему вызовы — предательство <span style="color: #C0A054;">капиталистов</span>, саботаж <span style="color: #3E88B3;">в государственных органах</span> и постоянные подрывные действия <span style="color: #808080;">реакционеров</span>. В 1937 году, выиграв вторые выборы и немного увеличив свое большинство, правительство столкнулось с попыткой переворота, возглавляемого <span style="color: #808080;">реакционными</span> элементами рейхсвера и все более радикализирующимися <span style="color: #3E88B3;">националистами</span> и <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правыми</span> силами.
+Стало:  выдержало все брошенные ему вызовы — предательство <span style="color: #C0A054;">капиталистов</span>, саботаж <span style="color: #3E88B3;">в государственных органах</span> и постоянные подрывные действия <span style="color: #808080;">реакционеров</span>. В 1937 году, выиграв вторые выборы и немного увеличив свое большинство, правительство столкнулось с попыткой переворота, возглавляемого <span style="color: #808080;">реакционными</span> элементами рейхсвера и все более радикализирующимися <span style="color: #3E88B3;">националистами</span> и <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правыми</span> силами.
+
+Путь: scenes.presidential_election_1932_candidate.braun.options[4].title.content[0]
+Было:  Поддержать
+Стало: Поддержать 
+
+Путь: scenes.presidential_election_1932_candidate.braun.options[5].title.content[0]
+Было:  Поддержать
+Стало: Поддержать 
+
+Путь: scenes.presidential_election_1932_candidate.braun.options[6].title.content[0]
+Было:  Поддержка
+Стало: Нам нужен 
+
+Путь: scenes.presidential_election_1932_candidate.braun.options[6].title.content[2]
+Было:   со стороны <span style="color: #700000;">
+Стало:  от <span style="color: #700000;">
+
+Путь: scenes.prussian_coalition_formation.call_new_elections.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.prussia_election_1928.call_new_elections_2.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.content.content[3].content[5]
+Было:  исполняет обязанности президента.
+Стало:  исполняет обязанности президента.
+
+Путь: scenes.prussia_election_1928.call_new_elections_2_rubicon.content.content[1].content[0]
+Было:  Новые выборы в Пруссии назначены на
+Стало: Новые выборы в Пруссии назначены на 
+
+Путь: scenes.death_of_hindenburg_president.content.content[3].content[0]
+Было:  Новые президентские выборы должны состояться как можно скорее. Политический ландшафт Германии полностью открыт для кандидатов самых разных взглядов. Тем временем председатель Верховного суда
+Стало: Новые президентские выборы должны состояться как можно скорее. Политический ландшафт Германии полностью открыт для кандидатов самых разных взглядов. Тем временем председатель Верховного суда 
+
+Путь: scenes.death_of_hindenburg_president.content.content[3].content[3]
+Было:  исполняет обязанности президента.
+Стало:  исполняет обязанности президента.
+
+Путь: scenes.election_1928.no_majority_schleicher_2.content.content[0].content[1].content[2]
+Было:  </span>, не желая, чтобы другие партии держали его правительство в заложниках. 
+Стало: </span> и не желает, чтобы другие партии держали его правительство в заложниках. 
+
