@@ -16907,3 +16907,170 @@
 Было:  Министерство, отвечающее за вооружённые силы, обычно не наша сфера влияния; генерал Грёнер и буржуазные консерваторы будут недовольны
 Стало: Министерство, отвечающее за вооружённые силы, обычно не наша сфера влияния; генерал Грёнер и буржуазные консерваторы будут недовольны, 
 
+
+========================================
+СБОРКА: 2026-03-18 07:31:58
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.schleicher_10.schleicher_2.content.content[7].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[18].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[28].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[18].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[28].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.weimar_prussia_collapse.right_coalition.subtitle.content[8].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.library.curr_gov.content.content[5].content[39].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.status.polls.content.content[18].content[0].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.status.polls.content.content[21].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.status.polls.content.content[22].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.status.polls.content.content[23].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.status.polls.content.content[24].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.status.polls.content.content[25].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.status.polls.content.content[26].content[20]
+Было:  %, Другие: 
+Стало: %, Прочие: 
+
+Путь: scenes.local_election_1932.bavaria.content.content[16].content[0].content[6].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.socchrist_prussia_collapse.right_coalition.subtitle.content[8].content
+Было:  другие
+Стало: Прочие
+
+Путь: scenes.soclib_prussia_collapse.center_right_coalition.subtitle.content[7].content
+Было:  другие
+Стало: Прочие
+
+Путь: scenes.prussia_election_1928.schleicher_right_coalition_prussia.subtitle.content[7].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussia_election_1928.schleicher_right_coalition_prussia.unavailableSubtitle.content[5].content
+Было:  &nbsp;+ Другие
+Стало: &nbsp;+ Прочие
+
+Путь: scenes.socchrist_prussia_collapse.center_right_coalition.subtitle.content[7].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition.subtitle.content[7].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition.subtitle.content[7].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition_kvp.subtitle.content[6].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition_kvp.subtitle.content[6].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.post_election_1928.content.content[49].content[0].content[9].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.post_election_1928.content.content[50].content[0].content[8].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.post_election_1928.content.content[52].content[0].content[7].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.wholesome_coalition.subtitle.content[14].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.schleicher_right_coalition.subtitle.content[7].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussian_coalition_formation.right_coalition_prussia.subtitle.content[8].content
+Было:  другие
+Стало: Прочие
+
+Путь: scenes.prussian_coalition_formation.center_right_coalition_prussia.subtitle.content[7].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[18].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[28].content[0].content[1].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_kvp_prussia.subtitle.content[6].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussia_election_1928.right_coalition_prussia.subtitle.content[8].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussia_election_1928.center_right_coalition_prussia.subtitle.content[7].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.prussia_election_1928.bourgeois_coalition_kvp_prussia.subtitle.content[6].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.right_coalition.subtitle.content[8].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.center_right_coalition.subtitle.content[9].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.election_1928.unity_government.subtitle.content[10].content
+Было:  Другие
+Стало: Прочие
+
