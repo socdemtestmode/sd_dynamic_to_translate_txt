@@ -19722,3 +19722,410 @@
 Было:  </span>, не желая, чтобы другие партии держали его правительство в заложниках. 
 Стало: </span> и не желает, чтобы другие партии держали его правительство в заложниках. 
 
+
+========================================
+СБОРКА: 2026-03-18 18:34:16
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.bruning_toleration_right_collapse_2.vonc_yes.subtitle.content[0]
+Было:  Президент
+Стало: Президент 
+
+Путь: scenes.schleicher_reichstag_7.reichstag.content.content[1].content[0]
+Было:  Новые выборы в Рейхстаг назначены на
+Стало: Новые выборы в Рейхстаг назначены на 
+
+Путь: scenes.papen_cabinet_1.papen_2.content.content[1].content[0]
+Было:  Новые выборы в рейхстаг назначены на
+Стало: Новые выборы в Рейхстаг назначены на 
+
+Путь: scenes.schleicher_reichstag_8.content.content[2].content[0]
+Было:  Новые выборы в рейхстаг назначены на
+Стало: Новые выборы в Рейхстаг назначены на 
+
+Путь: scenes.credits.music.content[4].content
+Было:  Erich-Weinert-Ensemble. Рабочие Вены. Архив Интернета, http://archive.org/details/WorkersOfVienna. Дата обращения: 29 февр. 2024 г.
+Стало: Erich-Weinert-Ensemble. Arbeiter von Wien. Архив Интернета, http://archive.org/details/WorkersOfVienna. Дата обращения: 29 февр. 2024 г.
+
+Путь: scenes.capital_strike.title
+Было:  Забастовка капитала
+Стало: Бегство капитала
+
+Путь: scenes.capital_strike.content[0].content
+Было:  Забастовка капитала
+Стало: Бегство капитала
+
+Путь: scenes.economic_policy.content.content[1].content[1].content
+Было:  Если наш бюджет уйдёт в слишком большой минус, почти наверняка произойдёт забастовка капитала.
+Стало: Если наш бюджет уйдёт в слишком большой минус, почти наверняка произойдёт бегство капитала.
+
+Путь: scenes.game_over.achievements.content.content[26].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Хиршфельд</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">м</span><span style="color: yellow;">о</span><span style="color: green;">се</span><span style="color: blue;">ксу</span><span style="color: purple;">алов</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Hirschfeld</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">м</span><span style="color: yellow;">о</span><span style="color: green;">се</span><span style="color: blue;">ксу</span><span style="color: purple;">алов</span> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[28].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Anders als die Andern</div> <div class="achievement_subtitle"> — сексуальные меньшинства защитят Республику.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Anders als die Andern</div> <div class="achievement_subtitle"> — сексуальные меньшинства защищают Республику (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[41].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Соединённые Штаты Европы</div> <div class="achievement_subtitle"> - сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Vereinigte Staaten von Europa</div> <div class="achievement_subtitle"> - сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[42].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heidelberger Programm</div> <div class="achievement_subtitle"> - достигнуть целей Гейдельбергской программы <span style="color: #c00000; font-weight: bold;">СДПГ</span>: социальное обеспечение, судебная реформа, права женщин на рабочем месте и в семье, прогрессивное налогообложение, производственные советы и создание <span style="color: #001489;">Европейского</span> <span style="color: #FFDD00;">союза</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heidelberger Programm</div> <div class="achievement_subtitle"> - достигнуть целей Гейдельбергской программы <span style="color: #c00000; font-weight: bold;">СДПГ</span>: рост социального обеспечения, судебная реформа, права женщин на рабочем месте и в семье, прогрессивное налогообложение, производственные советы при фабриках и создание <span style="color: #001489;">Европейского</span> <span style="color: #FFDD00;">союза</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[53].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель становится лидером <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель — лидер <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[54].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). Объединение ХНП и НННП. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[56].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Либеральная блоковая партия</div> <div class="achievement_subtitle"> - заключите избирательный союз с <span style="color: #D3C24D; font-weight: bold;">НДП</span> Леммера. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Liberale Blocpartei</div> <div class="achievement_subtitle"> - сформируйте общие избирательные списки с <span style="color: #D3C24D; font-weight: bold;">НДП</span> Леммера. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[59].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialliberale Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социально</span>-<span style="color: #D3C24D;">либеральную</span> коалицию. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialliberale Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #D3C24D;">либеральную</span> коалицию. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[60].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialchristliche Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социально</span>-<span style="color: #000000;">христианскую</span> коалицию. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialchristliche Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #000000;">христианскую</span> коалицию. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[68].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и имеет относительное большинство среди рабочих. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и относительное большинство среди рабочих. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[75].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - потеряйте <span style="color: #c00000; font-weight: bold">СДПГ</span> в пользу <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - <span style="color: #c00000; font-weight: bold">СДПГ</span> «приручена» в состав <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[111].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach der СДПГ, wir!</div> <div class="achievement_subtitle"> — получите концовку «Авангард у руля». </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach der SPD, wir!</div> <div class="achievement_subtitle"> — получите концовку «Авангард пролетариата у руля». </div> 
+
+Путь: scenes.game_over.achievements.content.content[112].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Eurokommunismus</div> <div class="achievement_subtitle"> - к концу игры <span style="color: #700000; font-weight: bold;">КПГ</span> входит в состав общенационального и всех земельных правительств, все требования <span style="color: #700000; font-weight: bold;">КПГ</span> выполнены, и достигнута либерально-демократическая концовка. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Eurokommunismus</div> <div class="achievement_subtitle"> - к концу игры <span style="color: #700000; font-weight: bold;">КПГ</span> входит в состав общенационального и всех земельных правительств, все требования <span style="color: #700000; font-weight: bold;">КПГ</span> выполнены, но получена концовка либеральной демократии. </div> 
+
+Путь: scenes.game_over.achievements.content.content[129].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sieg fÃ¼r die Republik</div> <div class="achievement_subtitle"> — победить в гражданской войне.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sieg für die Republik</div> <div class="achievement_subtitle"> — победить в гражданской войне.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[129].content[2].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Bollwerk der Demokratie</div> <div class="achievement_subtitle"> — оказать сопротивление Прусскому путчу и победить.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Bollwerk der Demokratie</div> <div class="achievement_subtitle"> — окажите сопротивление Прусскому путчу и победите без боя. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[136].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">р</span>ская коалиция</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Wei</span><span style="color: #DD0000;">ma</span><span style="color: #FFCC00;">ar</span> Koalition</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[139].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Народная партия (Volkspartei)</div> <div class="achievement_subtitle"> — <span style="color: #c00000; font-weight: bold;">СДПГ</span> — Общенародная партия.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Volkspartei</div> <div class="achievement_subtitle"> — <span style="color: #c00000; font-weight: bold;">СДПГ</span> — Общенародная партия.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[149].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Hirschfeld</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">лов</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Hirschfeld</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">лов</span> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[160].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Polykrise</div> <div class="achievement_subtitle"> - Пережить забастовку капитала и <span style="color: #7A3C00;">фашистский</span> переворот.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Polykrise</div> <div class="achievement_subtitle"> - Пережить бегство капитала и <span style="color: #7A3C00;">фашистский</span> переворот.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[164].content[0].content[4]
+Было:           <img src="img/achievement/eu.png" alt="Иконка «Соединённые Штаты Европы»" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+Стало:          <img src="img/achievement/eu.png" alt="Иконка «Vereinigte Staaten von Europa»" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+
+Путь: scenes.game_over.achievements.content.content[164].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Соединённые Штаты Европы</div> <div class="achievement_subtitle"> — сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Vereinigte Staaten von Europa</div> <div class="achievement_subtitle"> — сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[167].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">ZeppelinkapitÃ¤n</div> <div class="achievement_subtitle"> — Гуго Эккенер избран президентом.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Zeppelinkapitän</div> <div class="achievement_subtitle"> — Гуго Эккенер избран президентом.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[171].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Рабочие Вены</div> <div class="achievement_subtitle"> - победа <span style="color: #A50034; font-weight: bold;">SDAPÖ</span> в Австрии.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Arbeiter von Wien</div> <div class="achievement_subtitle"> - победа <span style="color: #A50034; font-weight: bold;">SDAPÖ</span> в Австрии.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[173].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sturm und Drang</div> <div class="achievement_subtitle"> — перейти Рубикон. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sturm und Drang</div> <div class="achievement_subtitle"> — Перейдите Рубикон. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[174].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">HITLER TOT</div> <div class="achievement_subtitle"> - заставьте <span style="color: #7A3C00;">Адольфа Гитлера</span> покончить с собой на 12 лет раньше. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">HITLER TOT</div> <div class="achievement_subtitle"> - Заставьте <span style="color: #7A3C00;">Адольфа Гитлера</span> покончить с собой на 12 лет раньше. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[176].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель становится лидером <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель — лидер <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[177].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). Объединение ХНП и НННП. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[185].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Доминирующая партийная система</div> <div class="achievement_subtitle"> - получите концовку «Полуторапартийная система». </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Dominantes Parteiensystem</div> <div class="achievement_subtitle"> - получите концовку «Полуторапартийная система». </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[191].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и имеет относительное большинство среди рабочих. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и относительное большинство среди рабочих. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[198].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - потеряйте <span style="color: #c00000; font-weight: bold">СДПГ</span> в пользу <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - <span style="color: #c00000; font-weight: bold">СДПГ</span> «приручена» в состав <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[211].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der beliebte PrÃ¤sident</div> <div class="achievement_subtitle"> — добейтесь, чтобы Отто Браун получил 60% или более голосов в первом туре президентских выборов 1932 года. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der beliebte PrÃ¤sident</div> <div class="achievement_subtitle"> — Отто Браун получил 60% или более голосов в первом туре президентских выборов 1932 года. </div> 
+
+Путь: scenes.game_over.achievements.content.content[216].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Modeerscheinung</div> <div class="achievement_subtitle"> — <span style="color: #7A3C00; font-weight: bold;">НСДАП</span> набрала меньше голосов, чем в мае 1928 года. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Modeerscheinung</div> <div class="achievement_subtitle"> — <span style="color: #7A3C00; font-weight: bold;">НСДАП</span> на последних выборах набрала меньше голосов, чем в мае 1928 года. </div> 
+
+Путь: scenes.game_over.achievements.content.content[224].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, Thälmann</div> <div class="achievement_subtitle"> — довести <span style="color: #7A3C00;">Гитлера</span> до самоубийства, добиться, чтобы Шлейхер заключил в тюрьму <span style="color: #700000;">Тельмана</span>, и победить <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, Thälmann</div> <div class="achievement_subtitle"> — довести <span style="color: #7A3C00;">Гитлера</span> до самоубийства, Шлейхер заключил в тюрьму <span style="color: #700000;">Тельмана</span> — а вы победили <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+
+Путь: scenes.game_over.achievements.content.content[225].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Лихой рейд Вельса</div> <div class="achievement_subtitle"> - изберите Отто Вельса президентом. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wels' wilder Ritt</div> <div class="achievement_subtitle"> - изберите Отто Вельса президентом. </div> 
+
+Путь: scenes.game_over.achievements.content.content[253].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Roter Zar von PreuÃŸen</div> <div class="achievement_subtitle"> - Отто Браун становится президентом, канцлером и министром-президентом.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Roter Zar von Preußen</div> <div class="achievement_subtitle">- Отто Браун — президент, канцлер и министром-президент.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[255].content[0].content[4]
+Было:           <img src="img/achievement/einheitsfront_2.png" alt="Иконка Sieg fÃ¼r die Einheitsfront" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+Стало:          <img src="img/achievement/einheitsfront_2.png" alt="Sieg fÃ¼r die Einheitsfront Icon" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+
+Путь: scenes.game_over.achievements.content.content[255].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sieg fÃ¼r die Einheitsfront</div> <div class="achievement_subtitle"> — сформируйте Левый фронт, который выстоит перед требованиями <span style="color: #700000; font-weight: bold;">КПГ</span>.</div> </div> 
+Стало: <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sieg für die Einheitsfront</div> <div class="achievement_subtitle"> — сформируйте Левый фронт, который выстоит перед требованиями <span style="color: #700000; font-weight: bold;">КПГ</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[263].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der rote MillionÃ¤r</div> <div class="achievement_subtitle"> - Вилли Мюнценберг — президент.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der rote Millionär</div> <div class="achievement_subtitle"> - Вилли Мюнценберг — президент.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[266].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Ã¶sterreichische Gefreite</div> <div class="achievement_subtitle"> — депортировали <span style="color: #7A3C00;">Гитлера</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Ã¶sterreichische Gefreite</div> <div class="achievement_subtitle"> — Вы депортировали <span style="color: #7A3C00;">Гитлера</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[268].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wirtschaftswunder</div> <div class="achievement_subtitle"> - После 1932 года уровень безработицы ниже, чем в 1928 году, инфляция ниже 5% и бюджетный профицит.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wirtschaftswunder</div> <div class="achievement_subtitle"> - После 1932 года уровень безработицы ниже, чем в 1928 году, инфляция ниже 5% и у вас профицит бюджета.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[270].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Свободная рыночная экономика</div> <div class="achievement_subtitle">- Продержитесь до конца игры, не принимая экономического плана.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Freie Marktwirtschaft</div> <div class="achievement_subtitle">- Сохраните республику, не принимая ни один экономический план.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[272].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Хиршфельд</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">м</span><span style="color: yellow;">о</span><span style="color: green;">се</span><span style="color: blue;">ксу</span><span style="color: purple;">алов</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Hirschfeld</div> <div class="achievement_subtitle"> - проведите реформы в защиту прав <span style="color: red;">го</span><span style="color: orange;">м</span><span style="color: yellow;">о</span><span style="color: green;">се</span><span style="color: blue;">ксу</span><span style="color: purple;">алов</span> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[273].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">MÃ¤dchen in Uniform</div> <div class="achievement_subtitle"> — место женщины — в Рейхсбаннере.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Mädchen in Uniform</div> <div class="achievement_subtitle">- место женщины — в Рейхсбаннере.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[274].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Anders als die Andern</div> <div class="achievement_subtitle"> — сексуальные меньшинства защитят Республику.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Anders als die Andern</div> <div class="achievement_subtitle"> — сексуальные меньшинства защищают Республику (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[279].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Католический социализм</div> <div class="achievement_subtitle"> – Поддержка <span style="color: #c00000; font-weight: bold;">СДПГ</span> католиками составляет не менее 50%.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Katholischer Sozialismus</div> <div class="achievement_subtitle"> – Поддержка <span style="color: #c00000; font-weight: bold;">СДПГ</span> католиками составляет не менее 50%.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[280].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">GroÃŸe Народная партия (Volkspartei)</div> <div class="achievement_subtitle"> — Поддержка <span style="color: #c00000; font-weight: bold;">СДПГ</span> среди всех классов составляет не менее 40%.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Große Volkspartei</div> <div class="achievement_subtitle"> — Поддержка <span style="color: #c00000; font-weight: bold;">СДПГ</span> среди всех классов составляет не менее 40%.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[283].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Polykrise</div> <div class="achievement_subtitle"> - пережить забастовку капитала и <span style="color: #7A3C00;">фашистский</span> переворот.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Polykrise</div> <div class="achievement_subtitle"> - пережить бегство капитала и <span style="color: #7A3C00;">фашистский</span> переворот.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[287].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Соединённые Штаты Европы</div> <div class="achievement_subtitle"> – сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Vereinigte Staaten von Europa</div> <div class="achievement_subtitle"> – сформируйте «<span style="color: #001489;">Европейский</span> <span style="color: #FFDD00;">Союз</span>».</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[288].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heidelberger Programm</div> <div class="achievement_subtitle"> - достигните целей Гейдельбергской программы <span style="color: #c00000; font-weight: bold;">СДПГ</span>: социальное обеспечение, судебная реформа, права женщин на рабочем месте и в семье, прогрессивное налогообложение, производственные советы и создание <span style="color: #001489;">Европейского</span> <span style="color: #FFDD00;">союза</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heidelberger Programm</div> <div class="achievement_subtitle"> - достигните целей Гейдельбергской программы <span style="color: #c00000; font-weight: bold;">СДПГ</span>: рост социального обеспечения, судебная реформа, права женщин на рабочем месте и в семье, прогрессивное налогообложение, производственные советы на фабриках и создание <span style="color: #001489;">Европейского</span> <span style="color: #FFDD00;">союза</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[290].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">ZeppelinkapitÃ¤n</div> <div class="achievement_subtitle"> - Гуго Эккенер избран президентом.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Zeppelinkapitän</div> <div class="achievement_subtitle"> - Гуго Эккенер избран президентом.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[291].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wahlrechts fÃ¼r Frauen</div> <div class="achievement_subtitle"> - Мари Юхач избрана президентом.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wahlrechts für Frauen</div> <div class="achievement_subtitle"> - Мари Юхач избрана президентом.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[293].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Республика науки</div> <div class="achievement_subtitle"> — Альберт Эйнштейн избран президентом.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Republik der Wissenschaft</div> <div class="achievement_subtitle"> — Альберт Эйнштейн избран президентом.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[294].content[0].content[4]
+Было:           <img src="img/achievement/arbeiter_von_wien.png" alt="Иконка «Рабочие Вены»" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+Стало:          <img src="img/achievement/arbeiter_von_wien.png" alt="Иконка «Arbeiter von Wien»" style="width: 100%; height: 100%; object-fit: cover; display: block;"> 
+
+Путь: scenes.game_over.achievements.content.content[294].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Рабочие Вены</div> <div class="achievement_subtitle"> — Победа <span style="color: #A50034; font-weight: bold;">SDAPÃ–</span> в Австрии.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Arbeiter von Wien</div> <div class="achievement_subtitle"> — Победа <span style="color: #A50034; font-weight: bold;">SDAPÖ</span> в Австрии.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[299].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель становится лидером <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neuer Nationalismus</div> <div class="achievement_subtitle"> - Франк Глацель — лидер <span style="color: #C0A054; font-weight: bold;">ННП</span> или <span style="color: #FFCC00; font-weight: bold;">ЛНП</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[300].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Christliche Volkspartei</div> <div class="achievement_subtitle"> - сформирована <i>настоящая</i> <span style="color: #000000;">Христианская народная партия</span> (<span style="color: #000000; font-weight: bold;">ХНП</span>). Объединение ХНП и НННП </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[302].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Либеральная блоковая партия</div> <div class="achievement_subtitle"> - заключите избирательный союз с <span style="color: #D3C24D; font-weight: bold;">НДП</span> Леммера. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Liberale Blocpartei</div> <div class="achievement_subtitle"> - Сформируйте общие избирательные списки с <span style="color: #D3C24D; font-weight: bold;">НДП</span> Леммера. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[305].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialliberale Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социально</span>-<span style="color: #D3C24D;">либеральную</span> коалицию. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialliberale Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #D3C24D;">либеральную</span> коалицию. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[306].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialchristliche Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социально</span>-<span style="color: #000000;">христианскую</span> коалицию. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialchristliche Koalition</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #000000;">христианскую</span> коалицию. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[308].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Доминирующая партийная система</div> <div class="achievement_subtitle"> - получите концовку «Полуторапартийная система». </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Dominantes Parteiensystem</div> <div class="achievement_subtitle"> - получите концовку «Полуторапартийная система». </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[309].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der GroÃŸe Neustart</div> <div class="achievement_subtitle"> - достигните концовки «<span style="color: #001489;">Европейское</span> <span style="color: #FFDD00;">будущее</span>». </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Große Neustart</div> <div class="achievement_subtitle"> - достигните концовки «<span style="color: #001489;">Европейское</span> <span style="color: #FFDD00;">будущее</span>». </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[310].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Deutsche Tory Demokratie</div> <div class="achievement_subtitle"> - добейтесь того, чтобы партия <span style="color: #3E88B3; font-weight: bold;">НННП</span> под руководством Тревирануса с курсом «демократии тори» стала второй по величине партией в рейхстаге. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Deutsche Tory Demokratie</div> <div class="achievement_subtitle"> - Добейтесь того, чтобы партия <span style="color: #3E88B3; font-weight: bold;">НННП</span> под руководством Тревирануса с идеологией «тори-демократия» стала второй по величине партией в рейхстаге. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[313].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Frahm und Brandt</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #000000;">христианскую</span> коалицию с <i>настоящей</i> <span style="color: #000000; font-weight: bold;">ХНП</span>, при этом Левые должны остаться в составе <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Frahm und Brandt</div> <div class="achievement_subtitle"> - сформируйте <span style="color: #c00000;">социал</span>-<span style="color: #000000;">христианскую</span> коалицию с <i>настоящей</i> <span style="color: #000000; font-weight: bold;">ХНП</span>, при этом фракция Левых должна остаться в <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[314].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и имеет относительное большинство среди рабочих. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Arbeiterpartei</div> <div class="achievement_subtitle"> - <span style="color: #3E88B3; font-weight: bold;">НННП</span> Ламбаха занимает 20% мест в рейхстаге и относительное большинство среди рабочих. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[317].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Интересный эксперимент</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">DStP</span> была сформирована и выстояла. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Интересный эксперимент</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">НГП</span> была сформирована и выстояла. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[320].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach Schleicher, wir!</div> <div class="achievement_subtitle"> — добейтесь победы кандидата от <span style="color: #700000; font-weight: bold;">КПГ</span> на президентских выборах 1934 года, перейдя Рубикон. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach Schleicher, wir!</div> <div class="achievement_subtitle"> — добейтесь победы кандидата от <span style="color: #700000; font-weight: bold;">КПГ</span> на президентских выборах 1934 года после перехода Рубикона. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[321].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - потеряйте <span style="color: #c00000; font-weight: bold">СДПГ</span> в пользу <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sozialdemokratische Blockpartei</div> <div class="achievement_subtitle"> - <span style="color: #c00000; font-weight: bold">СДПГ</span> «приручена» в состав <span style="color: #BFC8CC; font-weight: bold;">ФНЕГ</span>. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[323].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wer braucht schon Freunde?</div> <div class="achievement_subtitle"> - Иметь враждебные отношения со всеми партиями. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wer braucht schon Freunde?</div> <div class="achievement_subtitle"> - Имейте враждебные отношения со всеми партиями. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[324].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heuchelei</div> <div class="achievement_subtitle"> - преследовать Эрнста Рёма за <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ность</span>, а затем легализовать её. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Heuchelei</div> <div class="achievement_subtitle"> - Посадите Эрнста Рёма за <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ность</span>, а затем легализуйте её (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России). </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[326].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Leere Parolen</div> <div class="achievement_subtitle"> - править при однопартийном большинстве <span style="color: #c00000; font-weight: bold;">СДПГ</span>, провалив 10 или более правительственных обязательств. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Leere Parolen</div> <div class="achievement_subtitle"> - править при однопартийном большинстве <span style="color: #c00000; font-weight: bold;">СДПГ</span>, провалив 10 раз или более «бремя власти». </div> 
+
+Путь: scenes.game_over.achievements.content.content[327].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Мир во всём мире</div> <div class="achievement_subtitle"> — подпишите договор о создании <span style='color: #001489;'>Европейского</span> <span style='color: #FFDD00;'>Союза</span>, ни разу не вступая в переговоры. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Weltfrieden</div> <div class="achievement_subtitle"> — подпишите договор о создании <span style='color: #001489;'>Европейского</span> <span style='color: #FFDD00;'>Союза</span>, ни разу не вступая в переговоры о его создании. </div> 
+
+Путь: scenes.game_over.achievements.content.content[328].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Синяя зима</div> <div class="achievement_subtitle"> — Густав Винтер получает 1% или более голосов на президентских выборах 1932 года. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Blauer Winter</div> <div class="achievement_subtitle"> — Густав Винтер получил 1% или более голосов на президентских выборах 1932 года. Его процент голосов растёт от инфляции. </div> 
+
+Путь: scenes.game_over.achievements.content.content[329].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Светофорная коалиция</div> <div class="achievement_subtitle"> - в Баварии была сформирована <span style="color: #c00000;">свето</span><span style="color: #FFCC00;">фор</span><span style="color: #38C538;">ная</span> коалиция. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Ampelkoalition</div> <div class="achievement_subtitle"> - в Баварии сформирована <span style="color: #c00000;">свето</span><span style="color: #FFCC00;">фор</span><span style="color: #38C538;">ная</span> коалиция. </div> 
+
+Путь: scenes.game_over.achievements.content.content[331].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Soziale Politik fÃ¼r Dich</div> <div class="achievement_subtitle"> — четыре года подряд оставаться у власти и ни разу не провалить правительственное испытание. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Soziale Politik für Dich</div> <div class="achievement_subtitle"> — четыре года подряд оставаться у власти и ни разу не провалить «Бремя власти». </div> 
+
+Путь: scenes.game_over.achievements.content.content[333].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wahre Bundesrepublik</div> <div class="achievement_subtitle"> - добейтесь избрания Хойса президентом, а Аденауэра — канцлером, при этом Аденауэр должен возглавлять <span style='color: #000000; font-weight: bold;'>ХНП</span>, а <span style='color: #FFCC00; font-weight: bold;'>ЛНП</span> должна быть сформирована. Все конституционные реформы должны быть приняты, <span style='color: #7A3C00; font-weight: bold;'>НСДАП</span> и <span style='color: #700000; font-weight: bold;'>КПГ</span> не должны преодолеть 5-процентный барьер, Шумахер должен быть доступен в качестве советника, а в <span style='color: #c00000; font-weight: bold;'>СДПГ</span> должны доминировать реформисты. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wahre Bundesrepublik</div> <div class="achievement_subtitle"> - добейтесь избрания Хойса президентом, а Аденауэра — канцлером, при этом Аденауэр должен возглавлять <span style='color: #000000; font-weight: bold;'>ХНП</span>, а <span style='color: #FFCC00; font-weight: bold;'>ЛНП</span> сформирована. Все конституционные реформы приняты, <span style='color: #7A3C00; font-weight: bold;'>НСДАП</span> и <span style='color: #700000; font-weight: bold;'>КПГ</span> не преодолели 5% барьер, Шумахер доступен в качестве советника, а в <span style='color: #c00000; font-weight: bold;'>СДПГ</span> доминируют реформисты. </div> 
+
+Путь: scenes.game_over.achievements.content.content[334].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der beliebte Präsident</div> <div class="achievement_subtitle"> - Отто Браун должен получить 60% или более голосов в первом туре президентских выборов 1932 года. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der beliebte Präsident</div> <div class="achievement_subtitle"> - Отто Браун получил 60% или более голосов в первом туре президентских выборов 1932 года. </div> 
+
+Путь: scenes.game_over.achievements.content.content[335].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Необходимость</div> <div class="achievement_subtitle"> — набирать на каждых выборах больше голосов, чем на предыдущих. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Notwendigkeit</div> <div class="achievement_subtitle"> — набирайте на каждых последующих выборах больше голосов, чем на предыдущих. </div> 
+
+Путь: scenes.game_over.achievements.content.content[336].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Возвращение</div> <div class="achievement_subtitle"> — быть отправленным в отставку Гинденбургом, а затем вернуться с правительством большинства от <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Comeback</div> <div class="achievement_subtitle"> — Ваше правительство отправил в отставку Гинденбург, но на досрочных выборах вы сформировали правительство большинства от <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> 
+
+Путь: scenes.game_over.achievements.content.content[340].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Catastrophepolitik</div> <div class="achievement_subtitle"> — управлять страной с однопартийным кабинетом <span style="color: #c00000; font-weight: bold;">СДПГ</span> после 5 или более выборов, при этом <span style="color: #c00000; font-weight: bold;">СДПГ</span> никогда не вступала в правительство и не воздерживалась от вотума недоверия. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Catastrophepolitik</div> <div class="achievement_subtitle"> — управлять страной с однопартийным кабинетом <span style="color: #c00000; font-weight: bold;">СДПГ</span> после 5 или более выборов, при этом <span style="color: #c00000; font-weight: bold;">СДПГ</span> до этого никогда не входила в правительство и не воздерживалась от вотума недоверия. </div> 
+
+Путь: scenes.game_over.achievements.content.content[341].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Народная партия (Volkspartei) für das Volk</div> <div class="achievement_subtitle"> — сделать <span style="color: #c00000; font-weight: bold;">СДПГ</span> Общенародной партией и достичь максимального числа партий с «Народной партией» в названии. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Volkspartei für das Volk</div> <div class="achievement_subtitle"> — <span style="color: #c00000; font-weight: bold;">СДПГ</span> — Общенародная партия, а также достигните максимального числа партий со словом «Народная» в названии. </div> 
+
+Путь: scenes.game_over.achievements.content.content[354].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue GeschÃ¤ftsfÃ¼hrung</div> <div class="achievement_subtitle"> - кандидат от <span style="color: #c00000; font-weight: bold;">СДПГ</span> побеждает на президентских выборах 1932 года, воздерживаясь от вотума недоверия Брюнингу. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Neue Geschäftsführung</div> <div class="achievement_subtitle"> - кандидат от <span style="color: #c00000; font-weight: bold;">СДПГ</span> побеждает на президентских выборах 1932 года и при этом партия воздерживалась от вотумов недоверия Брюнингу. </div> 
+
+Путь: scenes.game_over.achievements.content.content[355].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Rotes Bayern</div> <div class="achievement_subtitle"> - сформировать в Баварии правительство большинства, состоящее только из членов <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Rotes Bayern</div> <div class="achievement_subtitle"> - сформировать в Баварии правительство большинства, состоящее только из <span style="color: #c00000; font-weight: bold;">СДПГ</span>. </div> 
+
+Путь: scenes.game_over.achievements.content.content[356].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">1919 GerÃ¤cht</div> <div class="achievement_subtitle"> - получите концовку «Спартак восстаёт вновь». </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">1919 Gerächt</div> <div class="achievement_subtitle"> - получите концовку «Спартакисты восстают вновь». </div> 
+
+Путь: scenes.game_over.achievements.content.content[357].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach der СДПГ, wir!</div> <div class="achievement_subtitle"> - получите концовку «Авангард у руля». </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Nach der SPD, wir!</div> <div class="achievement_subtitle"> - получите концовку «Авангард пролетариата у руля». </div> 
+
+Путь: scenes.game_over.achievements.content.content[359].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Kriegswirtschaft</div> <div class="achievement_subtitle"> — <span style="color: #c00000; font-weight: bold;">СДПГ</span> находится у власти, поддерживаются максимальные пошлины, численность рейхсвера составляет не менее 200 тысяч человек, безработица ниже 15%, а бюджет профицитен. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Kriegswirtschaft</div> <div class="achievement_subtitle"> — <span style="color: #c00000; font-weight: bold;">СДПГ</span> находится у власти, поддерживаются максимальные пошлины, численность рейхсвера составляет не менее 200 тысяч человек, безработица ниже 15%, а бюджет профицитный. </div> 
+
+Путь: scenes.game_over.achievements.content.content[360].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sechs Sieben</div> <div class="achievement_subtitle"> - <span style='color: #c00000; font-weight: bold;'>СДПГ</span> получает не менее 67% голосов и мест в рейхстаге и правит в составе <span style="color: #c00000;">кетчупно</span>-<span style="color: #D3C24D;">горчичной</span> коалиции. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sechs Sieben</div> <div class="achievement_subtitle"> - <span style='color: #c00000; font-weight: bold;'>СДПГ</span> по поросам имеет не менее 67% голосов, а также мест в рейхстаге и правит в составе <span style="color: #c00000;">социал</span>-<span style="color: #D3C24D;">либеральной</span> коалиции. </div> 
+
+Путь: scenes.game_over.achievements.content.content[361].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Er ist wieder da</div> <div class="achievement_subtitle"> — добейтесь, чтобы <span style="color: #7A3C00;">Гитлера</span> дважды назначили рейхсканцлером. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Er ist wieder da</div> <div class="achievement_subtitle"> — <span style="color: #7A3C00;">Гитлера</span> дважды назначили рейхсканцлером за одно прохождение. </div> 
+
+Путь: scenes.game_over.achievements.content.content[362].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Abgrundläufer</div> <div class="achievement_subtitle"> - успешно добиться от Шлейхера двух уступок и предотвратить <span style="color: #BFC8CC;">
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Abgrundläufer</div> <div class="achievement_subtitle"> - Добейтесь от Шлейхера двух уступок и при этом предотвратите победу <span style="color: #BFC8CC;">
+
+Путь: scenes.game_over.achievements.content.content[362].content[0].content[10]
+Было:  </span> победу. </div>
+Стало: </span>. </div>
+
+Путь: scenes.game_over.achievements.content.content[364].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Aufstieg Skywalkers</div> <div class="achievement_subtitle"> - победить <span style="color: #7A3C00;">Гитлера</span> в гражданской войне после его возвращения из мёртвых. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Aufstieg Skywalkers</div> <div class="achievement_subtitle"> - победить <span style="color: #7A3C00;">Гитлера</span> в гражданской войне после его возвращения из мёртвых в Рубиконе. </div> 
+
+Путь: scenes.game_over.achievements.content.content[365].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Kulturkampf</div> <div class="achievement_subtitle"> - принять все реформы о правах женщин и <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">лов</span>, секуляризовать образование и сформировать <span style="color: #c00000;">социал-</span><span style="color: #D3C24D;">либеральную</span> коалицию. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Kulturkampf</div> <div class="achievement_subtitle"> - примите все реформы о правах женщин и <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">лов</span>, секуляризуйте образование и сформируйте <span style="color: #c00000;">социал-</span><span style="color: #D3C24D;">либеральную</span> коалицию. (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России). </div> 
+
+Путь: scenes.game_over.achievements.content.content[366].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - к концу игры Брайтшайд становится канцлером, <span style="color: #FFC0C0;">Левый картель</span> побеждает во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанция профинансирована. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - В конце игры Брайтшайд канцлер, <span style="color: #FFC0C0;">Левый картель</span> победил во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанции профинансированы. </div> 
+
