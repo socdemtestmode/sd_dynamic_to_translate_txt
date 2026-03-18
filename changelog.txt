@@ -20267,3 +20267,34 @@
 Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Интересный эксперимент</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">НГП</span> была сформирована и выстояла. </div> </div> 
 Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Ein Interessantes Experiment</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">НГП</span> была сформирована и выстояла. </div> </div> 
 
+
+========================================
+СБОРКА: 2026-03-18 18:58:25
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.status.emergency.content.content[5].content[7].content[0]
+Было:  <span style="color: #c00000;">
+Стало: Отношение <span style="color: #c00000;">
+
+Путь: scenes.status.emergency.content.content[5].content[7].content[2]
+Было:  </span> Отношение к 
+Стало: </span> к 
+
+Путь: scenes.status.emergency.content.content[5].content[9].content[5]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.status.emergency.content.content[5].content[10]
+Было:   <span style="color: #7A3C00;">
+Стало: Финансовое положение <span style="color: #7A3C00;">
+
+Путь: scenes.status.emergency.content.content[5].content[12]
+Было:  </span>: Финансовое положение 
+Стало: </span>: 
+
+Путь: scenes.status_right.content.content[3].content[38].content[2]
+Было:  — популярность в народе: 
+Стало:  — популярность в народе: 
+
