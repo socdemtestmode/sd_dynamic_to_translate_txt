@@ -15946,3 +15946,964 @@
 Было:  канцлером. Однако
 Стало: а канцлером. Однако 
 
+
+========================================
+СБОРКА: 2026-03-18 07:26:29
+========================================
+
+--- 🆕 НОВЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.rohm_gay.title[1].content
+Оригинал: SA
+Перевод:  </span> <span style="color: red;">Го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льно</span>сть лидера 
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.main.main_easy.content.content[209].content[1].content[0]
+Было:  Несмотря на давление со стороны <span style="color: #b8996f;">
+Стало: Несмотря на давление со стороны антибрюнингского правого крыла <span style="color: #b8996f;">
+
+Путь: scenes.main.main_easy.content.content[209].content[1].content[2]
+Было:  </span>антибрюнинговского правого крыла, требовавшего отставки её единственного министра, Иоганна Бредта, председатель партии Герман Древиц сумел заручиться поддержкой большинства парламентской фракции 
+Стало: </span>, требовавшего отставки её единственного министра, Иоганна Бредта, председатель партии Герман Древиц сумел заручиться поддержкой большинства парламентской фракции 
+
+Путь: scenes.braun.coalition.content.content.content[1].content[2].content[1].content
+Было:  Христианской народной
+Стало: Христианской народной партией
+
+Путь: scenes.braun.coalition.content.content.content[2].content[2].content[1].content
+Было:  Христианской народной
+Стало: Христианской народной партией
+
+Путь: scenes.braun.coalition.content.content.content[3].content[2].content[1].content
+Было:  Христианской народной
+Стало: Христианской народной партией
+
+Путь: scenes.campaigning.workers.content.content.content[2].content
+Было:  Принятие плана ВТБ даёт нам новую идею для митингов, которая помогает привлечь больше рабочих.
+Стало:  Принятие плана ВТБ даёт нам новую идею для митингов, которая помогает привлечь больше рабочих.
+
+Путь: scenes.iron_front.defense.content.content[1].content.content[2].content[3]
+Было:  и
+Стало:  и 
+
+Путь: scenes.iron_front.defense.content.content[1].content.content[2].content[6]
+Было:   , похоже, убеждены: милитаризация Рейхсбаннера необходима. Они прекращают свою критику. 
+Стало: , похоже, убеждены: милитаризация Рейхсбаннера необходима. Они прекращают свою критику. 
+
+Путь: scenes.bruning_no_majority.vonc_yes.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_second_cabinet_alt.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_second_cabinet.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_second_cabinet_dynamic.vote_no.content.content[0].content[0]
+Было:  Мы официально разорвали отношения с правительством
+Стало: Мы официально разорвали отношения с правительством 
+
+Путь: scenes.bruning_second_cabinet_dynamic.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_2.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_2_hergt.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_2_kvp.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_hergt.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_cvp.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_kvp.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.center_party_conference.kaas.content.content[0].content[0]
+Было:  Людвиг Каас избран председателем
+Стало: Людвиг Каас избран председателем 
+
+Путь: scenes.center_party_conference.kaas.content.content[0].content[4].content
+Было:  <span style="color: #000000;">Партию Центра</span>
+Стало: <span style="color: #000000;">Партию Центра</span>, 
+
+Путь: scenes.center_party_conference.kaas.content.content[0].content[5].content[1].content
+Было:  ХНП,
+Стало: ХНП, 
+
+Путь: scenes.center_party_conference_joos.kaas.content.content[0].content[0]
+Было:  Людвиг Каас избран председателем
+Стало: Людвиг Каас избран председателем 
+
+Путь: scenes.dnf_collapse_center_right_coalition.vonc_yes.content.content.content[0]
+Было:  Правая коалиция пала. Новые выборы назначены на
+Стало: Правая коалиция пала. Новые выборы назначены на 
+
+Путь: scenes.goerdeler_cabinet_2.goerdeler.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[20].content[13]
+Было:   <hr id="read-marker"> Кабинет
+Стало:  <hr id="read-marker"> Кабинет 
+
+Путь: scenes.streetfighting_unlock.content[1].content[4]
+Было:  </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span> (<span style="color: #8B0000;">
+Стало: </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span><span style="color: #8B0000;">
+
+Путь: scenes.streetfighting_unlock.content[1].content[6]
+Было:  </span>) и нашим собственным Рейхсбаннером.
+Стало: </span> и нашим собственным Рейхсбаннером.
+
+Путь: scenes.unemployment_insurance_0_lvp.destroy.content.content[2].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.unemployment_insurance_0.destroy.content.content[2].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.dealing_with_toleration_cvp.vonc.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.dealing_with_toleration_right.vonc.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.streetfighting.arm_rb.content.content[1].content.content[2].content[0]
+Было:  Видя раздоры, что заполнили улицы Германии, 
+Стало: Видя беспорядки, что заполнили улицы Германии, 
+
+Путь: scenes.streetfighting.arm_rb.content.content[1].content.content[2].content[3]
+Было:  и
+Стало:  и 
+
+Путь: scenes.streetfighting.arm_rb.content.content[1].content.content[2].content[6]
+Было:   , похоже, убеждены в необходимости милитаризации Рейхсбаннера и приглушают свою критику. 
+Стало: , похоже, убеждены в необходимости милитаризации Рейхсбаннера и приглушают свою критику. 
+
+Путь: scenes.bruning_second_cabinet_dynamic.content.content[3].content[0]
+Было:  Теперь мы должны решить, продолжать ли воздерживаться от вотума недоверия этому правительству Брюнинга с его усилившимся правым уклоном — из которого теперь выведены левые фигуры, такие как 
+Стало: Теперь мы должны решить, продолжать ли воздерживаться от вотума недоверия этому правительству Брюнинга с его усилившимся правым уклоном — из которого теперь выведены левые фигуры, такие как член 
+
+Путь: scenes.bruning_second_cabinet_dynamic.content.content[3].content[1].content
+Было:  <span style="color: #000000;">Партия Центра</span>
+Стало: <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.bruning_second_cabinet_dynamic.content.content[3].content[3]
+Было:  Йозефа Вирта, — или же наконец использовать это как предлог для разрыва с ним. Ведь Брюнинг издал уже третий чрезвычайный указ, который ещё больше снижает зарплаты, урезает пенсии и социальные пособия, чтобы покрыть дефицит, вызванный банковским кризисом.
+Стало:  Йозеф Вирт, — или же наконец использовать это как предлог для разрыва с ним. Ведь Брюнинг издал уже третий чрезвычайный указ, который ещё больше снижает зарплаты, урезает пенсии и социальные пособия, чтобы покрыть дефицит, вызванный банковским кризисом.
+
+Путь: scenes.bruning_vonc_2.vote_yes.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_2_hergt.vote_yes.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_2_kvp.vote_yes.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.dnf_collapse_right_coalition_lvp.vonc_yes.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnf_collapse_right_coalition.vonc_yes.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnvp_collapse_right_coalition.vonc_yes.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnvp_party_congress_2_triumvirate.hugenbergremoval.content.content[1].content
+Было:  . В ответ на это Гугенберг угрожает увести за собой своих сторонников в новую, отколовшуюся партию, которая вряд ли получит значительную поддержку, учитывая, что он крайне непопулярен за пределами круга своих верных последователей.
+Стало:  В ответ на это Гугенберг угрожает увести за собой своих сторонников в новую, отколовшуюся партию, которая вряд ли получит значительную поддержку, учитывая, что он крайне непопулярен за пределами круга своих верных последователей.
+
+Путь: scenes.emergency_cuts.vote_no.content.content[0].content[0]
+Было:  Мы порвали с
+Стало: Мы порвали с правительством 
+
+Путь: scenes.emergency_cuts.vote_no.content.content[0].content[2]
+Было:   правительством и проголосовали за вотум недоверия. Социальные гарантии спасены, но какой ценой?
+Стало: а и проголосовали за вотум недоверия. Социальные гарантии спасены, но какой ценой?
+
+Путь: scenes.emergency_cuts.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.emergency_decree_bruning.vote_no.content.content[0].content[0]
+Было:  Мы порвали с
+Стало: Мы порвали с правительством 
+
+Путь: scenes.emergency_decree_bruning.vote_no.content.content[0].content[2]
+Было:   правительством и проголосовали за вотум недоверия. Декрет всё равно вступил в силу, но, по крайней мере, мы избавлены от всей тяжести его последствий, разорвав наши связи с 
+Стало: а и проголосовали за вотум недоверия. Декрет всё равно вступил в силу, но, по крайней мере, мы избавлены от всей тяжести его последствий, разорвав наши связи с 
+
+Путь: scenes.emergency_decree_bruning.vote_no.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.emergency_decree_bruning_alt.vote_no.content.content[2].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.goerdeler_cabinet_2_alt.goerdeler_2.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.hunger_chancellor.break_toleration.content.content[0].content[0]
+Было:  Мы окончательно порвали с
+Стало: Мы окончательно порвали с правительством 
+
+Путь: scenes.hunger_chancellor.break_toleration.content.content[0].content[2]
+Было:  правительством и проголосовали против него при вынесении вотума недоверия.
+Стало: а и проголосовали против него при вынесении вотума недоверия.
+
+Путь: scenes.hunger_chancellor.break_toleration.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.landtag_referendum_campaign.bourgeois.unavailableSubtitle.content[2].content[0]
+Было:  У нас недостаточно хорошие отношения с
+Стало: У нас недостаточно хорошие отношения с 
+
+Путь: scenes.landtag_referendum_campaign.bourgeois.unavailableSubtitle.content[2].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.landtag_referendum_campaign.bourgeois.content.content.content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.landtag_referendum_campaign.bourgeois.content.content.content[3]
+Было:   присоединился к нашим усилиям, развернув собственную пропагандистскую кампанию, в рамках которой она агитирует католиков и убеждает их остаться дома.
+Стало:  присоединилась к нашим усилиям, развернув собственную пропагандистскую кампанию, в рамках которой она агитирует католиков и убеждает их остаться дома.
+
+Путь: scenes.lvp_party_congress_1928_1.luther_fail.content.content.content[2]
+Было:  </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя и теперь поддерживает
+Стало: </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя. Его поддержку в борьбе за лидерство получила другая фигура —
+
+Путь: scenes.lvp_party_congress_1928_1.luther_fail.content.content.content[4]
+Было:   в борьбе за лидерство. Теперь Лютер занял пост президента Рейхсбанка, но по-прежнему сохраняет значительное влияние на партийные дела.
+Стало: . Теперь Лютер занял пост президента Рейхсбанка, но по-прежнему сохраняет значительное влияние на партийные дела.
+
+Путь: scenes.lvp_party_congress_1929_1.luther_fail.content.content.content[2]
+Было:  </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя и теперь поддерживает
+Стало: </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя. Его поддержку в борьбе за лидерство получила другая фигура —
+
+Путь: scenes.lvp_party_congress_1929_1.luther_fail.content.content.content[4]
+Было:   в борьбе за лидерство. Теперь Лютер занял пост президента Рейхсбанка, но по-прежнему сохраняет значительное влияние на партийные дела.
+Стало: . Теперь Лютер занял пост президента Рейхсбанка, но по-прежнему сохраняет значительное влияние на партийные дела.
+
+Путь: scenes.lvp_party_congress_1930_1.luther_fail.content.content.content[2]
+Было:  </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя и теперь поддерживает
+Стало: </span> в поддержку своей кандидатуры. После такого результата Лютер ушёл с поста председателя. Его поддержку в борьбе за лидерство получила другая фигура —
+
+Путь: scenes.lvp_party_congress_1930_1.luther_fail.content.content.content[4]
+Было:   в борьбе за лидерство, однако его поддержка не смогла склонить на его сторону многих делегатов. Теперь Лютер занял пост президента Рейхсбанка, но всё ещё сохраняет некоторое влияние на партийные дела.
+Стало: . Но его поддержка не смогла склонить на его сторону многих делегатов. Теперь Лютер занял пост президента Рейхсбанка, но всё ещё сохраняет некоторое влияние на партийные дела.
+
+Путь: scenes.panzerkreuzer_pre.content.content[1].content[2]
+Было:  </span>, не станут с ними спорить.
+Стало: </span> не станут с ними спорить.
+
+Путь: scenes.panzerkreuzer_pre.content.content[2].content
+Было:  Капиталисты тратят деньги на перевооружение, а нашим детям нечего есть! Долг нашей партии поднять общественность против этой инициативы. Однако биться в приступе левизны в нашем положении — роскошь. Возможно, сделав шаг назад и пойдя на уступки сейчас, мы могли бы добиться больших уступок от буржуазных партий в будущем. Стоит ли поступиться интересами немецкого народа, ради интересов нашей партии?.
+Стало: Капиталисты тратят деньги на перевооружение, а нашим детям нечего есть! Долг нашей партии поднять общественность против этой инициативы. Однако биться в приступе левизны в нашем положении — роскошь. Возможно, сделав шаг назад и пойдя на уступки сейчас, мы могли бы добиться больших уступок от буржуазных партий в будущем. Стоит ли поступиться интересами немецкого народа ради интересов нашей партии?
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[0].content[0].content[3]
+Было:  — поддерживают:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[9].content[0].content[8]
+Было:  — поддерживают:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[19].content[0].content[8]
+Было:  — поддерживают:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[29].content[0].content[2]
+Было:  </span> - при поддержке:
+Стало: </span> — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[31].content[0].content[2]
+Было:  </span> - при поддержке:
+Стало: </span> — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[35].content[0].content[3]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_running.options[0].title
+Было:  Мы понимаем, что это означает гражданскую войну, против всей мощи государства?
+Стало: Кто ещё выдвинулся, когда стало ясно, что Гинденбург баллотируется на второй срок?
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[0].content[0].content[3]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[9].content[0].content[8]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[19].content[0].content[8]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[35].content[0].content[3]
+Было:  — поддерживают:
+Стало:  — поддерживают:
+
+Путь: scenes.pfulf.campaigning_peoples_party.title
+Было:  Агитация в пользу концепции Общенародной партии
+Стало: Агитировать как Общенародная партия
+
+Путь: scenes.sender.against_toleration.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.seydewitz.against_toleration.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.dealing_with_toleration.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_cvp.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_cvp.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">«Центр»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.dealing_with_toleration_right.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.dealing_with_toleration_right.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">«Центр»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.bruning_vonc_hergt.no_matter.content.content.content[0]
+Было:  Правая коалиция пала. Новые выборы назначены на
+Стало: Правая коалиция пала. Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_cvp.no_matter.content.content.content[0]
+Было:  Буржуазный кабинет пал. Новые выборы назначены на
+Стало: Буржуазный кабинет пал. Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_kvp.no_matter.content.content.content[0]
+Было:  Буржуазная коалиция пала. Новые выборы назначены на
+Стало: Буржуазная коалиция пала. Новые выборы назначены на 
+
+Путь: scenes.cabinet_sacked.bruning_chain.content.content.content[0]
+Было:  На смену нам пришёл Брюнинг от
+Стало: На смену нам пришёл Брюнинг от 
+
+Путь: scenes.dnf_collapse_center_right_coalition.no_matter.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.emergency_cuts.new_prussia_election.content.content[0].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.emergency_cuts.new_prussia_election.content.content[0].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.landtag_referendum_results.PLR_failed_votes.content.content[0].content[0].content[0]
+Было:  Референдум провалился: «за» высказались лишь
+Стало: Референдум провалился: «за» высказались лишь 
+
+Путь: scenes.landtag_referendum_results.PLR_failed_votes.content.content[1].content[0].content[0]
+Было:  Референдум провалился: «за» высказались лишь
+Стало: Референдум провалился: «за» высказались лишь 
+
+Путь: scenes.local_election_1932.results_overall.content.content[13].content[0].content[2]
+Было:  </span> оставляют мало шансов на создание демократической коалиции во многих ландтагах и могут вынудить
+Стало: </span> оставляют мало шансов на создание демократической коалиции во многих ландтагах и могут вынудить 
+
+Путь: scenes.local_election_1932.results_overall.content.content[13].content[0].content[5]
+Было:  в крайнем случае пойти с ними на переговоры.
+Стало:  в крайнем случае пойти с ними на переговоры.
+
+Путь: scenes.lvp_party_congress_1928_0.lvp_groko.content.content.content[2]
+Было:  НДП</span> и консервативно-либеральная <span style="color: #C0A054;">
+Стало: </span> и консервативно-либеральная <span style="color: #C0A054;">
+
+Путь: scenes.reichsbanner_zentrum.keep_them.content.content.content[4].content[0]
+Было:  и <span style="color: #D3C24D;">
+Стало:  и <span style="color: #D3C24D;">
+
+Путь: scenes.reichsbanner_zentrum.keep_them.content.content.content[5].content[0]
+Было:  и <span style="color: #FFCC00;">
+Стало:  и <span style="color: #FFCC00;">
+
+Путь: scenes.reichsbanner_zentrum.keep_them.content.content.content[6]
+Было:   , похоже, убеждены в необходимости милитаризации Рейхсбаннера и не покинут организацию.
+Стало: , похоже, убеждены в необходимости милитаризации Рейхсбаннера и не покинут организацию.
+
+Путь: scenes.rohm_gay.title[2]
+Было:  </span> <span style="color: red;">Го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льно</span>сть лидера СА Эрнста Рёма разоблачена
+Стало:  Эрнста Рёма разоблачена
+
+Путь: scenes.saxon_collapse.no_majority_saxony.content.content[0].content[2]
+Было:  а продолжает действовать в качестве временного правительства.
+Стало: а продолжает действовать в качестве исполняющего обязанности правительства.
+
+Путь: scenes.saxon_collapse.subtitle.content[0].content
+Было:  Вильгельм Бюнгер
+Стало: Вильгельму Бюнгеру
+
+Путь: scenes.saxon_collapse.options[1].title.content[0]
+Было:  Мы сформируем
+Стало: Мы сформируем 
+
+Путь: scenes.saxon_collapse.options[1].title.content[1].content
+Было:  <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">скую</span>
+Стало: <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">скую</span> 
+
+Путь: scenes.saxon_collapse.options[1].title.content[2].content
+Было:  большую
+Стало: Большую 
+
+Путь: scenes.saxon_collapse.options[1].title.content[3]
+Было:  коалицию!
+Стало: Коалицию!
+
+Путь: scenes.soclib_prussia_collapse.right_coalition.subtitle.content[8].content
+Было:  Другие
+Стало: Прочие
+
+Путь: scenes.wtb_proposed.wtb_support.content.content[1].content[2].content
+Было:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+Стало:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+
+Путь: scenes.status.content.content[15].content[10]
+Было:  (
+Стало:  (
+
+Путь: scenes.rosenfeld.against_toleration.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.iron_front.wtb.content.content.content[7].content
+Было:  Однако многие по-прежнему считают, что этот план — всего лишь пустой лозунг, и будут сохранять скептицизм, пока мы не претворим его в жизнь.
+Стало:  Однако многие по-прежнему считают, что этот план — всего лишь пустой лозунг, и будут сохранять скептицизм, пока мы не претворим его в жизнь.
+
+Путь: scenes.austrian_customs_union.end_toleration_success.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.banking_crisis.end_toleration.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.bruning_vonc_hergt.content.content[2].content[9].content
+Было:  новую
+Стало: новую 
+
+Путь: scenes.bruning_vonc_hergt.content.content[2].content[10].content
+Было:  ещё одну
+Стало: ещё одну 
+
+Путь: scenes.bruning_vonc_hergt.content.content[2].content[11]
+Было:  правоцентристскую коалицию.
+Стало: правоцентристскую коалицию. 
+
+Путь: scenes.center_party_conference.stegerwald.content.content[0].content[5].content[1].content
+Было:  ХНП,
+Стало: ХНП, 
+
+Путь: scenes.center_party_conference.options[0].title.content[1].content
+Было:  <span style="color: #000000;">«Партия Центра»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.center_party_conference.options[0].title.content[3]
+Было:  избирает Людвига Кааса председателем партии.
+Стало:  избирает Людвига Кааса председателем партии.
+
+Путь: scenes.center_party_conference.options[1].title.content[0]
+Было:  Повлиять на
+Стало: Повлиять на 
+
+Путь: scenes.center_party_conference.options[1].title.content[1].content
+Было:  <span style="color: #000000;">«Партию Центра»</span>
+Стало: <span style="color: #000000;">Партию Центра</span>
+
+Путь: scenes.center_party_conference.options[1].title.content[3]
+Было:  с целью избрать Йозефа Йооса председателем партии.
+Стало:  с целью избрать Йозефа Йооса председателем партии.
+
+Путь: scenes.center_party_conference.content.content[1].content[0]
+Было:  Вильгельм Маркс, бывший 
+Стало: Вильгельм Маркс, бывший канцлер от 
+
+Путь: scenes.center_party_conference.content.content[1].content[1].content
+Было:  <span style="color: #000000;">«Партии Центра»</span>
+Стало: <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.center_party_conference.content.content[1].content[3]
+Было:   канцлер и кандидат в президенты, решил уйти с поста лидера 
+Стало:  и кандидат в президенты, решил уйти с поста лидера 
+
+Путь: scenes.center_party_conference.content.content[2].content[5]
+Было:  .
+Стало: . 
+
+Путь: scenes.dnf_collapse_right_coalition_lvp.no_matter.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnf_collapse_right_coalition.no_matter.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnvp_collapse_right_coalition.no_matter.content.content.content[0]
+Было:  Правая коалиция распалась. Новые выборы назначены на
+Стало: Правая коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.dnvp_party_congress_2_hergt.title[0]
+Было:  <span style="color: #3E88B3;">
+Стало: Съезд <span style="color: #3E88B3;">
+
+Путь: scenes.dnvp_party_congress_2_hergt.content.content[0].content[0]
+Было:  <span style="color: #3E88B3;">
+Стало: Съезд <span style="color: #3E88B3;">
+
+Путь: scenes.dnvp_party_congress_2_triumvirate.title[0]
+Было:  <span style="color: #3E88B3;">
+Стало: Съезд <span style="color: #3E88B3;">
+
+Путь: scenes.dnvp_party_congress_2_triumvirate.title[2]
+Было:  </span>. Съезд
+Стало: </span>
+
+Путь: scenes.dvp_party_congress_0.title[0]
+Было:  <span style="color: #C0A054;">
+Стало: Съезд <span style="color: #C0A054;">
+
+Путь: scenes.lvp_popfront.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.panzerkreuzer.braun.content.content.content[0]
+Было:  Наши партнёры по коалиции шокированы нашей непреклонностью! Однако канцлеру Брауну удаётся убедить наших министров отказаться от планов вынести на голосование вопрос о строительстве военного корабля. Корабль не будет построен! Пацифизм начинает находить поддержку в
+Стало: Наши партнёры по коалиции шокированы нашей непреклонностью! Однако канцлеру Брауну удаётся убедить наших министров отказаться от планов вынести на голосование вопрос о строительстве военного корабля. Корабль не будет построен! Пацифизм начинает находить поддержку в 
+
+Путь: scenes.wtb_proposed.labor_influence.content.content[1].content[2].content
+Было:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+Стало:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+
+Путь: scenes.enemies.options[4].title.content[3]
+Было:  и 
+Стало:  и 
+
+Путь: scenes.bruning_no_majority.bruning_dies_wp.content.content[2].content[2]
+Было:  % рейхстага проголосовали против правительства Брюнинга. Новые выборы назначены на
+Стало: % рейхстага проголосовали против правительства Брюнинга. Новые выборы назначены на 
+
+Путь: scenes.cabinet_sacked_bruning.dont_tolerate.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.cabinet_sacked.dont_tolerate.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.cabinet_sacked.title.content[0]
+Было:  Гинденбург отправляет в отставку
+Стало: Гинденбург отправляет в отставку 
+
+Путь: scenes.cabinet_sacked.title.content[2]
+Было:  !
+Стало: а!
+
+Путь: scenes.lvp_popfront.let_it_happen_braun.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.unemployment_insurance_0_lvp.accept_compromise_good.content.content.content[2]
+Было:  </span> соглашается под влиянием
+Стало: </span> соглашается под влиянием 
+
+Путь: scenes.unemployment_insurance_1_lvp.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.unemployment_insurance_1.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.wtb_proposed.situation.content.content[1].content[2].content
+Было:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+Стало:  Нам следует сделать упор на этот план в нашей предвыборной агитации.
+
+Путь: scenes.streetfighting.content[1].content[4]
+Было:  </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span> (<span style="color: #8B0000;">
+Стало: </span>, коммунистическим <span style="color: #8B0000;">Союзом Красных Фронтовиков</span><span style="color: #8B0000;">
+
+Путь: scenes.streetfighting.content[1].content[6]
+Было:  </span>) и нашим собственным Рейхсбаннером. В некоторых частях страны обстановка близка к гражданской войне — каждый месяц здесь гибнут десятки людей.
+Стало: </span> и нашим собственным Рейхсбаннером. В некоторых частях страны обстановка близка к гражданской войне — каждый месяц здесь гибнут десятки людей.
+
+Путь: scenes.bruning_second_cabinet.bruning_dies_wp.content.content[2].content[2]
+Было:  % депутатов рейхстага проголосовали против правительства Брюнинга. Новые выборы назначены на
+Стало: % депутатов рейхстага проголосовали против правительства Брюнинга. Новые выборы назначены на 
+
+Путь: scenes.prussian_coalition_formation.minority_social_liberal_coalition_prussia.title.content[0]
+Было:  Мы можем сформировать меньшинственную <span style="color: #c00000;">социал</span>-
+Стало: Мы можем сформировать <span style="color: #c00000;">социал</span>-
+
+Путь: scenes.prussian_coalition_formation.minority_social_liberal_coalition_prussia.title.content[3]
+Было:  коалицию.
+Стало: коалицию меньшинства.
+
+Путь: scenes.sa_ban_pre.sa_ban_bruning_wirth.content.content[0].content[3]
+Было:  а точнее, её левого крыла, счёл собранные нами доказательства достаточным и неотложным основанием для запрета <span style="color: #7A3C00;">
+Стало:  а точнее, её левого крыла, счёл собранные нами доказательства достаточным и неотложным основанием для запрета <span style="color: #7A3C00;">
+
+Путь: scenes.coalition_affairs.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.kpd_vote_of_no_confidence.let_it_happen_braun.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.unavailableSubtitle.content[11].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.unavailableSubtitle.content[11].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[5]
+Было:  и
+Стало:  и 
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[7].content[1].content
+Было:  Государственной
+Стало: Государственной партии
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[8].content[1].content
+Было:  Либеральной народной
+Стало: Либеральной народной партии
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[12]
+Было:  партий! Эта правящая коалиция существует с 1919 года.
+Стало: ! Эта правящая коалиция существует с 1919 года.
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.unavailableSubtitle.content[11].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.unavailableSubtitle.content[11].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[0].content[5]
+Было:  и
+Стало:  и 
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[0].content[6].content[1].content
+Было:  Демократических
+Стало: Демократической
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[0].content[7].content[1].content
+Было:  Государственных
+Стало: Государственной партии
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[0].content[8].content[1].content
+Было:  Либеральных народных
+Стало: Либеральной народной партии
+
+Путь: scenes.prussian_coalition_formation.weimar_coalition_prussia.content.content[0].content[12]
+Было:  партий! Эта правящая коалиция существует с 1919 года.
+Стало: ! Эта правящая коалиция существует с 1919 года.
+
+Путь: scenes.vote_of_no_confidence_joever.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.kpd_vote_of_no_confidence.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.vote_of_no_confidence_joever.let_it_happen_braun.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.unavailableSubtitle.content[11].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.unavailableSubtitle.content[11].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[0].content[0].content[5]
+Было:  и
+Стало:  и 
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[0].content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[0].content[0].content[7].content[1].content
+Было:  Государственной
+Стало: Государственной партии
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[0].content[0].content[8].content[1].content
+Было:  Либеральной народной
+Стало: Либеральной народной партии
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[0].content[0].content[12]
+Было:  партий! Эта правящая коалиция существует с 1919 года.
+Стало: ! Эта правящая коалиция существует с 1919 года.
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[1].content[1].content[4]
+Было:  </span>, что фактически делает её силой, де-факто допускающей существование 
+Стало: </span>, что фактически делает её силой, де-факто «терпящей» правительство меньшинства 
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[1].content[1].content[6]
+Было:  .
+Стало: а.
+
+Путь: scenes.unemployment_insurance_1_lvp.content.content[2].content[1].content
+Было:  Либеральной народной
+Стало: Либеральной народной партии
+
+Путь: scenes.unemployment_insurance_1_lvp.content.content[2].content[3].content
+Было:  и <span style="color: #000000;">Центр</span>
+Стало:  и <span style="color: #000000;">Центра</span>
+
+Путь: scenes.unemployment_insurance_1_lvp.content.content[2].content[4].content[0]
+Было:  и <span style="color: #000000;">
+Стало:  и <span style="color: #000000;">
+
+Путь: scenes.prussian_affairs.content.content[1].content[2].content[0]
+Было:  &nbsp;и
+Стало: &nbsp;и 
+
+Путь: scenes.prussian_affairs.content.content[1].content[2].content[1].content[1].content
+Было:  Демократической
+Стало: Демократической партией
+
+Путь: scenes.prussian_affairs.content.content[1].content[2].content[2].content[1].content
+Было:  Государственной
+Стало: Государственной партией
+
+Путь: scenes.prussian_affairs.content.content[1].content[2].content[3].content[1].content
+Было:  Либеральной Народной
+Стало: Либеральной Народной партией
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.unavailableSubtitle.content[11].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.unavailableSubtitle.content[11].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[0].content[5]
+Было:  и
+Стало:  и 
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[0].content[7].content[1].content
+Было:  Государственной
+Стало: Государственной партии
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[0].content[8].content[1].content
+Было:  Либеральной народной
+Стало: Либеральной народной партии
+
+Путь: scenes.prussia_election_1928.weimar_coalition_prussia.content.content[0].content[12]
+Было:  партий! Эта правящая коалиция существует с 1919 года.
+Стало: ! Эта правящая коалиция существует с 1919 года.
+
+Путь: scenes.prussian_coalition_formation.grand_coalition_prussia.unavailableSubtitle.content[7].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussian_coalition_formation.grand_coalition_prussia.unavailableSubtitle.content[7].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.prussian_coalition_formation.minority_grand_coalition_prussia.unavailableSubtitle.content[9].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.vote_of_no_confidence.elections.content.content.content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.cabinet_reshuffled.no_tolerate.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.vote_of_no_confidence.let_it_happen_braun.content.content[1].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.prussian_coalition_formation.popular_front_coalition_prussia.unavailableSubtitle.content[9].content[0]
+Было:  У нас недостаточно хорошие отношения с
+Стало: У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussian_coalition_formation.popular_front_coalition_prussia.unavailableSubtitle.content[9].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.local_election_1932.weimar_coalition_wurttemberg.subtitle.content[0]
+Было:  Нам как-то удалось убедить
+Стало: Нам как-то удалось убедить 
+
+Путь: scenes.local_election_1932.weimar_coalition_wurttemberg.subtitle.content[3]
+Было:  впустить нас в правительство.
+Стало:  впустить нас в правительство.
+
+Путь: scenes.local_election_1932.weimar_coalition_wurttemberg.content.content[0].content[0]
+Было:  Хотя
+Стало: Хотя 
+
+Путь: scenes.prussia_election_1928.popular_front_coalition_prussia.unavailableSubtitle.content[9].content[0]
+Было:  У нас недостаточно хорошие отношения с
+Стало: У нас недостаточно хорошие отношения с 
+
+Путь: scenes.prussia_election_1928.popular_front_coalition_prussia.unavailableSubtitle.content[9].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.election_1928.popular_front_coalition.unavailableSubtitle.content[9].content[0]
+Было:  У нас недостаточно хорошие отношения с
+Стало: У нас недостаточно хорошие отношения с 
+
+Путь: scenes.election_1928.popular_front_coalition.unavailableSubtitle.content[9].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.presidential_election_1932_candidate.braun.options[1].title.content[0]
+Было:  Выдвинуть Курта Розенфельда от
+Стало: Выдвинуть Курта Розенфельда от 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[0].content[0].content[3]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[9].content[0].content[8]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[19].content[0].content[8]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[29].content[0].content[2]
+Было:  </span> - при поддержке:
+Стало: </span> — поддерживают:
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[31].content[0].content[2]
+Было:  </span> - при поддержке:
+Стало: </span> — поддерживают:
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[35].content[0].content[3]
+Было:  - при поддержке:
+Стало:  — поддерживают:
+
+Путь: scenes.inter_party_relationships.spd_alone.content.content[2]
+Было:  или
+Стало:  или 
+
+Путь: scenes.presidential_election_1932_candidate.run_rosenfeld.unavailableSubtitle.content[5].content
+Было:  <span style="color: #700000;">КПГ</span> чётко обозначила свою позицию: нет смысла предлагать единого кандидата, которого она вряд ли поддержит.
+Стало:  <span style="color: #700000;">КПГ</span> чётко обозначила свою позицию: нет смысла предлагать единого кандидата, которого она вряд ли поддержит.
+
+Путь: scenes.presidential_election_1932_candidate.support_thalmann.options[3].title.content[0]
+Было:  Выдвинуть Курта Розенфельда от
+Стало: Выдвинуть Курта Розенфельда от 
+
+Путь: scenes.presidential_election_1932_campaign.industrial_2.content.content.content[2]
+Было:  </span> отбила у них всякое желание её финансировать.
+Стало: </span> отбила у них всякое желание финансировать её и
+
+Путь: scenes.presidential_election_1932_campaign.industrial_2.content.content.content[4]
+Было:  Теперь, похоже, у избирательного штаба Гинденбурга наконец-то есть средства для создания полноценной предвыборной инфраструктуры, способной соперничать с усилиями Геббельса и <span style="color: #7A3C00;">нацистов</span>.
+Стало: а. Теперь, похоже, у избирательного штаба Гинденбурга наконец-то есть средства для создания полноценной предвыборной инфраструктуры, способной соперничать с усилиями Геббельса и <span style="color: #7A3C00;">нацистов</span>.
+
+Путь: scenes.election_1928.right_coalition.content.content.content[10]
+Было:  </span> и малых консервативных партий.
+Стало: </span> и малых консервативных партий. 
+
+Путь: scenes.election_1928.right_coalition_2.content.content[0].content[0].content[4]
+Было:  . Таким образом формируется правоцентристская коалиция большинства с Брюнингом в качестве канцлера.
+Стало: . Таким образом формируется правоцентристская коалиция большинства с Брюнингом в качестве канцлера. 
+
+Путь: scenes.election_1928.hindenburg_appoints_papen.content.content[2].content[0]
+Было:  Новые выборы назначены на
+Стало: Новые выборы назначены на 
+
+Путь: scenes.election_1928.weimar_coalition.unavailableSubtitle.content[9].content[0]
+Было:  - У нас недостаточно хорошие отношения с
+Стало: - У нас недостаточно хорошие отношения с 
+
+Путь: scenes.election_1928.weimar_coalition.unavailableSubtitle.content[9].content[3]
+Было:  .
+Стало: . 
+
+Путь: scenes.election_1928.braun_2.options[2].title.content[0]
+Было:  Пусть
+Стало: Пусть 
+
+Путь: scenes.election_1928.braun_2.options[2].title.content[3]
+Было:  получат свои министерские посты.
+Стало:  получат свои министерские посты.
+
+Путь: scenes.election_1928.braun_3.content.content.content[3]
+Было:  получит больше влияния в правительстве в ответ на назначение Брауна канцлером.
+Стало:  получит больше влияния в правительстве в ответ на назначение Брауна канцлером.
+
+Путь: scenes.election_1928.reichswehr.subtitle.content[0]
+Было:  Министерство, отвечающее за вооружённые силы, обычно не наша сфера влияния; генерал Грёнер и буржуазные консерваторы будут недовольны
+Стало: Министерство, отвечающее за вооружённые силы, обычно не наша сфера влияния; генерал Грёнер и буржуазные консерваторы будут недовольны, 
+
