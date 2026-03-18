@@ -20188,3 +20188,82 @@
 Было:  Мы отправили Брюнинга в отставку и назначили новые выборы на
 Стало: Мы отправили Брюнинга в отставку и назначили новые выборы на 
 
+
+========================================
+СБОРКА: 2026-03-18 18:52:12
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.status_right.content.content[3].content[38].content[2]
+Было:  — его популярность в народе: 
+Стало: — популярность в народе: 
+
+Путь: scenes.credits.articles.content[0].content
+Было:  Алескеров, Фуад Т. и др. Распределение власти в Веймарском рейхстаге в 1919–1933 гг. 1806310, 1 декабря 2010 г. Social Science Research Network, https://doi.org/10.2139/ssrn.1806310.
+Стало: Aleskerov, Fuad T., et al. Power Distribution in the Weimar Reichstag in 1919-1933. 1806310, 1 Dec. 2010. Social Science Research Network, https://doi.org/10.2139/ssrn.1806310.
+
+Путь: scenes.library.weimar_timeline.content[1].content[1]
+Было:  : СДПГ образована в результате слияния Всеобщего германского рабочего союза, основанного Фердинандом Лассалем, и Социал-демократической рабочей партии Германии, возглавляемой Вильгельмом Либкнехтом и Августом Бебелем. Со временем СДПГ становится крупнейшей партией в Германской империи.
+Стало: : В результате слияния Всегерманского союза рабочих (основанного Фердинандом Лассалем) и Социал-демократической рабочей партии (возглавляемой Вильгельмом Либкнехтом и Августом Бебелем) образуется Социал-демократическая партия Германии (СДПГ). Со временем СДПГ становится крупнейшей партией Германской империи.
+
+Путь: scenes.library.weimar_timeline.content[2].content[0].content
+Было:  1914
+Стало: 1914 год
+
+Путь: scenes.library.weimar_timeline.content[3].content[0].content
+Было:  1917
+Стало: 1917 год
+
+Путь: scenes.library.weimar_timeline.content[4].content[0].content
+Было:  1918
+Стало: 1918 год
+
+Путь: scenes.library.weimar_timeline.content[5].content[0].content
+Было:  1919
+Стало: 1919 год
+
+Путь: scenes.library.weimar_timeline.content[6].content[0].content
+Было:  1920
+Стало: 1920 год
+
+Путь: scenes.library.weimar_timeline.content[7].content[0].content
+Было:  1921
+Стало: 1921 год
+
+Путь: scenes.library.weimar_timeline.content[8].content[0].content
+Было:  1922
+Стало: 1922 год
+
+Путь: scenes.library.weimar_timeline.content[9].content[0].content
+Было:  1923
+Стало: 1923 год
+
+Путь: scenes.library.weimar_timeline.content[10].content[0].content
+Было:  1924
+Стало: 1924 год
+
+Путь: scenes.library.weimar_timeline.content[11].content[0].content
+Было:  1925
+Стало: 1925 год
+
+Путь: scenes.library.weimar_timeline.content[12].content[0].content
+Было:  1926
+Стало: 1926 год
+
+Путь: scenes.game_over.achievements.content.content[13].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">р</span>ская коалиция</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Wei</span><span style="color: #DD0000;">ma</span><span style="color: #FFCC00;">ir</span>ская коалиция</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[136].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Wei</span><span style="color: #DD0000;">ma</span><span style="color: #FFCC00;">ar</span> Koalition</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;"><span style="color: #000000;">Wei</span><span style="color: #DD0000;">ma</span><span style="color: #FFCC00;">r</span> Koalition</div> <div class="achievement_subtitle"> - сформировать Веймарскую коалицию.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[266].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der Ã¶sterreichische Gefreite</div> <div class="achievement_subtitle"> — Вы депортировали <span style="color: #7A3C00;">Гитлера</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Der österreichische Gefreite</div> <div class="achievement_subtitle"> — Вы депортировали <span style="color: #7A3C00;">Гитлера</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[317].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Интересный эксперимент</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">НГП</span> была сформирована и выстояла. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Ein Interessantes Experiment</div> <div class="achievement_subtitle"> — <span style="color: #D3C24D; font-weight: bold;">НГП</span> была сформирована и выстояла. </div> </div> 
+
