@@ -21110,3 +21110,22 @@
 Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Чрезвычайное положение</div> <div class="achievement_subtitle"> - воспользуйтесь чрезвычайными полномочиями, чтобы отменить выборы.</div> </div> 
 Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Ausnahmezustand</div> <div class="achievement_subtitle"> - воспользуйтесь чрезвычайными полномочиями, чтобы отменить выборы.</div> </div> 
 
+
+========================================
+СБОРКА: 2026-03-19 12:30:34
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.iron_front.content.content[1].content[6]
+Было:  </span>, the trade unions, and the Рейхсбаннер. How should we use the <span style="color: #c00000;">
+Стало: </span>, профсоюзов и Рейхсбаннера. Как нам использовать <span style="color: #c00000;">
+
+Путь: scenes.game_over.achievements.content.content[102].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wels' wilder Ritt</div> <div class="achievement_subtitle"> - изберите Отто Вельса президентом. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wels' wilder Ritt</div> <div class="achievement_subtitle"> - изберите Отто Вельса президентом после импичмента Гинденбургу. </div> 
+
+Путь: scenes.game_over.achievements.content.content[348].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wels' wilder Ritt</div> <div class="achievement_subtitle"> - избрать Отто Вельса президентом. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wels' wilder Ritt</div> <div class="achievement_subtitle"> - избрать Отто Вельса президентом после импичмента Гинденбургу. </div> 
+
