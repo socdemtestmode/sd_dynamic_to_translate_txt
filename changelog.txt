@@ -21044,3 +21044,54 @@
 Было:  Сформировать в Рейхстаге дееспособное правительство — будь то большинства или меньшинства — невозможно. Следующие выборы назначены на
 Стало: Сформировать в Рейхстаге дееспособное правительство — будь то большинства или меньшинства — невозможно. Следующие выборы назначены на 
 
+
+========================================
+СБОРКА: 2026-03-19 08:09:17
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.labor_unrest.balance.content.content[0].content[0]
+Было:  Нам удаётся убедить министра труда
+Стало: Нам удаётся убедить министра труда 
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[10].content[5].content[2]
+Было:  </span> как-то удалось убедить
+Стало: </span> как-то удалось убедить 
+
+Путь: scenes.hindenburg_explode_president.convince_z_unity.title.content[3]
+Было:  поддержать 
+Стало:  поддержать 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_unity.title.content[3]
+Было:  поддержать
+Стало:  поддержать 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.title.content[3]
+Было:  поддержать
+Стало:  поддержать 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.title.content[3]
+Было:  поддержать
+Стало:  поддержать 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_spd.title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.death_of_hindenburg_president.pay_z.content.content[0].content[3]
+Было:  удалось убедить поддержать
+Стало:  удалось убедить поддержать
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_rosenfeld.options[1].title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_eckener.options[0].title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
