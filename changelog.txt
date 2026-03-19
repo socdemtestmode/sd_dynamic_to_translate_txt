@@ -21095,3 +21095,18 @@
 Было:  Убедить
 Стало: Убедить 
 
+
+========================================
+СБОРКА: 2026-03-19 08:11:57
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.game_over.achievements.content.content[144].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Экономическая политика</div> <div class="achievement_subtitle"> - примите экономический план.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wirtschaftspolitik</div> <div class="achievement_subtitle"> - примите экономический план.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[163].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Чрезвычайное положение</div> <div class="achievement_subtitle"> - воспользуйтесь чрезвычайными полномочиями, чтобы отменить выборы.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Ausnahmezustand</div> <div class="achievement_subtitle"> - воспользуйтесь чрезвычайными полномочиями, чтобы отменить выборы.</div> </div> 
+
