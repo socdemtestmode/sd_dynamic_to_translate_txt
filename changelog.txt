@@ -20409,3 +20409,638 @@
 Было:  под руководством канцлера Йозефа Вирта.
 Стало:  под руководством канцлера Йозефа Вирта.
 
+
+========================================
+СБОРКА: 2026-03-19 08:03:36
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[9].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[9].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.kpd_goals_2.content.content[8].content[2]
+Было:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+Стало:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+
+Путь: scenes.kpd_goals.content.content[9].content[2]
+Было:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+Стало:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+
+Путь: scenes.presidential_election_1932_round_2.pres_election.content.content[0].content[2]
+Было:  — его результаты разочаровали и его лично, и партию, 
+Стало:  — его результаты разочаровали и его лично, и партию, 
+
+Путь: scenes.presidential_election_1932_round_2.pres_election.content.content[1].content[3].content[0]
+Было:  разделятся между двумя кандидатами: 
+Стало: разделятся между следующими кандидатами: 
+
+Путь: scenes.presidential_election_1932_round_2.pres_election.content.content[1].content[3].content[3]
+Было:  ом и
+Стало:  и 
+
+Путь: scenes.presidential_election_1932_round_2.pres_election.content.content[1].content[5]
+Было:  ом. Однако Гугенбергская 
+Стало: . Однако Гугенбергская 
+
+Путь: scenes.dvp_party_congress.curtius.content.content[1].content[3].content
+Было:  Мы заметили снижение напряжённости в коалиции.
+Стало:  Мы заметили снижение напряжённости в коалиции.
+
+Путь: scenes.dvp_party_congress_reform.curtius.content.content[1].content[3].content
+Было:  Мы заметили снижение напряжённости в коалиции.
+Стало:  Мы заметили снижение напряжённости в коалиции.
+
+Путь: scenes.election_1928.cancel_elections_2.content.content[0].content[0]
+Было:  Хорошо. Президент
+Стало: Хорошо. Президент 
+
+Путь: scenes.kpd_conference.content[2].content[0]
+Было:  После переговоров с <span style="color: #940000;">Советами</span> мы склонны полагать, что <span style="color: #8B0000;">Сталин</span> по меньшей мере благосклонно относится к «примиренцам». Чтобы повлиять на <span style="color: #700000;">
+Стало: После переговоров с <span style="color: #940000;">Советами</span> мы склонны полагать, что <span style="color: #8B0000;">Сталин</span> по меньшей мере благосклонно относится к «примиренцам». Чтобы повлиять на выборы руководства в <span style="color: #700000;">
+
+Путь: scenes.kpd_conference.content[2].content[2]
+Было:  </span> выборы руководства, нам нужно повлиять как на лидеров <span style="color: #D50000;">Коминтерна</span>, так и на <span style="color: #700000;">
+Стало: </span>, нам нужно повлиять как на лидеров <span style="color: #D50000;">Коминтерна</span>, так и на рядовых членов <span style="color: #700000;">
+
+Путь: scenes.kpd_conference.content[2].content[4]
+Было:  </span> рядовых членов партии.
+Стало: </span>.
+
+Путь: scenes.socchrist_prussia_collapse.social_liberal_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-председателем Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.ddp_party_congress.dietrich.content.content[0].content[2]
+Было:  </span>, получив поддержку от нового доминирующего делового крыла партии, а также от <span style="color: #D3C24D;">демократов</span> старой закалки, которые вместе с ним выступали против слияния с <span style="color: #D3D3A9;">НСН
+Стало: </span>, получив поддержку от нового доминирующего делового крыла партии, а также от <span style="color: #D3C24D;">демократов</span> старой закалки, которые вместе с ним выступали против слияния с <span style="color: #D3D3A9;">
+
+Путь: scenes.groko_prussia_collapse.content.content[1].content[1].content[1].content
+Было:  КПГ
+Стало: КПГ, 
+
+Путь: scenes.groko_prussia_collapse.content.content[1].content[1].content[4]
+Было:  </span> также в знак протеста покинула прусскую коалицию. Нам удаётся с трудом собрать коалицию с
+Стало: </span> также в знак протеста покинула прусскую коалицию. Нам удаётся с трудом собрать коалицию с 
+
+Путь: scenes.groko_prussia_collapse.content.content[1].content[1].content[10].content
+Было:  &nbsp;миноритарной
+Стало: &nbsp; правительства меньшинства в
+
+Путь: scenes.groko_prussia_collapse.content.content[1].content[1].content[11]
+Было:   <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ской</span> коалиции, что ограничивает ущерб.
+Стало:  <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ской</span> коалиции, что снижает ущерб.
+
+Путь: scenes.hitler_cabinet_dead.give_up_1.content.content[2].content[0]
+Было:  Следующие выборы назначены на
+Стало: Следующие выборы назначены на 
+
+Путь: scenes.soclib_prussia_collapse.right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.weimar_prussia_collapse.right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.dvp_party_congress_3_luther.content[2].content[2]
+Было:  </span> ветеран и парламентарий Зигфрид фон Кардорф — традиционный политик, поддержанный Лютером. Ожидается, что он продолжит его умеренный курс на поддержку Бюргерблоков, сохраняя при этом открытой дверь для сотрудничества с <span style="color: #c00000;">
+Стало: </span> ветеран и парламентарий Зигфрид фон Кардорф — традиционный политик, поддержанный Лютером. Ожидается, что он продолжит его умеренный курс на поддержку Буржуазного блока, сохраняя при этом открытой дверь для сотрудничества с <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.iron_front.content.content[0]
+Было:  <span style="color: #c00000;">«Железный
+Стало: <span style="color: #c00000;">
+
+Путь: scenes.socchrist_prussia_collapse.right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.soclib_prussia_collapse.center_right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.weimar_prussia_collapse.center_right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.weimar_prussia_collapse.center_right_coalition.subtitle.content[7].content
+Было:  другими
+Стало: Прочие
+
+Путь: scenes.weimar_prussia_collapse.center_right_coalition.content.content[2].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.weimar_prussia_collapse.center_right_coalition.content.content[2].content[5]
+Было:  избран министром-председателем Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.saxony_reichsexekution_popular.surrender.subtitle
+Было:  Гинденбург назначит правого <i>Reichskommissar</i>.
+Стало: Гинденбург назначит правого <i>Рейхскомиссара</i>.
+
+Путь: scenes.saxony_reichsexekution_popular.content.content[1].content[0]
+Было:  Президент
+Стало: Президент 
+
+Путь: scenes.saxony_reichsexekution_popular.content.content[1].content[4]
+Было:  </span>, Рейхсбаннер, and the increasingly militant <span style="color: #700000;">
+Стало: </span>, Рейхсбаннером и всё более усиляющейся <span style="color: #700000;">
+
+Путь: scenes.saxony_reichsexekution_popular.content.content[1].content[8]
+Было:  </span> воскресило в памяти события прошлых лет.
+Стало: </span> воскресила в памяти события прошлых лет.
+
+Путь: scenes.socchrist_prussia_collapse.center_right_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.thuringia_reichsexekution_popular.surrender.subtitle
+Было:  Гинденбург назначит нового <i>Reichskommissar</i>.
+Стало: Гинденбург назначит нового <i>Рейхскомиссара</i>.
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.main.content.content[84].content[1].content[2]
+Было:  </span> наряду с другими буржуазными партиями всё чаще отказываются от коалиций с нами на местном уровне, предпочитая формировать <i>Бюргерблокs</i>. Обе либеральные партии присоединились к 
+Стало: </span> наряду с другими буржуазными партиями всё чаще отказываются от коалиций с нами на местном уровне, предпочитая формировать <i>Буржуазные блоки</i>. Обе либеральные партии присоединились к коалиции 
+
+Путь: scenes.main.content.content[84].content[1].content[5]
+Было:  -<span style="color: #3E88B3;">
+Стало:  и <span style="color: #3E88B3;">
+
+Путь: scenes.main.content.content[84].content[1].content[7]
+Было:  </span> коалиции в Вюртемберге.
+Стало: </span> в Вюртемберге.
+
+Путь: scenes.ddp_dietrich_explode.subtitle.content[0]
+Было:  Причина:
+Стало: Причина: 
+
+Путь: scenes.ddp_dietrich_explode.subtitle.content[1].content
+Было:  падение популярности на выборах
+Стало:  падение популярности на выборах
+
+Путь: scenes.presidential_election_1932_campaign_alt.center_glaze.title.content[0]
+Было:  Мы убеждаем
+Стало: Мы убеждаем 
+
+Путь: scenes.presidential_election_1932_campaign_alt.center_glaze.title.content[3]
+Было:  принять более активное участие в нашей кампании.
+Стало:  принять более активное участие в нашей кампании.
+
+Путь: scenes.presidential_election_1932_campaign_alt.center_glaze.unavailableSubtitle.content[1].content
+Было:  У нас недостаточно хорошие отношения.
+Стало:  У нас недостаточно хорошие отношения.
+
+Путь: scenes.presidential_election_1932_campaign_alt.center_glaze.unavailableSubtitle.content[3].content
+Было:  Недостаточно ресурсов.
+Стало:  Недостаточно ресурсов.
+
+Путь: scenes.presidential_election_1932_campaign.center_glaze.title.content[0]
+Было:  Мы убеждаем
+Стало: Мы убеждаем 
+
+Путь: scenes.presidential_election_1932_campaign.center_glaze.title.content[3]
+Было:  принять более активное участие в нашей кампании.
+Стало:  принять более активное участие в нашей кампании.
+
+Путь: scenes.presidential_election_1932_campaign.center_glaze.subtitle.content[3]
+Было:  не вносит достаточный вклад. -1 к ресурсам
+Стало:  не вносит достаточный вклад. -1 к ресурсам
+
+Путь: scenes.presidential_election_1932_campaign.center_glaze.unavailableSubtitle.content[1].content
+Было:  У нас недостаточно хорошие отношения.
+Стало:  У нас недостаточно хорошие отношения.
+
+Путь: scenes.presidential_election_1932_campaign.center_glaze.unavailableSubtitle.content[3].content
+Было:  Недостаточно ресурсов.
+Стало:  Недостаточно ресурсов.
+
+Путь: scenes.presidential_election_1932_candidate.luther.content.content[1].content[0]
+Было:  Его кандидатуру поддерживает
+Стало: Его кандидатуру поддерживает 
+
+Путь: scenes.presidential_election_1932_candidate.luther.content.content[1].content[4].content[0]
+Было:  Формально его также поддерживает <span style="color: #D3C24D;">
+Стало:  Формально его также поддерживает <span style="color: #D3C24D;">
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.soclib_prussia_collapse.bourgeois_coalition_kvp.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.weimar_prussia_collapse.bourgeois_coalition_kvp.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[1].content[3]
+Было:  избран временным канцлером. Следующие выборы назначены на
+Стало: избран временным канцлером. Следующие выборы назначены на 
+
+Путь: scenes.presidential_election_1932_campaign_alt.communist_glaze.content.content[1].content.content[3]
+Было:   отозвала свою поддержку Брауна.
+Стало:  отозвала свою поддержку Брауна, если её оказывала.
+
+Путь: scenes.presidential_election_1932_campaign.communist_glaze.content.content[1].content.content[3]
+Было:   отозвала свою поддержку Брауна.
+Стало:  отозвала свою поддержку Брауна, если её оказывала.
+
+Путь: scenes.presidential_election_1932_candidate.gessler.content.content[1].content[0]
+Было:  Его кандидатуру поддерживает
+Стало: Его кандидатуру поддерживает 
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition_kvp.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition_kvp.content.content[1].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.socchrist_prussia_collapse.bourgeois_coalition_kvp.content.content[1].content[5]
+Было:  избран министром-председателем Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussia_election_1928.social_liberal_coalition_prussia.content.content[1].content.content[2]
+Было:  избран министром-председателем Пруссии.
+Стало:  избран министром-президентом Пруссии.
+
+Путь: scenes.prussian_coup.surrender.content[2].content
+Было:  Президент Гинденбург назначает <span style="color: #808080;">реакционера</span> Франца фон Папена на должность <i>Reichskommissar</i>'а Пруссии, поручив ему демонтировать демократические структуры, за сохранение которых мы боролись. Это способствует амбициям Папена по созданию «Нового государства» — такого, что объединит посты канцлера и премьер-министра Пруссии в одних авторитарных руках.
+Стало: Президент Гинденбург назначает <span style="color: #808080;">реакционера</span> Франца фон Папена на должность <i>Рейхскомиссара</i> Пруссии, поручив ему демонтировать демократические структуры, за сохранение которых мы боролись. Это способствует амбициям Папена по созданию «Нового государства» — такого, что объединит посты канцлера и премьер-министра Пруссии в одних авторитарных руках.
+
+Путь: scenes.prussian_coup.content.content[2].content[5]
+Было:  Папен переходит к захвату власти. Если этот переворот увенчается успехом, Папен передаст контроль над Пруссией <span style="color: #808080;">реакционному</span> <i>Reichskommissar</i>. Это продуманный ход, чтобы привлечь на свою сторону <span style="color: #7A3C00;">
+Стало: Папен переходит к захвату власти. Если этот переворот увенчается успехом, Папен передаст контроль над Пруссией <span style="color: #808080;">реакционному</span> <i>Рейхскомиссару</i>. Это продуманный ход, чтобы привлечь на свою сторону <span style="color: #7A3C00;">
+
+Путь: scenes.weimar_prussia_collapse.content.content[2].content[0].content[3]
+Было:  до
+Стало:  до 
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.title.content[6]
+Было:  и видный деятель христианских профсоюзов.
+Стало:  и видный деятель христианских профсоюзов.
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.content.content[1].content[4].content
+Было:  Он может привлечь на свою сторону часть голосов <span style="color: #3E88B3;">националистов</span>.
+Стало:  Он может привлечь на свою сторону часть голосов <span style="color: #3E88B3;">националистов</span>.
+
+Путь: scenes.presidential_election_1932_candidate.vorbeck.content.content[2].content[0]
+Было:  Его кандидатуру поддерживают
+Стало: Его кандидатуру поддерживают 
+
+Путь: scenes.presidential_election_1932_candidate.vorbeck.content.content[2].content[2].content
+Было:  все партии «Бюргерблок», которые видят в нём свою последнюю общую надежду удержать власть.
+Стало: все партии «Буржуазного блока», которые видят в нём свою последнюю общую надежду удержать власть.
+
+Путь: scenes.presidential_election_1932_round_1.round2_menu.options[4].title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.presidential_election_1932_round_1.round2_menu.options[9].title.content[0]
+Было:  Перейти на сторону
+Стало: Перейти на сторону 
+
+Путь: scenes.presidential_election_1932_round_1.round2_menu.options[9].title.content[7]
+Было:  .
+Стало: а.
+
+Путь: scenes.presidential_election_1932_round_1.round2_menu.options[10].title.content[0]
+Было:  Перейти на сторону
+Стало: Перейти на сторону 
+
+Путь: scenes.presidential_election_1932_round_1.round2_menu.options[10].title.content[7]
+Было:  .
+Стало: а.
+
+Путь: scenes.presidential_election_1932_candidate.westarp.content.content[2].content[0]
+Было:  Его кандидатуру поддерживают
+Стало: Его кандидатуру поддерживают 
+
+Путь: scenes.rally.pacifism.content.content[0].content
+Было:  Наши ораторы осуждают военные круги и все те средства, что уходят в эту чёрную дыру. Некоторые особо смелые ораторы ставят под сомнение ответственность военной элиты за развязывание Великой войны.
+Стало: Наши ораторы осуждают военные круги и все те средства, что уходят в эту чёрную дыру. Некоторые особо смелые ораторы винят военные элиты в развязывании Великой войны.
+
+Путь: scenes.local_election_1932.bourgeois_coalition_wurttemberg.title.content[3]
+Было:  в коалиции с <span style="color: #006400;">
+Стало:  в коалиции с <span style="color: #006400;">
+
+Путь: scenes.foreign_policy.concordat_negotiate.content.content[0].content[3]
+Было:  особенно заинтересована в заключении этого соглашения. Либеральные партии выступают против этой идеи.
+Стало:  особенно заинтересована в заключении этого соглашения. Либеральные партии выступают против этой идеи. 
+
+Путь: scenes.foreign_policy.concordat_negotiate.content.content[1].content[4].content[0]
+Было:  Каас из
+Стало: Каас из 
+
+Путь: scenes.election_1928.popular_front_coalition.content.content[0].content[0]
+Было:  Неужели мы сможем сформировать коалицию, в которую войдут и 
+Стало: Неужели мы сможем сформировать коалицию, в которую войдут 
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[5]
+Было:   по крайней мере готовы рассмотреть возможность переговоров. Разумеется, <span style="color: #700000;">
+Стало:  по крайней мере готовы рассмотреть возможность переговоров. Разумеется, радикалы в <span style="color: #700000;">
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[7]
+Было:  </span>-радикалы и
+Стало: </span> и консерваторы в 
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[8].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Центре</span>
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[10]
+Было:   консерваторы почти немедленно срывают переговоры. <span style="color: #700000;">
+Стало:  почти немедленно срывают переговоры. <span style="color: #700000;">
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[12]
+Было:  </span> требует руководства коалицией для себя и своего председателя Эрнста Тельмана, 
+Стало: </span> требует руководства коалицией для своего председателя Эрнста Тельмана, 
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[13].content
+Было:  несмотря на то, что у нас больше голосов, 
+Стало: а ведь у нас больше голосов, 
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[14]
+Было:  в то время как
+Стало: в то время как 
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[15].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.election_1928.popular_front_2.content.content.content[20].content
+Было:  Нечто
+Стало:  Нечто
+
+Путь: scenes.prussian_coalition_formation.kpd_goals_prussia.content.content[5].content[2]
+Было:  нескольких месяцев. В противном случае они проголосуют за роспуск коалиции.
+Стало:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+
+Путь: scenes.prussian_coalition_formation.right_coalition_prussia.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.prussian_coalition_formation.center_right_coalition_prussia.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[0].content[3]
+Было:  Конрада Аденауэра. Это консолидирует голоса умеренного <i>Бюргерблок</i>, и, как ожидается, они смогут оказать достойное сопротивление 
+Стало: Конрада Аденауэра. Это консолидирует голоса умеренного <i>Буржуазный блок</i>, и, как ожидается, они смогут оказать достойное сопротивление 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[2].content[3]
+Было:   Конрад Аденауэр снял свою кандидатуру в пользу либерального кандидата Теодора Хойса. Это консолидирует голоса умеренного <i>Бюргерблок</i>, и ожидается, что они смогут дать достойный бой 
+Стало:  Конрад Аденауэр снял свою кандидатуру в пользу либерального кандидата Теодора Хойса. Это консолидирует голоса умеренного <i>Буржуазного блока</i>, и ожидается, что они смогут дать достойный бой 
+
+Путь: scenes.presidential_election_1932_campaign_alt.bourgeois_glaze_eckener.unavailableSubtitle.content[3].content[3]
+Было:  недостаточно хороши.
+Стало:  недостаточно хороши.
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_prussia.title
+Было:  Сформирован Бюргерблок.
+Стало: Сформирован Буржуазный блок.
+
+Путь: scenes.election_1928.popular_front_prussia.options[4].title
+Было:  А, так вы считаете, что СДПГ предала рабочий класс? Кто бы говорил, но не КПГ, самопровозглашённый „авангард пролетариата“, который больше времени тратил на нападки на социалистов, чем на борьбу с фашистами. Давайте поговорим о настоящем предательстве, товарищ. Пока СДПГ пыталась стабилизировать республику и отбиваться от фашистских путчей вроде Капповского, где была КПГ? А, точно — она кричала, что социал-демократы — это „социал-фашисты“, потому что они отказались в одночасье уничтожить республики. Не будем делать вид, будто у СДПГ не было недостатков. Конечно, Эберт призвал фрайкор для подавления восстания спартакистов. Некрасиво вышло, но давайте не будем делать вид, что авантюризм КПГ и её отказ от сотрудничества не ослабили левых. Пока СДПГ защищала профсоюзы и проводила рабочие реформы, КПГ заискивала перед Москвой и заявляла, что Веймарская республика мертворождена. И я уж молчу о том, как КПГ расколола левый электорат в 1933-м и 1925-м. Неужели „классовая чистота“ стоила того, чтобы позволить Гитлеру прийти к власти? Но конечно, продолжайте называть СДПГ продажными ренегатами, пока сами играете в революционеров и не понимаете, что сожжение дотла всей системы волшебным образом к социализму не приведёт. Наоборот, это лишь открывает двери для реакционеров. СДПГ не была идеальной, но она по крайней мере пыталась держать оборону. А КПГ? Это хрестоматийный пример того, как попытка утереть нос „соглашателям“ обернулась чудовищной катастрофой. Поздравляю, товарищ, ваша идеологическая чистота стоила нам Республики, 12 лет нацизма и миллионов жизней. Надеюсь, вы этим гордитесь.
+Стало: А, так вы считаете, что СДПГ предала рабочий класс? Кто бы говорил, но не КПГ, самопровозглашённый „авангард пролетариата“, который больше времени тратил на нападки на социалистов, чем на борьбу с фашистами. Давайте поговорим о настоящем предательстве, товарищ. Пока СДПГ пыталась стабилизировать республику и отбиваться от фашистских путчей вроде Капповского, где была КПГ? А, точно — она кричала, что социал-демократы — это „социал-фашисты“, потому что они отказались в одночасье уничтожить республики. Не будем делать вид, будто у СДПГ не было недостатков. Конечно, Эберт призвал фрайкор для подавления восстания спартакистов. Некрасиво вышло, но давайте не будем делать вид, что авантюризм КПГ и её отказ от сотрудничества не ослабили левых. Пока СДПГ защищала профсоюзы и проводила рабочие реформы, КПГ заискивала перед Москвой и заявляла, что Веймарская республика мертворождена. И я уж молчу о том, как КПГ расколола левый электорат в 1932-м и 1925-м. Неужели „классовая чистота“ стоила того, чтобы позволить Гитлеру прийти к власти? Но конечно, продолжайте называть СДПГ продажными ренегатами, пока сами играете в революционеров и не понимаете, что сожжение дотла всей системы волшебным образом к социализму не приведёт. Наоборот, это лишь открывает двери для реакционеров. СДПГ не была идеальной, но она по крайней мере пыталась держать оборону. А КПГ? Это хрестоматийный пример того, как попытка утереть нос „соглашателям“ обернулась чудовищной катастрофой. Поздравляю, товарищ, ваша идеологическая чистота стоила нам Республики, 12 лет нацизма и миллионов жизней. Надеюсь, вы этим гордитесь.
+
+Путь: scenes.election_1928.popular_front_prussia.content.content[0].content[3].content[0]
+Было:  Это означает, что мы вынуждены исключить <span style="color: #C0A054;">
+Стало:  Это означает, что мы вынуждены исключить <span style="color: #C0A054;">
+
+Путь: scenes.prussia_election_1928.kpd_goals_prussia.content.content[5].content[2]
+Было:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+Стало:  месяцев. В противном случае они проголосуют за роспуск коалиции.
+
+Путь: scenes.prussian_coalition_formation.bourgeois_coalition_kvp_prussia.title
+Было:  Отказаться от формирования правительства, чтобы мог быть сформирован Бюргерблок.
+Стало: Отказаться от формирования правительства, чтобы мог быть сформирован Буржуазный блок.
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[0].content[3].content[1].content
+Было:  Демократической партии
+Стало: Демократическая партия
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[0].content[4].content[1].content
+Было:  Государственной партии
+Стало: Государственная партия
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[0].content[5]
+Было:   не обязательно нас поддержат, 
+Стало:  не обязательно нас поддержит, 
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[1].content[4].content
+Было:  но, по крайней мере, готовы на это из-за своего нежелания поддерживать Гинденбурга
+Стало: но, по крайней мере, готовы на это из-за своего нежелания поддерживать Гинденбурга.
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[2]
+Было:  . Кто ещё нас поддержит? Сможем ли мы убедить 
+Стало:  Кто ещё нас поддержит? Сможем ли мы убедить 
+
+Путь: scenes.election_1928.popular_front_prussia_weimar.unavailableSubtitle.content[2].content[0]
+Было:  Наши отношения с
+Стало: Наши отношения с 
+
+Путь: scenes.election_1928.popular_front_prussia_weimar.unavailableSubtitle.content[2].content[3]
+Было:  недостаточно хороши.
+Стало:  недостаточно хороши.
+
+Путь: scenes.election_1928.popular_front_prussia_groko.unavailableSubtitle.content[2].content[0]
+Было:  Наши отношения с
+Стало: Наши отношения с 
+
+Путь: scenes.election_1928.popular_front_prussia_groko.unavailableSubtitle.content[2].content[3]
+Было:  недостаточно хороши.
+Стало:  недостаточно хороши.
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[0].content[7]
+Было:  Это консолидирует голоса умеренного «бюргерблока» и привлекает часть голосов малых правых партий.
+Стало: Это консолидирует голоса умеренного «буржуазного блока» и привлекает часть голосов малых правых партий.
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[10]
+Было:  . Это консолидирует голоса умеренного «бюргерблока» и привлекает часть голосов малых правых партий.
+Стало: . Это консолидирует голоса умеренного «буржуазного блока» и привлекает часть голосов малых правых партий.
+
+Путь: scenes.election_1928.popular_front_success.content.content.content[8].content[0]
+Было:  а также для президента
+Стало: , а также для президента 
+
+Путь: scenes.election_1928.popular_front_success.content.content.content[8].content[2]
+Было:  , пусть и с крайней неохотой. 
+Стало: а, пусть и с крайней неохотой. 
+
+Путь: scenes.presidential_election_1932_round_1.z_failed.content.content.content[2].content
+Было:  Гинденбурга
+Стало:  Гинденбурга
+
+Путь: scenes.presidential_election_1932_round_1.z_failed.content.content.content[3]
+Было:  .
+Стало:  .
+
+Путь: scenes.prussia_election_1928.bourgeois_coalition_kvp_prussia.title
+Было:  Отказаться от формирования правительства, чтобы мог быть сформирован Бюргерблок.
+Стало: Отказаться от формирования правительства, чтобы мог быть сформирован Буржуазный блок.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.hammerstein_win.content.content.content[5].content[2]
+Было:   в качестве <i>Reichskommissar</i>.
+Стало:  в качестве <i>Рейхскомиссара</i>.
+
+Путь: scenes.election_1928.popular_front_no_civil_war.content.content[0].content[2]
+Было:  </span> в правительство правые пока что занимают выжидательную позицию. Они ожидают, что правительство Народного фронта будет нестабильным и некомпетентным и развалится само по себе, что дискредитирует левых и центристов и в конечном итоге позволит уничтожить <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>скую республику. Наша задача — доказать, что они ошибаются. 
+Стало: </span> в правительство правые пока что занимают выжидательную позицию. Они ожидают: правительство Народного фронта будет нестабильным и некомпетентным и развалится само по себе. В итоге это дискредитирует левых и центристов и в конечном итоге позволит уничтожить <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>скую республику. Наша задача — доказать, что они ошибаются. 
+
+Путь: scenes.election_1928.popular_front_no_civil_war.content.content[1].content[2]
+Было:  </span> отказалась от министерских постов. Они утверждают: они есть «лояльной оппозицией» в правительстве Народного фронта, поддерживающая нас извне, но в то же время ведущая собственную пропаганду, чтобы переманить рабочих на свою сторону. Похоже, они рассчитывают, что Народный фронт неизбежно провалится, а наша неудача пойдёт им на пользу.
+Стало: </span> отказалась от министерских постов. Они утверждают: они «лояльная оппозиция» в правительстве Народного фронта, поддерживающая нас извне, но в то же время ведущая собственную пропаганду, чтобы переманить рабочих на свою сторону. Похоже, они рассчитывают, что Народный фронт неизбежно провалится, а наша неудача пойдёт им на пользу.
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[0].title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[0].title.content[4].content[0]
+Было:  &nbsp;и отказаться от поддержки
+Стало: &nbsp;и отказаться от поддержки 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[0].title.content[5]
+Было:  .
+Стало: а.
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[2].title.content[3].content[0]
+Было:  &nbsp;и отозвать поддержку у
+Стало: &nbsp;и отозвать поддержку 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[2].title.content[4]
+Было:  .
+Стало: а.
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[3].title.content[3].content[0]
+Было:  &nbsp;и отозвать поддержку у
+Стало: &nbsp;и отозвать поддержку 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[3].title.content[4]
+Было:  .
+Стало: а.
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[0].content[0]
+Было:  Будем надеяться, что <span style="color: #c00000;">
+Стало: Будем надеяться, что коалиция <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[0].content[2]
+Было:  </span> коалиция достаточно сильна, чтобы противостоять 
+Стало: </span>а достаточно сильна, чтобы противостоять 
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[0].content[4].content[0]
+Было:  &nbsp;и
+Стало: у&nbsp;и 
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[0].content[5]
+Было:  .
+Стало: у.
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[2].content.content[2]
+Было:  </span> выходит из нашей бывшей коалиции и поддерживает собственного кандидата.
+Стало: </span> выходит из нашей коалиции и поддерживает собственного кандидата.
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[0]
+Было:  Мы напоминаем
+Стало: Мы напоминаем лидерам 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[1].content
+Было:  лидерам <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Центра</span>
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[4].content
+Было:  об антикатолицизме <span style="color: #808080;">Гинденбурга</span> и пытаемся убедить их, что его путь в конечном итоге приведёт к Гитлеру. 
+Стало:  об антикатолицизме <span style="color: #808080;">Гинденбурга</span> и пытаемся убедить их: его путь в конечном итоге приведёт к Гитлеру. 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[5].content
+Было:  о нашей подлинной приверженности <span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканским</span> и демократическим принципам. 
+Стало:  о нашей подлинной приверженности <span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканским</span> и демократическим принципам. 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[7].content[0]
+Было:  Мы также напоминаем им об успехах, которых они добились в составе нашей <span style="color: #000000;">ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> коалиции в Пруссии с 
+Стало:  Мы также напоминаем им об успехах, которых они добились в составе нашей <span style="color: #000000;">ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> коалиции в Пруссии с 
+
+Путь: scenes.election_1928.left_front_prussia.options[4].title
+Было:  ах, так теперь КПГ вздумала читать нотации СДПГ о «предательстве»? просто умора. давайте не будем забывать, кто на самом деле предал рабочий класс. пока СДПГ тут пыталась защитить Веймарскую республику от захвата власти фашистами, что делала КПГ? нападала на социал-демократов, называя их «классовыми предателями» за то, что мы не хотели выбрасывать республику на помойку и начинать обреченную и бессмысленную революцию. Да, Эберт наломал дров с фрайкором, но хотя бы пытался не дать всему развалиться. а что делала КПГ? подлизывалась к Сталину, делала вид, будто Веймарская республика уже мертва и обречена. и ещё смеете говорить о предательстве? КПГ была слишком занята, строя из себя мучеников, раскалывая левый электорат и открывая фашистам прямой путь к власти. поздравляю, гении. расколоть электорат в 1933-м и 1925-м под мантры о «классовой чистоте» — очень умно. у СДПГ были свои недостатки, но они действительно пытались что-то исправить, сдержать фашистов и дать рабочим шанс на борьбу. а вы? вы просто сыграли им на руку. революции не делаются, когда глядишь на всех свысока, отказываешься от сотрудничества и закатываешь истерики. если уж на то пошло, КПГ сама преподнесла власть Гитлеру на блюдечке с голубой каёмочкой. так что продолжайте ныть о «предательстве», в то время как сами только и делаете, что разрушаете то единственное, что могло остановить фашистов. отличная работа.
+Стало: Ах, так теперь КПГ вздумала читать нотации СДПГ о «предательстве»? просто умора. давайте не будем забывать, кто на самом деле предал рабочий класс. пока СДПГ тут пыталась защитить Веймарскую республику от захвата власти фашистами, что делала КПГ? нападала на социал-демократов, называя их «классовыми предателями» за то, что мы не хотели выбрасывать республику на помойку и начинать обреченную и бессмысленную революцию. Да, Эберт наломал дров с фрайкором, но хотя бы пытался не дать всему развалиться. а что делала КПГ? подлизывалась к Сталину, делала вид, будто Веймарская республика уже мертва и обречена. и ещё смеете говорить о предательстве? КПГ была слишком занята, строя из себя мучеников, раскалывая левый электорат и открывая фашистам прямой путь к власти. поздравляю, гении. расколоть электорат в 1932-м и 1925-м под мантры о «классовой чистоте» — очень умно. у СДПГ были свои недостатки, но они действительно пытались что-то исправить, сдержать фашистов и дать рабочим шанс на борьбу. а вы? вы просто сыграли им на руку. революции не делаются, когда глядишь на всех свысока, отказываешься от сотрудничества и закатываешь истерики. если уж на то пошло, КПГ сама преподнесла власть Гитлеру на блюдечке с голубой каёмочкой. так что продолжайте ныть о «предательстве», в то время как сами только и делаете, что разрушаете то единственное, что могло остановить фашистов. отличная работа.
+
+Путь: scenes.presidential_election_1932_candidate.z_failed.content.content.content[3]
+Было:  от
+Стало:  от 
+
+Путь: scenes.presidential_election_1932_candidate.convince_kpd.content.content.content[0]
+Было:  <span style="color: #700000;">
+Стало: У <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_candidate.convince_kpd.content.content.content[2]
+Было:  </span> поддерживает собственного кандидата, 
+Стало: </span> есть собственный кандидат, 
+
+Путь: scenes.presidential_election_1932_candidate.convince_kpd.content.content.content[5].content
+Было:  Однако их можно убедить снять своего кандидата и поддержать Брауна. Как нам их убедить?
+Стало:  Однако их можно убедить снять своего кандидата и поддержать Брауна. Как нам их убедить?
+
+Путь: scenes.election_1928.schleicher_dsu_nay_2.content.content[1].content[0].content
+Было:  Пост прусского <i>Reichskommissar</i> также передан от Шлейхера Гёрделеру — это знак того, что Шлейхер действительно отказался от плана Папена по централизации государства, и намёк на возможное возвращение к демократическому правлению после восстановления стабильности. Браун в восторге от этого и утверждает, что лишь разрыв со Шлейхером заставит того передумать. 
+Стало: Пост прусского <i>Рейхскомиссара</i> также передан от Шлейхера Гёрделеру — это знак того, что Шлейхер действительно отказался от плана Папена по централизации государства, и намёк на возможное возвращение к демократическому правлению после восстановления стабильности. Браун в восторге от этого и утверждает, что лишь разрыв со Шлейхером заставит того передумать. 
+
+Путь: scenes.election_1928.brauns_dilemma.content.content.content[2]
+Было:   стоит перед дилеммой. Он отчаянно жаждет <span style="color: #c00000;">социалистического</span> или хотя бы <span style="color: #D3C24D;">демократического</span> правительства, но результаты выборов не позволяют его сформировать. Статья 48 использовалась Гинденбургом для проведения анти<span style="color: #D3C24D;">демократической</span> и анти<span style="color: #c00000;">рабочей</span> политики; можно ли использовать её как во благо, так и во зло?
+Стало:  стоит перед дилеммой. Он отчаянно жаждет <span style="color: #c00000;">социалистического</span> или хотя бы <span style="color: #D3C24D;">демократического</span> правительства, но результаты выборов не позволяют его сформировать. Статья 48 использовалась Гинденбургом для проведения анти<span style="color: #D3C24D;">демократической</span> и анти<span style="color: #c00000;">рабочей</span> политики; можно ли использовать её не только во зло, но и во благо?
+
+Путь: scenes.election_1928.emergency_braun.options[0].title.content[0]
+Было:  Отто Брауна — в канцлеры
+Стало: Отто Брауна — в Канцлеры
+
+Путь: scenes.election_1928.emergency_braun.options[0].title.content[1].content
+Было:  -Президент
+Стало: -Президенты
+
+Путь: scenes.election_1928.emergency_braun.options[1].title
+Было:  Рудольфа Брейтшейда — в чрезвычайные канцлеры.
+Стало: Рудольфа Брейтшейда — в чрезвычайного канцлера.
+
+Путь: scenes.election_1928.emergency_braun.options[2].title.content[0]
+Было:  Брюнинга из
+Стало: Брюнинга из 
+
+Путь: scenes.election_1928.emergency_braun.options[2].title.content[3]
+Было:  , как жест доброй воли в сторону буржуазии.
+Стало:  — как жест доброй воли в сторону буржуазии.
+
+Путь: scenes.election_1928.breitscheid_emergency_chancellor.subtitle
+Было:  <span style="color: #700000;">Коммунисты</span> начинают относятся к нему благосклоннее…
+Стало: <span style="color: #700000;">Коммунисты</span> относятся к нему благосклоннее…
+
+Путь: scenes.election_1928.emergency_no_confidence.content.content[0].content[8].content[3]
+Было:  голосует против нас.
+Стало:  голосует против нас. 
+
+Путь: scenes.election_1928.emergency_no_confidence.content.content[1].content[2]
+Было:  % депутатов рейхстага против нас.
+Стало: % депутатов рейхстага против нас. 
+
+Путь: scenes.election_1928.no_confidence_elections_new.content.content.content[0]
+Было:  Следующие выборы назначены на
+Стало: Следующие выборы назначены на 
+
+Путь: scenes.election_1928.new_elections_2.content.content[0].content[0]
+Было:  Сформировать в Рейхстаге дееспособное правительство — будь то большинства или меньшинства — невозможно. Следующие выборы назначены на
+Стало: Сформировать в Рейхстаге дееспособное правительство — будь то большинства или меньшинства — невозможно. Следующие выборы назначены на 
+
