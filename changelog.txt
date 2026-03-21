@@ -24103,3 +24103,346 @@
 Было:   начинается. Всё висело на волоске.
 Стало: . Всё висело на волоске.
 
+
+========================================
+СБОРКА: 2026-03-21 09:48:27
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.ending_slides.taming_lose.content.content[0].content[0]
+Было:  С назначением
+Стало: С назначением 
+
+Путь: scenes.ending_slides.taming_lose.content.content[0].content[2]
+Было:   и с принятием Закона о чрезвычайных полномочиях Германия обречена. Шлейхер, всё чаще отстраняемый от дел по состоянию здоровья, исчезает в небытие. После
+Стало: а и с принятием Закона о чрезвычайных полномочиях Германия обречена. Шлейхер, всё чаще отстраняемый от дел по состоянию здоровья, исчезает в небытие. После 
+
+Путь: scenes.ending_slides.taming_lose.content.content[0].content[3].content
+Было:  &nbsp;смерти президента Гинденбурга и
+Стало: &nbsp;смерти президента Гинденбурга и 
+
+Путь: scenes.ending_slides.taming_lose.content.content[0].content[4]
+Было:  его
+Стало: его 
+
+Путь: scenes.ending_slides.taming_lose.content.content[0].content[5].content
+Было:  &nbsp;собственной
+Стало: &nbsp;собственной 
+
+Путь: scenes.main.main_easy.content.content[84].content[1].content[2]
+Было:  </span>, как и другие буржуазные партии, всё чаще отказываются от коалиций с нами на местном уровне, предпочитая вместо этого формировать <i>Буржуазный Блок</i>. Обе либеральные партии вошли в 
+Стало: </span>, как и другие буржуазные партии, всё чаще отказываются от коалиций с нами на местном уровне, предпочитая вместо этого формировать <i>Буржуазный Блок</i>. Обе либеральные партии вошли в коалицию 
+
+Путь: scenes.main.main_easy.content.content[84].content[1].content[5]
+Было:  -<span style="color: #3E88B3;">
+Стало:  и <span style="color: #3E88B3;">
+
+Путь: scenes.main.main_easy.content.content[84].content[1].content[7]
+Было:  </span> коалицию в Вюртемберге.
+Стало: </span> в Вюртемберге.
+
+Путь: scenes.main.main_easy.content.content[263].content[1].content[9]
+Было:  в
+Стало:  в 
+
+Путь: scenes.main.main_easy.content.content[263].content[1].content[12].content
+Было:  , которая с тех пор откололась от Брюнинга,
+Стало: , которая с тех пор откололась от Брюнинга
+
+Путь: scenes.fundraising.maintain.subtitle.content[2]
+Было:  ед. ресурсов в год.
+Стало:  ед. ресурсов в год.
+
+Путь: scenes.iron_front.defense.subtitle.content[2]
+Было:  ресурсы
+Стало:  ресурсы
+
+Путь: scenes.reichsbanner.militant.subtitle.content[2]
+Было:  ресурсов
+Стало:  ресурсов
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[0]
+Было:  С Гугенбергом и
+Стало: Гугенберг и 
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[2]
+Было:  его непримиримостью — и их непреодолимыми разногласиями с
+Стало: — непримиримы. Из-за их непреодолимых разногласий с
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[5]
+Было:  и президентом Гинденбургом — положение Гёрделера становится шатким. В ходе вотума недоверия
+Стало:  и президентом Гинденбургом положение Гёрделера становится шатким. В ходе вотума недоверия 
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[8]
+Было:   отказала ему в поддержке, и теперь его правительство поддерживают лишь малые партии между 
+Стало:  отказала ему в поддержке: теперь его правительство поддерживают лишь малые партии между 
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[11]
+Было:  и
+Стало:  и 
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[14]
+Было:  поддержать его правительство.
+Стало: .
+
+Путь: scenes.unemployment_insurance_0_lvp.destroy.content.content[1].content[0].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.unemployment_insurance_0_lvp.destroy.content.content[1].content[0].content[3]
+Было:  назначен канцлером.
+Стало:  назначен канцлером.
+
+Путь: scenes.unemployment_insurance_0.destroy.content.content[1].content[0].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.unemployment_insurance_0.destroy.content.content[1].content[0].content[3]
+Было:  назначен канцлером.
+Стало:  назначен канцлером.
+
+Путь: scenes.young_plan_ratified_oppo.content.content[1].content[3]
+Было:  вообще рассматривали возможность управлять страной вместе с нами. Канцлер 
+Стало:  вообще рассматривали возможность управлять страной вместе с нами. Канцлер 
+
+Путь: scenes.ending_slides.dnef_win.content.content[0].content[0].content[0]
+Было:  Когда
+Стало: Когда 
+
+Путь: scenes.ending_slides.dnef_win.content.content[0].content[0].content[2]
+Было:  был президентом,
+Стало:  был президентом,
+
+Путь: scenes.streetfighting.arm_rb.subtitle.content[2]
+Было:  ресурс
+Стало:  ресурс
+
+Путь: scenes.streetfighting.arm_rb.unavailableSubtitle.content[2]
+Было:  ед. требуется).
+Стало:  ед. требуется).
+
+Путь: scenes.goerdeler_cabinet_1.goerdeler_2.title.content[0]
+Было:  Шлейхер будет вести переговоры с
+Стало: Шлейхер будет вести переговоры с 
+
+Путь: scenes.goerdeler_cabinet_1.goerdeler_2.title.content[2]
+Было:  .
+Стало: ом.
+
+Путь: scenes.schleicher_cabinet_7.schleicher_3.subtitle.content[0]
+Было:  +
+Стало:  +
+
+Путь: scenes.schleicher_cabinet_7.schleicher_3.subtitle.content[2]
+Было:  ресурсы
+Стало:  ресурсов
+
+Путь: scenes.ending_slides.weimar_win.content.content[0].content[0]
+Было:  После травмирующего опыта стремительного взлета и краха <span style="color: #7A3C00;">нацистского</span> движения недостатки <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ской</span> системы стало невозможно игнорировать. Но в конце концов, <span style="color: #7A3C00;">фашисты</span> и <span style="color: #700000;">коммунисты</span>, когда-то сражавшиеся на улицах, теперь вместе стоят в очередях за бесплатной похлебкой. Хотя ряд нео<span style="color: #7A3C00;">нацистских</span> движений еще появится после 
+Стало: После травмирующего опыта стремительного взлета и краха <span style="color: #7A3C00;">нацистского</span> движения недостатки <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ской</span> системы стало невозможно игнорировать. Но в конце концов, <span style="color: #7A3C00;">фашисты</span> и <span style="color: #700000;">коммунисты</span>, когда-то сражавшиеся на улицах, теперь вместе стоят в очередях за бесплатной похлебкой. Хотя ряд нео<span style="color: #7A3C00;">нацистских</span> движений появился даже когда с  
+
+Путь: scenes.ending_slides.weimar_win.content.content[0].content[2]
+Было:  когда спала маска здравомыслия, сама идеология остаётся безвозвратно дискредитирована.
+Стало: а спала маска здравомыслия — сама идеология остаётся безвозвратно дискредитирована.
+
+Путь: scenes.fundraising.increase.subtitle.content[0]
+Было:  Мы будем получать
+Стало: Мы будем получать 
+
+Путь: scenes.fundraising.increase.subtitle.content[2]
+Было:  ресурсов в год. +1 ресурс
+Стало:  ресурсов в год. +1 ресурс. 
+
+Путь: scenes.fundraising.increase.subtitle.content[3].content
+Было:  Учитывая нынешнее экономическое положение, это может быть болезненно. 
+Стало:  Учитывая нынешнее экономическое положение, это может быть болезненно. 
+
+Путь: scenes.center_party_conference.joos_campaign.subtitle
+Было:  -1 ресурс. Йос, скорее всего, будет относиться к нам дружелюбнее, чем Каас.
+Стало: -1 ресурс. Йоос, скорее всего, будет относиться к нам дружелюбнее, чем Каас.
+
+Путь: scenes.hitler_cabinet_dead.give_up_1.content.content[1].content[0].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.unemployment_insurance_1_lvp.destroy.content.content[1].content[0].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.unemployment_insurance_1_lvp.destroy.content.content[1].content[0].content[3]
+Было:  назначен канцлером.
+Стало:  назначен канцлером.
+
+Путь: scenes.unemployment_insurance_1.destroy.content.content[1].content[0].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.unemployment_insurance_1.destroy.content.content[1].content[0].content[3]
+Было:  назначен канцлером.
+Стало:  назначен канцлером.
+
+Путь: scenes.presidential_election_1932_campaign.media.title
+Было:  Использовать наши радиостанции для вещания в поддержку Брауна.
+Стало: Использовать наши радиостанции для агитации в поддержку Брауна.
+
+Путь: scenes.ending_slides.weimar_mega_win_b.title
+Было:  Подраздел Б: Блоковая политика
+Стало: Подконцовка Б: Блоковая политика
+
+Путь: scenes.ending_slides.civil_war_win.content.content[2].content[6]
+Было:  ..
+Стало: .
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[2]
+Было:  </span> и образование <span style="color: #f0456a;">
+Стало: </span> и создание раскольниками <span style="color: #f0456a;">
+
+Путь: scenes.ending_slides.civil_war_win_b.content[1].content[0]
+Было:  Даже после того, как <span style="color: #c00000;">
+Стало: <span style="color: #c00000;">
+
+Путь: scenes.ending_slides.civil_war_win_b.content[1].content[2]
+Было:  </span> и ее расколом на <span style="color: #9B0000;">
+Стало: </span> раскололась на <span style="color: #9B0000;">
+
+Путь: scenes.ending_slides.civil_war_win_b.content[1].content[6]
+Было:  </span> столкнулись с внешнеполитическими разногласиями в 1940-х, обе партии сотрудничали в создании всеобъемлющего государства всеобщего благосостояния — по своему размаху и амбициям не уступающего скандинавским моделям.
+Стало: </span>. Но хоть они и столкнулись внешнеполитическими разногласиями в 1940-х, обе партии сотрудничали в создании всеобъемлющего государства всеобщего благосостояния — по своему размаху и амбициям не уступающего скандинавским моделям.
+
+Путь: scenes.ending_slides.papen_win.content[5].content
+Было:  Сегодня Германия многопартийная демократия — это стало возможным после отстранения от власти консервативной партии-преемницы, основанной деятелями прошлого режима. Однако в республике не всё гладко. Фридрих Мерц, нынешний президент, вызвал критику за апелляции к ностальгии по старой системе, что породило опасения по поводу отката от демократии и концентрации власти в руках олигархов. Теперь задача <span style="color: #f0456a;">социал-демократии</span> — подготовиться к следующим президентским выборам. Наша Сара Вагенкнехт подумывает баллотироваться на ещё один срок, но не подряд; возможно, она — наша единственная надежда свергнуть Мерца.
+Стало: Сегодня Германия многопартийная демократия — это стало возможным после отстранения от власти консервативной партии-преемницы, основанной деятелями прошлого режима. Однако в республике не всё гладко. Фридрих Мерц, нынешний президент, вызвал критику за апелляции к ностальгии по старой системе, что породило опасения по поводу отката от демократии и концентрации власти в руках олигархов. Теперь задача <span style="color: #f0456a;">социал-демократии</span> — подготовиться к следующим президентским выборам. Наша Сара Вагенкнехт подумывает баллотироваться на ещё один срок — выиграв позапрошлые выборы, прошлые она проиграла; возможно, она — наша единственная надежда свергнуть Мерца.
+
+Путь: scenes.ending_slides.left_win.content.content[0].content[0]
+Было:  Правительство Единого фронта во главе с президентом
+Стало: Правительство Левого фронта во главе с президентом
+
+Путь: scenes.ending_slides.left_win_a.title
+Было:  Вариант концовки A: «Спартак» восстаёт вновь
+Стало: Вариант концовки A: Спартакисты восстают вновь
+
+Путь: scenes.ending_slides.left_win_b.title
+Было:  Альтернативная концовка Б: Авангард у руля
+Стало: Альтернативная концовка Б: Авангард пролетариата у руля
+
+Путь: scenes.ending_slides.left_win_b.content[6].content[2]
+Было:  </span> раскалывается между <span style="color: #700000;">сторонниками жесткой линии</span> и <span style="color: #f0456a;">реформаторами</span>. Возможно, в следующем правительстве будет <span style="color: #c00000;">
+Стало: </span> раскалывается между <span style="color: #700000;">сторонниками жесткой линии</span> и <span style="color: #f0456a;">реформаторами</span>. Возможно, в следующем правительстве будет большинство у <span style="color: #c00000;">
+
+Путь: scenes.ending_slides.left_win_b.content[6].content[4]
+Было:  </span>-большинство.
+Стало: </span>.
+
+Путь: scenes.inter_party_relationships.content.content[1].content[5].content[1].content
+Было:  Демократических 
+Стало: Демократической партии
+
+Путь: scenes.inter_party_relationships.content.content[1].content[6].content[1].content
+Было:  Государственных
+Стало: Государственной партии
+
+Путь: scenes.inter_party_relationships.content.content[1].content[7].content[1].content
+Было:  и либеральных Народных
+Стало: Либеральной Народной партии
+
+Путь: scenes.inter_party_relationships.content.content[1].content[8]
+Было:  партий.
+Стало: .
+
+Путь: scenes.presidential_election_1932_campaign_alt.media_reactionary.title.content[0]
+Было:  Использовать наши радиостанции для вещания в поддержку
+Стало: Использовать наши радиостанции для агитации. 
+
+Путь: scenes.presidential_election_1932_campaign_alt.media_reactionary.title.content[2]
+Было:  .
+Стало:  — наш кандидат!
+
+Путь: scenes.presidential_election_1932_campaign_alt.against_communists.title.content[0]
+Было:  Сконцентрировать нашу кампанию против <span style="color: #700000;">
+Стало: Сконцентрировать кампанию против <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.against_communists.title.content[2]
+Было:  </span>
+Стало: </span>: 
+
+Путь: scenes.presidential_election_1932_campaign_alt.against_communists.title.content[4]
+Было:  .
+Стало:  — это кандидат-спойлер.
+
+Путь: scenes.presidential_election_1932_campaign_alt.media_communist.title.content[0]
+Было:  Использовать наши радиостанции для агитации в пользу
+Стало: Использовать наши радиостанции для агитации. 
+
+Путь: scenes.presidential_election_1932_campaign_alt.media_communist.title.content[2]
+Было:  .
+Стало:  — наш кандидат!
+
+Путь: scenes.election_1928.far_right_fail.content.content[1].content[0]
+Было:  Поскольку
+Стало: Поскольку 
+
+Путь: scenes.presidential_election_1932_campaign.media_communist.title.content[0]
+Было:  Использовать наши радиостанции для вещания в поддержку
+Стало: Использовать наши радиостанции для агитации. 
+
+Путь: scenes.presidential_election_1932_campaign.media_communist.title.content[2]
+Было:  .
+Стало:  — наш кандидат!
+
+Путь: scenes.election_1928.taming_abandoned.content.content.content[0]
+Было:  в любом случае, мне сейчас лень это реализовывать 
+Стало: в любом случае, 
+
+Путь: scenes.election_1928.taming_abandoned.content.content.content[2]
+Было:  смещён и заменён старым добрым Брюнингом
+Стало:  смещён и заменён старым добрым Брюнингом
+
+Путь: scenes.election_1928.no_majority_goerdeler.content.content[2].content[2]
+Было:  </span> или
+Стало: </span> или 
+
+Путь: scenes.election_1928.no_majority_goerdeler.content.content[2].content[9]
+Было:  не поддержат его правительство.
+Стало:  не поддержат его правительство.
+
+Путь: scenes.election_1928.z_chancellor.content.content[1].content[2].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.election_1928.z_chancellor.content.content[1].content[2].content[3]
+Было:  назначен канцлером.
+Стало:  назначен канцлером.
+
+Путь: scenes.election_1928.z_chancellor.content.content[1].content[4].content[0]
+Было:  Конрад Аденауэр из
+Стало: Конрад Аденауэр из 
+
+Путь: scenes.election_1928.z_chancellor.content.content[1].content[4].content[3]
+Было:   назначен канцлером. Поскольку Брюнинг слишком непопулярен, недавно <span class="tooltip-text" title="good mod">набравшая силу</span> 
+Стало:  назначен канцлером. Поскольку Брюнинг слишком непопулярен, динамичная 
+
+Путь: scenes.election_1928.z_chancellor.content.content[1].content[4].content[6]
+Было:  стремится сохранить свою электоральную поддержку.
+Стало:  стремится сохранить свою электоральную поддержку.
+
+Путь: scenes.election_1928.z_chancellor_wirth.title.content[0]
+Было:  Пусть Йозеф Вирт из
+Стало: Пусть Йозеф Вирт из 
+
+Путь: scenes.election_1928.z_chancellor_wirth.title.content[3]
+Было:  станет канцлером.
+Стало:  станет канцлером.
+
+Путь: scenes.election_1928.z_chancellor_wirth.subtitle.content[0]
+Было:  Вирт принадлежит к левому крылу
+Стало: Вирт принадлежит к левому крылу 
+
+Путь: scenes.election_1928.z_chancellor_cvp.content.content.content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.election_1928.z_chancellor_cvp.content.content.content[3]
+Было:  назначен канцлером. Его кандидатуру одобряет большинство фракций его партии.
+Стало:  назначен канцлером. Его кандидатуру одобряет большинство фракций его партии.
+
