@@ -24648,3 +24648,430 @@
 Было:  RotfrontkÃ¤mpferbund (RFB)
 Стало: Roter Frontkämpferbund (RFB)
 
+
+========================================
+СБОРКА: 2026-03-21 16:27:08
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.braun.coalition.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.baade.agriculture.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.breitscheid.breitscheid_international.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.hilferding.against_right_and_left.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.hirschfeld.homosexual_rights_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.juchacz.emergency_fundraising.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leber.democratic_rally.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leipart.organizing.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.levi.building_the_left.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.mierendorff.iron_front_buildup.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.pfulf.support_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.muller.coalition.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.radbruch.judiciary_major.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.rosenfeld.building_the_left.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.schumacher.emergency_fundraising.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.sender.left_unity.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.severing.prussian_bulwark.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.seydewitz.class_struggle.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.stampfer.media_.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.siemsen.campaign_pacifism.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wels.clear_agenda.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wirth.democratic_rally.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.woytinsky.plan.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.woytinsky.plan.unavailableSubtitle.content[1].content
+Было:  В настоящее время экономического кризиса нет.
+Стало: Сейчас нет экономического кризиса.
+
+Путь: scenes.woytinsky.plan.unavailableSubtitle.content[2].content
+Было:  Мы уже приняли план ВТБ.
+Стало:  Мы уже приняли план ВТБ.
+
+Путь: scenes.woytinsky.plan.unavailableSubtitle.content[3].content
+Было:  План ВТБ всё ещё дорабатывается.
+Стало:  План ВТБ всё ещё дорабатывается.
+
+Путь: scenes.woytinsky.plan.unavailableSubtitle.content[4].content
+Было:  Фракция тред-юнионистов недостаточно сильна.
+Стало:  Фракция тред-юнионистов недостаточно сильна.
+
+Путь: scenes.wissell.labor_rights_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.aufhauser.white_collar.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.braun.coalition_president.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.braun.coalition_president.content.content.content[0]
+Было:  Мы улучшили наши отношения с
+Стало: Мы улучшили наши отношения с 
+
+Путь: scenes.braun.coalition_president.content.content.content[1].content[1].content[0]
+Было:  <span style="color: #000000;">Центром</span> (<span style="color: #000000;">
+Стало: <span style="color: #000000;">Партией Центра</span> (<span style="color: #000000;">
+
+Путь: scenes.braun.coalition_president.content.content.content[1].content[2].content[1].content
+Было:  Христианская народная
+Стало: Христианской народной партией
+
+Путь: scenes.braun.coalition_president.content.content.content[2].content[1].content[0]
+Было:  <span style="color: #000000;">Центр</span> (<span style="color: #000000;">
+Стало: <span style="color: #000000;">Партией Центра</span> (<span style="color: #000000;">
+
+Путь: scenes.braun.coalition_president.content.content.content[2].content[2].content[1].content
+Было:  Христианская народная
+Стало: Христианской Народной партией
+
+Путь: scenes.braun.coalition_president.content.content.content[3].content[1].content[0]
+Было:  <span style="color: #000000;">Центр</span> (<span style="color: #000000;">
+Стало: <span style="color: #000000;">Партией Центра</span> (<span style="color: #000000;">
+
+Путь: scenes.braun.coalition_president.content.content.content[3].content[2].content[1].content
+Было:  Христианская народная
+Стало: Христианской Народной партией
+
+Путь: scenes.braun.coalition_president.content.content.content[4]
+Было:  и ослабила напряжённость в отношениях с коалицией.
+Стало:  — это ослабио напряжённость в отношениях с коалицией.
+
+Путь: scenes.braun.coalition_president.content.content.content[5].content
+Было:  Отставка Брауна с поста главы прусского правительства помешала этому.
+Стало:  Отставка Брауна с поста главы прусского правительства ослабила нашу переговорную позицию — мы получили меньше от его навыков, чем могли бы.
+
+Путь: scenes.leipart.depression.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.levi.kpd_cooperation.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.mierendorff.form_iron_front.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.pfulf.build_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.muller.toleration.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.radbruch.judiciary_minor.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.rosenfeld.kpd_cooperation.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.schumacher.build_reichsbanner.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.sender.organizing_women.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.severing.police_affairs.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.seydewitz.socialist_youth.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.stampfer.faction_support_.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.siemsen.curriculum_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wels.party_discipline.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wirth.catholics_rally.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.woytinsky.carry_out_policy.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.woytinsky.carry_out_policy.unavailableSubtitle.content[1].content
+Было:  Мы ещё не приняли экономический план.
+Стало:  Мы ещё не приняли экономический план.
+
+Путь: scenes.wissell.union_unity.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.braun.prussian_bulwark.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.baade.depression.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.breitscheid.party_discipline.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.hilferding.finance_ministry_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.hirschfeld.science_funding.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.juchacz.organizing_women.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leber.support_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leipart.schleicher.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.mierendorff.nazi_urgency.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.muller.snap_election.unavailableSubtitle.content[1].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.schumacher.moderate_economic_plan.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.seydewitz.against_toleration.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.siemsen.structure_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wels.emergency_fundraising.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wirth.support_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.woytinsky.depression.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.all_quiet_oppo.content[1].content[0]
+Было:  Американский фильм
+Стало: Американский фильм 
+
+Путь: scenes.aufhauser.crisis.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.schacht_vs_hilferding.hilferding_resign.content.content[0].content[1].content
+Было:  правоцентристский
+Стало: правоцентрист
+
+Путь: scenes.schacht_vs_hilferding.hilferding_resign.content.content[0].content[2].content
+Было:  технократический
+Стало: технократ
+
+Путь: scenes.schacht_vs_hilferding.hilferding_resign.content.content[0].content[3]
+Было:  кандидат.
+Стало: .
+
+Путь: scenes.braun.snap_election.unavailableSubtitle.content[1].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.breitscheid.snap_election.unavailableSubtitle.content[1].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.hilferding.economic_democracy_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leber.build_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leipart.union_unity.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.pfulf.womens_rights_.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.rosenfeld.against_toleration.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wels.money_printer.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wirth.build_peoples_party.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.aufhauser.moderate_economic_plan.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.leber.campaigning_peoples_party.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wirth.campaigning_peoples_party.title
+Было:  Кампания в качестве народной партии
+Стало: Агитировать как Народная партия
+
+Путь: scenes.wirth.campaigning_peoples_party.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.sender.crisis.unavailableSubtitle.content[0].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.wels.snap_election.unavailableSubtitle.content[1].content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.stampfer.kpd_cooperation.unavailableSubtitle.content.content[2]
+Было:  месяцев до следующего действия советника.
+Стало:  месяцев до следующего действия советника.
+
+Путь: scenes.crisis_program.support_moderate_progress.content[1].content
+Было:  Мы ещё не приняли этот план. Требуется его доработка.
+Стало:  Мы ещё не приняли этот план. Требуется его доработка.
+
+Путь: scenes.hindenburg_explode_president.z_partial.options[1].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.hindenburg_explode_president.z_partial.options[2].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.presidential_election_1932_round_1.z_partial_eckener.options[1].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.presidential_election_1932_round_1.z_partial.options[2].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[7].content[2]
+Было:  , а также о нашей поддержке 
+Стало: , а также о нашей поддержке кандидата от 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[7].content[3].content
+Было:  кандидата от партии <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[7].content[5]
+Было:  Вильгельма Маркса на президентских выборах 1925 года
+Стало:  Вильгельма Маркса на президентских выборах 1925 года
+
+Путь: scenes.presidential_election_1932_candidate.z_partial.options[1].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.election_1928.emergency_braun.options[3].title.content[0]
+Было:  Йозефа Вирта из
+Стало: Йозефа Вирта из 
+
+Путь: scenes.election_1928.emergency_braun.options[3].title.content[3]
+Было:  , как жест <span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканского</span> единства.
+Стало:  — как жест <span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканского</span> единства.
+
