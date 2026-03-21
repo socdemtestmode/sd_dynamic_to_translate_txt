@@ -23012,3 +23012,1094 @@
 Было:  </span>, поэтому «большую коалицию» сформировать не удаётся.
 Стало: </span>, поэтому «Большую Коалицию» сформировать не удаётся.
 
+
+========================================
+СБОРКА: 2026-03-21 07:43:37
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates.content.content[0]
+Было:  Партия <span style="color: #BFC8CC;">
+Стало: <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[0].content[0]
+Было:  От <span style="color: #3E88B3;">
+Стало: <span style="color: #3E88B3;">
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[0].content[2]
+Было:  </span> будет выдвинут Франц Зельдте, лидер военизированной организации <span style="color: #3E88B3;">
+Стало: </span> выдвинут Франца Зельдте, лидера <span style="color: #3E88B3;">
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[0].content[3].content
+Было:  Стальной Шлем
+Стало: Стального Шлема
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[0].content[4]
+Было:  </span>. Его поддержат многие из наиболее правых сторонников Гинденбурга. Они сотрудничают с <span style="color: #7A3C00;">нацистами</span> теснее, чем прежде, и ожидается, что во втором туре <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правые</span> партии объединятся в единый анти<span style="color: #000000;">респ</span><span style="color: #DD0000;">убл</span><span style="color: #FFCC00;">иканский</span> фронт. 
+Стало: </span>. Его поддержат многие из наиболее правых сторонников Гинденбурга. Они сотрудничают с <span style="color: #7A3C00;">нацистами</span> теснее, чем прежде: ожидается, что во втором туре <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правые</span> партии объединятся в единый анти<span style="color: #000000;">респ</span><span style="color: #DD0000;">убл</span><span style="color: #FFCC00;">иканский</span> фронт. 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[1].content[2]
+Было:  </span> станет Оскар Гергт,
+Стало: </span> станет Оскар Гергт, 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[1].content[6]
+Было:  </span> и бывший вице-канцлер. Его поддержат многие из самых правых сторонников Гинденбурга. Они сотрудничают с <span style="color: #7A3C00;">нацистами</span> теснее, чем прежде, и ожидается, что во втором туре <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правые</span> партии объединятся в единый анти<span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканский</span> фронт. 
+Стало: </span> и бывший вице-канцлер. Его поддержат многие из самых правых сторонников Гинденбурга. Они сотрудничают с <span style="color: #7A3C00;">нацистами</span> теснее, чем прежде: ожидается, что во втором туре <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правые</span> партии объединятся в единый анти<span style="color: #000000;">рес</span><span style="color: #DD0000;">публ</span><span style="color: #FFCC00;">иканский</span> фронт. 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[0]
+Было:  Альфред Гугенберг не хочет никого поддерживать 
+Стало: Альфреду Гугенбергу не нужен 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[2]
+Было:  а, он предпочитает баллотироваться сам. Однако его финансовое положение подорвано тем, что он в одиночку финансировал 
+Стало:  — он предпочел бы баллотироваться сам. Однако его финансовое положение подорвано: он в одиночку финансировал 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[3].content[0].content[6].content[0]
+Было:  Однако он наскрёб остатки своего личного состояния, чтобы начать президентскую кампанию, надеясь использовать поддержку во втором туре для получения уступок от 
+Стало: Однако он наскрёб остатки своего личного состояния, чтобы начать президентскую кампанию. Он надеется использовать свою поддержку во втором туре как рычаг для выбивания уступок. Его цель: 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[3]
+Было:  и
+Стало:  и 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[10].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[10].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[0].content[10].content[3]
+Было:   рассматривает возможность выдвижения Генриха Брюнинга, своего бывшего канцлера, известного популярной и успешной программой общественных работ. Ему повсеместно приписывают возрождение экономики Германии. В случае выдвижения своей кандидатуры он получит широкую поддержку со стороны буржуазных партий, участвовавших в его правительстве. 
+Стало:  рассматривает возможность выдвижения Генриха Брюнинга, своего бывшего канцлера, известного популярной и успешной программой общественных работ. Ему повсеместно приписывают возрождение экономики Германии. В случае выдвижения он получит широкую поддержку со стороны буржуазных партий, участвовавших в его правительстве. 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[2].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[6].content[3].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[7].content[6].content
+Было:  Отто Браун устал. Он баллотировался и проиграл на двух предыдущих президентских выборах и больше не желает баллотироваться. Его жена серьёзно больна, и он хочет оставаться рядом с ней. 
+Стало: Отто Браун устал. Он баллотировался и проиграл на двух предыдущих президентских выборах — больше он не желает баллотироваться. Его жена серьёзно больна, и он хочет оставаться рядом с ней. 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[7].content[8].content
+Было:  Отто Браун устал. Он не желает баллотироваться, но его можно убедить в том, что сейчас он нужен стране. Его жена смертельно больна, и он не хочет брать на себя дополнительную ответственность. 
+Стало: Отто Браун устал. Он не желает баллотироваться, но его можно убедить: сейчас он нужен стране. Его жена смертельно больна, и он не хочет брать на себя дополнительную ответственность. 
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[7].content[9]
+Было:   Курт Шумахер — амбициозная восходящая звезда партии, он более чем готов выставить свою кандидатуру. Он герой Великой войны, но его относительно молодой возраст может иметь значение. 
+Стало:  Курт Шумахер — амбициозная восходящая звезда партии, он более чем готов выставить свою кандидатуру. Он герой Великой войны, но его относительно молодой возраст может сказаться на его популярности.
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[7].content[10].content[2]
+Было:  </span> уже много лет лидеры в борьбе за права женщин. Будет вполне уместно, если мы изберём первую в мире женщину-президента. Возможно, Марию Юхач, за её работу в сфере социального обеспечения, её можно представить «матерью нации». Однако её развод 28-летней давности может помешать католикам поддержать её. 
+Стало: </span> уже много лет — лидеры в борьбе за права женщин. Будет вполне уместно, если мы изберём первую в мире женщину-президента. Возможно, Мари Юхач. За её работу в сфере социального обеспечения её можно представить «матерью нации». Однако её развод 28-летней давности может помешать католикам поддержать её. 
+
+Путь: scenes.hindenburg_explode_president.candidates.content.content[2].content[2]
+Было:  </span> слишком дезорганизованы после репрессий Шлейхера и не готовы начинать президетскую кампанию. Они поддержат того, кого поддержим мы, при условии, что это будет <span style="color: #c00000;">социалист</span>.
+Стало: </span> слишком дезорганизованы после репрессий Шлейхера и не готовы начинать президетскую кампанию. Они поддержат того, кого выдвинем мы — при условии, что это будет <span style="color: #c00000;">социалист</span>.
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_drop_out.options[0].title
+Было:  Что же будут за кандидаты, когда Гинденбург уходит на покой?
+Стало: Что же будут за кандидаты, если Гинденбург уходит на покой?
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_drop_out.content[0].content
+Было:  Президент Гинденбург решил не баллотироваться на новый срок, назвав в качестве основных причин проблемы со здоровьем и преклонный возраст. Он уверен: нынешняя обстановка в стране не требует от него участия в новой избирательной кампании.
+Стало: Президент Гинденбург решил не баллотироваться на новый срок. У него проблемы со здоровьем и преклонный возраст. Он уверен: нынешняя обстановка в стране не требует от него участия в новой избирательной кампании.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nazis.title
+Было:  Последнее ура <span style="color: #7A3C00;">нацистов</span>?
+Стало: Последний ураган <span style="color: #7A3C00;">нацистов</span>?
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nazis.content.content[0].content
+Было:  Теперь, когда Гитлер сошёл с политической сцены, <span style="color: #7A3C00;">нацисты</span> выдвигают своим кандидатом Германа Геринга.
+Стало: Теперь, когда Гитлер сошёл с политической сцены, <span style="color: #7A3C00;">нацисты</span> выдвигают Германа Геринга.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nazis.content.content[1].content[2]
+Было:  </span> выдвинет
+Стало: </span> выдвинет 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nazis.content.content[2].content[0].content[2]
+Было:  </span> поддержат
+Стало: </span> поддержат 
+
+Путь: scenes.death_of_hindenburg_president.candidate_menu.options[1].title.content[0]
+Было:  Поддержка
+Стало: Наш выбор: 
+
+Путь: scenes.death_of_hindenburg_president.candidate_menu.options[1].title.content[2]
+Было:  от
+Стало:  от 
+
+Путь: scenes.death_of_hindenburg_president.candidate_menu.options[2].title.content[0]
+Было:  Поддержка
+Стало: Наш выбор: 
+
+Путь: scenes.death_of_hindenburg_president.candidate_menu.options[2].title.content[2]
+Было:  от
+Стало:  от 
+
+Путь: scenes.death_of_muller.braun_chancellor.subtitle.content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.death_of_muller.braun_chancellor.subtitle.content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.death_of_muller.braun_chancellor.subtitle.content[2].content[1].content
+Было:  (ХНП)
+Стало: ХНП
+
+Путь: scenes.hindenburg_explode_referendum.hindenburg_ref_win.content.content[2].content[0]
+Было:  Президентские выборы назначены на неделю 
+Стало: Президентские выборы назначены на 
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_running.content.content[0].content[0].content[2]
+Было:  </span> с <span style="color: #7A3C00;">национальной</span> <span style="color: #003755;">оппозицией</span> ради поддержки кандидатуры Гинденбурга, а также безоговорочная поддержка со стороны Кифхойзербунда, побудили Гинденбурга баллотироваться на новый срок. Теперь он убеждён, что основную поддержку ему окажут правые.
+Стало: </span> с <span style="color: #7A3C00;">национальной</span> <span style="color: #003755;">оппозицией</span> ради поддержки кандидатуры Гинденбурга, а также безоговорочная поддержка со стороны Кифхойзербунда, побудили Гинденбурга баллотироваться на новый срок. Теперь он убеждён: основную поддержку ему окажут правые.
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_running.content.content[0].content[1].content[0]
+Было:  Несмотря на то что Гинденбург отверг требования <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span>, он всё ещё (ошибочно) полагает, что дружественное руководство <span style="color: #3E88B3;">
+Стало: Хоть Гинденбург и отверг требования <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span>, он всё ещё (ошибочно) полагает, что дружественное руководство <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_hindenburg.hindenburg_running.content.content[0].content[1].content[2]
+Было:  </span>, несмотря на его отказ выполнить их требования, безоговорочно его поддержит. Это, вкупе с безоговорочной поддержкой со стороны Кифхойзербунда, побудило Гинденбурга, убеждённого в том, что основная поддержка придёт справа, баллотироваться на новый срок.
+Стало: </span>, несмотря на его отказ выполнить их требования, безоговорочно его поддержит. Это, вкупе с безоговорочной поддержкой со стороны Кифхойзербунда, побудило Гинденбурга баллотироваться на новый срок. Ведь он убежден: ядро его сторонников — правые
+
+Путь: scenes.presidential_election_1932_hindenburg.content.content[1].content[0]
+Было:  Президент Гинденбург выразил нежелание баллотироваться на новый срок. В свои 84 года он предпочитает провести остаток дней на покое, свободным от бремени высокой должности. Хотя он и был готов служить дольше, если бы рейхстаг продлил срок его полномочий, провал этих усилий в сочетании с нежеланием участвовать в изнурительной президентской кампании вызвал беспокойство, особенно у Курта фон Шлейхера
+Стало: Президент Гинденбург выразил нежелание баллотироваться на новый срок. В свои 84 года он предпочитает провести остаток дней на покое, свободным от бремени высокой должности. Хотя он и был готов служить дольше, если бы рейхстаг продлил срок его полномочий, провал этих усилий в сочетании с нежеланием участвовать в изнурительной президентской кампании вызвал беспокойство, особенно у Курта фон Шлейхера 
+
+Путь: scenes.presidential_election_1932_hindenburg.content.content[3].content[4].content
+Было:  «Стальной шлем»
+Стало: Стальной шлем
+
+Путь: scenes.presidential_election_1932_hindenburg.content.content[3].content[5]
+Было:  </span> — примыкавший к <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span> — потребовали уступок в обмен на свою поддержку, несмотря на то что <span style="color: #3E88B3;">
+Стало: </span> — примыкавший к <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span> — потребовали уступок в обмен на свою поддержку, хотя <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_hindenburg.content.content[3].content[6].content
+Было:  «Стальной шлем»
+Стало: Стальной шлем
+
+Путь: scenes.presidential_election_1932_hindenburg.content.content[3].content[7]
+Было:  </span> в целом дружелюбно относится к Гинденбургу и считает его своим. Однако Гинденбург рассматривает эти требования как оскорбление своей чести и отказывается увязывать свою кандидатуру с отставкой действующего правительства или назначением Гугенберга и Гитлера.
+Стало: </span> в целом дружелюбно относится к Гинденбургу и считает его «своим». Однако Гинденбург рассматривает эти требования как оскорбление своей чести и отказывается увязывать свою кандидатуру с отставкой действующего правительства или назначением Гугенберга и Гитлера.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nats.title
+Было:  Перейдём к <span style="color: #3E88B3;">националистам</span>.
+Стало: Перейдём к <span style="color: #3E88B3;">националистам</span>. 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nats.content.content.content[0]
+Было:  <span style="color: #3E88B3;">Националисты</span> едины в своей поддержке 
+Стало: <span style="color: #3E88B3;">Националисты</span> едины. Их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_nats.content.content.content[2]
+Было:  К ним присоединились различные отколовшиеся фракции и малые буржуазные партии. Хотя Гугенберг — каким-то образом — всё ещё обдумывает возможность баллотироваться в президенты, недвусмысленная угроза заставила его молчать.
+Стало:  К ним присоединились различные отколовшиеся фракции и малые буржуазные партии. Хотя Гугенберг — каким-то образом — всё ещё обдумывает возможность баллотироваться в президенты, недвусмысленная угроза заставила его молчать.
+
+Путь: scenes.death_of_hindenburg_president.eckener_r1.content.content[2]
+Было:  </span>, и надеемся, что его поддержит и остальная <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция.
+Стало: </span>. Надеемся, что его поддержит и остальная <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[0].content[3].content
+Было:  Их деятельность и вовсе запрещена, что не позволяет им выдвинуть собственного кандидата. Поскольку бойкот потерял всякий смысл, им ничего не остаётся, кроме как поддержать того, кого мы выдвинем. 
+Стало:  Их деятельность и вовсе запрещена, что не позволяет им выдвинуть собственного кандидата. Поскольку бойкот потерял всякий смысл, им ничего не остаётся, кроме как поддержать того, кого выдвинем мы. 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[0].content[4].content
+Было:  В благодарность за то, что несколько месяцев назад мы спасли их от репрессий Шлейхера, они готовы полностью поддержать любого, кого мы решим выдвинуть. 
+Стало:  В благодарность за то, что несколько месяцев назад мы спасли их от репрессий Шлейхера, они готовы полностью поддержать любого, кого мы решим выдвинуть. 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[1].content[0].content[0]
+Было:  <span style="color: #000000;">Партия Центра</span> не вполне убеждена, что следует поддержать 
+Стало: <span style="color: #000000;">Партия Центра</span> не вполне убеждена. Нужен ли им 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[1].content[0].content[2]
+Было:   и решила выдвинуть собственного кандидата: Конрада Аденауэра. Обер-бургомистр Кёльна со времён основания Республики и член прусского ландтага, он выступает за то, чтобы <span style="color: #000000;">Партия Центра</span> «вышла из башни» для расширения поддержки среди протестантов; его кандидатуру изначально предложил сам Штегервальд. Несмотря на принадлежность к правому крылу своей партии, он остаётся твёрдым приверженцем <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> республики и выступает против угроз Шлейхера в её адрес. 
+Стало: ? Поэтому они выдвинули собственного кандидата: Конрада Аденауэра. Обер-бургомистр Кёльна со времён основания Республики и член прусского ландтага, он выступает за то, чтобы <span style="color: #000000;">Партия Центра</span> «вышла из башни» для расширения поддержки среди протестантов; его кандидатуру изначально предложил сам Штегервальд. Несмотря на принадлежность к правому крылу своей партии, он остаётся твёрдым приверженцем <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> республики и выступает против угроз Шлейхера в её адрес. 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[2].content[0].content[0]
+Было:  От <span style="color: #FFCC00;">либералов</span> баллотируется Теодор Хойс — журналист, видный сторонник <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> республики и ярый противник Шлейхера в рядах своей партии. Из-за такой позиции он разошёлся во взглядах с более провластными кругами немецкого среднего класса. Хотя Хойс вряд ли получит значительную поддержку, он позиционирует себя как единый кандидат от <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> коалиции в противовес 
+Стало: От <span style="color: #FFCC00;">либералов</span> баллотируется Теодор Хойс — журналист, видный сторонник <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> республики и ярый противник Шлейхера в рядах своей партии. Из-за такой позиции он разошёлся во взглядах с более провластными кругами немецкого среднего класса. Хотя Хойс вряд ли получит значительную поддержку, он позиционирует себя как единый кандидат от <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">арской</span> коалиции. Он уверен, что его главный враг на этих выборах: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[2].content[1].content[0]
+Было:  <span style="color: #FFCC00;">Либералы</span>, потерпев сокрушительное поражение на выборах, не имеют ни сил, ни средств, чтобы выдвинуть собственного кандидата. Вместо этого они решили поддержать 
+Стало: <span style="color: #FFCC00;">Либералы</span>, потерпев сокрушительное поражение на выборах, не имеют ни сил, ни средств, чтобы выдвинуть собственного кандидата. Вместо этого их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[2].content[1].content[2]
+Было:   как буржуазную альтернативу Шлейхеру. Однако их поддержка далеко не монолитна: сторонники Шлейхера продолжают саботаж, поскольку его призыв к национальной солидарности находит отклик в исторически националистическом немецком либеральном движении. 
+Стало:  как буржуазная альтернатива Шлейхеру. Однако их поддержка далеко не монолитна: сторонники Шлейхера продолжают саботаж, поскольку его призыв к национальной солидарности находит отклик в исторически националистическом немецком либеральном движении. 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidates_dems.content.content[2].content[2].content[0]
+Было:  <span style="color: #FFCC00;">Либералы</span>, потерпев сокрушительное поражение на выборах, не имеют ни сил, ни средств, чтобы выдвинуть собственного кандидата. Они решили поддержать 
+Стало: <span style="color: #FFCC00;">Либералы</span>, потерпев сокрушительное поражение на выборах, не имеют ни сил, ни средств, чтобы выдвинуть собственного кандидата. Вместо этого их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[0].content[0]
+Было:  Мы оказали поддержку
+Стало: Наш кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[0].content[3].content
+Было:  <span style="color: #000000;">партии Центра</span>
+Стало:  от<span style="color: #000000;"> партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[0].content[4].content[0]
+Было:  <span style="color: #000000;">
+Стало:  от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[0].content[0]
+Было:  Благодаря нашей поддержке
+Стало: Так как наш выбор: 
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[0].content[5]
+Было:  , перейдя на сторону 
+Стало: . Теперь их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[0].content[6].content[0]
+Было:  <span style="color: #3E88B3;">
+Стало: лидер <span style="color: #3E88B3;">
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[0].content[6].content[2]
+Было:  </span>, лидера
+Стало: </span>,
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[0].content[7].content
+Было:  <span style="color: #3E88B3;">националистов</span> 
+Стало: <span style="color: #3E88B3;">националист</span> 
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[1].content[0]
+Было:  <span style="color: #0087DC;">
+Стало: Теперь выбор <span style="color: #0087DC;">
+
+Путь: scenes.death_of_hindenburg_president.adenauer_r1.content.content[1].content[1].content[2]
+Было:  </span> теперь будет поддерживать
+Стало: </span>:
+
+Путь: scenes.death_of_muller.breitscheid_chancellor.subtitle.content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.hindenburg_explode_president.adenauer_r1.content.content[1].content.content[3]
+Было:  , и поддержали <span style="color: #808080;">реакционера</span> Секта. Надеюсь, это не приведёт к повторению президентских выборов 1925 года.
+Стало:  и поддержали <span style="color: #808080;">реакционера</span> Секта. Надеюсь, это не приведёт к повторению президентских выборов 1925 года.
+
+Путь: scenes.hindenburg_explode_referendum_campaign.reichsbanner.title
+Было:  Пришло время «Рейхсбаннеру» стать немного <i>активнее</i>.
+Стало: Пришло время Рейхсбаннеру стать немного <i>активнее</i>.
+
+Путь: scenes.hitler_cabinet_1.hitler_2.title.content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.hitler_cabinet_1.hitler_2.title.content[3]
+Было:  голосует против!
+Стало:  голосует против!
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[0].content[7]
+Было:  распознаёт эту ложь и заставляет парламентскую фракцию партии проголосовать против Закона о чрезвычайных полномочиях.
+Стало:  распознаёт эту ложь и заставляет парламентскую фракцию партии проголосовать против Закона о чрезвычайных полномочиях.
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[0]
+Было:  Шлейхер расценивает такое развитие событий как предательство, однако его возможности ограничены. Решающее слово остаётся за президентом Гинденбургом. Теперь он рассматривает 
+Стало:  Шлейхер расценивает такое развитие событий как предательство, однако его возможности ограничены. Решающее слово остаётся за президентом Гинденбургом. Теперь он рассматривает 
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[1].content
+Было:  <span style="color: #000000;">Партии Центра</span>
+Стало: Отказ <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[3]
+Было:  отказ поддержать
+Стало: от поддержки 
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[5]
+Было:  лишь усилил его нетерпение. Разочарованный Гинденбург больше не считает стремление 
+Стало: а лишь усилили нетерпение президента. Разочарованный Гинденбург больше не считает стремление 
+
+Путь: scenes.hitler_cabinet_dead.give_up_2.content.content[1].content[0]
+Было:  В итоге его смещают с поста сомнительными с юридической точки зрения методами, и новые выборы проводятся под бдительным надзором <span style="color: #7A3C00;">
+Стало: В итоге его смещают с поста сомнительными с юридической точки зрения методами, и новые выборы проводятся под бдительным надзором штурмовиков <span style="color: #7A3C00;">
+
+Путь: scenes.hitler_cabinet_dead.give_up_2.content.content[1].content[2]
+Было:  </span> штурмовиков — что обеспечивает приход Гитлера к абсолютной власти.
+Стало: </span> — что обеспечивает приход Гитлера к абсолютной власти.
+
+Путь: scenes.presidential_election_1932_campaign_alt.iron_front.title[1].content
+Было:  «Железного
+Стало: Железного
+
+Путь: scenes.presidential_election_1932_campaign_alt.iron_front.title[3].content
+Было:  фронта»
+Стало: фронта
+
+Путь: scenes.presidential_election_1932_campaign.iron_front.content.content[1].content
+Было:  фронт»
+Стало: Железный 
+
+Путь: scenes.presidential_election_1932_campaign.iron_front.content.content[3].content
+Было:  фронт
+Стало: Фронт
+
+Путь: scenes.death_of_hindenburg_president.gessler_r1.content.content[0].content[1].content[0]
+Было:  Мы поддержали Теодора Хойса из
+Стало: Мы поддержали Теодора Хойса из 
+
+Путь: scenes.death_of_hindenburg_president.gessler_r1.content.content[1].content.content[0]
+Было:  С нашей поддержкой
+Стало: Так как наш выбор: 
+
+Путь: scenes.death_of_hindenburg_president.gessler_r1.content.content[1].content.content[2]
+Было:  , <span style="color: #C0A054;">
+Стало: , поддерживающие его фракции <span style="color: #C0A054;">
+
+Путь: scenes.death_of_hindenburg_president.gessler_r1.content.content[1].content.content[4]
+Было:  </span>, поддерживающие его фракции откололись и теперь оказывают поддержку 
+Стало: </span> откололись. Теперь их выбор: 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[6].content[0].content[2]
+Было:   за него во многом объясняется тщетностью его кампании; по оценкам, значительная часть его бывших избирателей либо перешла к 
+Стало:  за него во многом объясняется тщетностью его кампании; по оценкам, значительная часть его бывших избирателей сменила выбор: 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[6].content[0].content[4]
+Было:   либо воздержалась от голосования во втором туре. В <span style="color: #700000;">
+Стало:  теперь кандидат. Многие также воздержалась от голосования во втором туре. В <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[6].content[0].content[6]
+Было:  </span> лагере царит уныние, поскольку этот результат говорит о том, что германские массы ещё далеки от революционного штурма капитализма, который готовили он и руководство его партии. 
+Стало: </span> лагере царит уныние, поскольку результат ясен: германские массы ещё далеки от революционного штурма капитализма, который готовили он и руководство его партии. 
+
+Путь: scenes.presidential_election_1932_candidate.jarres.content[0].content[0]
+Было:  Карл Яррес, вынужденный в 1925 году снять свою кандидатуру в пользу Гинденбурга, вновь включился в предвыборную гонку. Хотя он и не открыто партийным деятелем — последние годы он не принимал активного участия в большой политике, — ожидается, что Яррес разделяет многие из тех же анти-<span style="color: #c00000;">
+Стало: Карл Яррес, вынужденный в 1925 году снять свою кандидатуру в пользу Гинденбурга, вновь включился в предвыборную гонку. Хотя он и не открыто партийным деятелем — последние годы он не принимал активного участия в большой политике. Яррес ненавидит <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.jarres.content[0].content[2]
+Было:  </span> настроений, которые сейчас питает Гинденбург. Более того, он придерживается «стратегии приручения» в отношении <span style="color: #7A3C00;">нацистов</span>. Крайне важно выставить собственного кандидата, чтобы предотвратить подобный исход.
+Стало: </span> — как и Гинденбург. Более того, он придерживается «стратегии приручения» в отношении <span style="color: #7A3C00;">нацистов</span>. Крайне важно выставить собственного кандидата, чтобы предотвратить подобный исход.
+
+Путь: scenes.peoples_party_campaigning.campaign_catholics.title
+Было:  Вести агитацию в католических кругах.
+Стало: Вести агитацию среди политических католиков.
+
+Путь: scenes.peoples_party_campaigning.campaign_catholics.content.content.content[0]
+Было:  Исторически католики связаны с
+Стало: Исторически католики связаны с 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidate_menu.options[0].title.content[0]
+Было:  Поддержать <span style="color: #BFC8CC;">
+Стало: Мы доверим будущее страны <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidate_menu.options[0].title.content[2]
+Было:  </span>
+Стало: </span>: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidate_menu.options[1].title.content[0]
+Было:  Поддержать Конрада Аденауэра от
+Стало: Поддержать Конрада Аденауэра от 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.candidate_menu.options[2].title.content[0]
+Было:  Поддержать Теодора Хойсса от
+Стало: Поддержать Теодора Хойсса от 
+
+Путь: scenes.death_of_muller.wirth_chancellor.content.content.content[3]
+Было:  в качестве нового канцлера.
+Стало:  в качестве нового канцлера.
+
+Путь: scenes.death_of_muller.not_pm.content.content[0]
+Было:  Герман Мюллер, один из <span style="color: #c00000;">
+Стало: Герман Мюллер, один из многолетних лидеров <span style="color: #c00000;">
+
+Путь: scenes.death_of_muller.not_pm.content.content[2]
+Было:  </span>, её многолетних лидеров, скончался. Нам будет его очень не хватать.
+Стало: </span>, скончался. Нам будет его очень не хватать.
+
+Путь: scenes.presidential_election_1932_campaign_alt.communist_glaze.content.content[0].content[0]
+Было:  Несмотря на то, что ранее мы настаивали на негласном характере поддержки со стороны <span style="color: #700000;">
+Стало: Хоть ранее мы и настаивали на негласном характере поддержки со стороны <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.communist_glaze.content.content[0].content[2]
+Было:  </span>, теперь мы решили, что их полная поддержка на предстоящих выборах стоит риска оттолкнуть буржуазных <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцев</span>. В результате мы теперь открыто участвуем в совместных митингах в поддержку Брауна.
+Стало: </span>, теперь мы решили: их полная поддержка на предстоящих выборах стоит риска оттолкнуть буржуазных <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцев</span>. В результате мы теперь открыто участвуем в совместных митингах в поддержку Брауна.
+
+Путь: scenes.presidential_election_1932_campaign.communist_glaze.content.content[0].content[2]
+Было:  </span> оставалась негласной, мы пришли к выводу, что их полная поддержка на предстоящих выборах оправдывает риск оттолкнуть буржуазных <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцев</span>. В результате мы теперь открыто участвуем в совместных митингах в поддержку Брауна.
+Стало: </span> оставалась негласной, мы пришли к выводу: их полная поддержка на предстоящих выборах оправдывает риск оттолкнуть буржуазных <span style="color: #000000;">респу</span><span style="color: #DD0000;">бли</span><span style="color: #FFCC00;">канцев</span>. В результате мы теперь открыто участвуем в совместных митингах в поддержку Брауна.
+
+Путь: scenes.death_of_hindenburg_president.munzenberg_r1.unavailableSubtitle.content[2].content
+Было:  Реформистской фракции удаётся отговорить партию от поддержки этого соглашения.
+Стало: Реформистской фракции удаётся отговорить партию от поддержки этой затеи.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.adenauer_r1.content.content[0].content[0]
+Было:  Мы поддержали Конрада Аденауэра из
+Стало: Мы поддержали Конрада Аденауэра из 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.adenauer_r1.content.content[1].content.content[3]
+Было:  , и стали поддерживать 
+Стало: . Теперь их выбор: 
+
+Путь: scenes.hindenburg_explode_president.convince_z_unity.title.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.hindenburg_explode_president.convince_z_unity.content.content.content[3]
+Было:  поддержать 
+Стало: : 
+
+Путь: scenes.hindenburg_explode_president.convince_z_unity.content.content.content[5]
+Было:   в качестве единого кандидата против <span style="color: #7A3C00;">фашизма</span>, аргументируя это тем, что вместе <span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">рская</span> коалиция сможет одолеть <span style="color: #7A3C00;">нацистов</span> и вернуть Германию на демократический путь. 
+Стало:  нужен как единый кандидат против <span style="color: #7A3C00;">фашизма</span>. Вместе <span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">рская</span> коалиция сможет одолеть <span style="color: #7A3C00;">нацистов</span> и вернуть Германию на демократический путь. 
+
+Путь: scenes.hindenburg_explode_president.convince_z_unity.content.content.content[6].content
+Было:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая началась ещё в 1918 году.
+Стало:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая началась ещё в 1918 году.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.heuss_r1.content.content[0].content[0]
+Было:  Мы поддержали Теодора Хойса, журналиста 
+Стало: Мы поддержали Теодора Хойса, журналиста из 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.heuss_r1.content.content[1].content.content[2]
+Было:  </span> откололись и теперь поддерживают
+Стало: </span> откололись. Сейчас их выбор: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.heuss_r1.content.content[1].content.content[4]
+Было:  а, если они не сделали этого раньше.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president.schumacher_r1.content.content
+Было:  Мы выдвинули Курта Шумахера нашим кандидатом в президенты.
+Стало: Мы выдвинули Курта Шумахера кандидатом в президенты.
+
+Путь: scenes.hindenburg_explode_president.convince_z_spd.title.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.hindenburg_explode_president.convince_z_spd.content.content.content[0]
+Было:  Мы умоляем 
+Стало: Мы просим 
+
+Путь: scenes.hindenburg_explode_president.convince_z_spd.content.content.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.hindenburg_explode_president.convince_z_spd.content.content.content[6].content
+Было:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая берёт начало в 1918 году.
+Стало:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая берёт начало в 1918 году.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.schumacher_r1.content.content
+Было:  Мы выдвинули Курта Шумахера кандидатом в президенты. Однако убедить <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ские</span> партии — многие из которых значительно сместились вправо — открыто поддержать <span style="color: #c00000;">социалиста</span> будет непростой задачей.
+Стало: Мы выдвинули Курта Шумахера кандидатом в президенты. Однако убедить <span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">ские</span> партии — многие из которых значительно сместились вправо — открыто поддержать <span style="color: #c00000;">социалиста</span> будет непросто.
+
+Путь: scenes.death_of_hindenburg_president.juchacz_r1.content.content
+Было:  Мы выдвинули кандидатом в президенты Марию Юхач — первую женщину в истории, выдвинутую на этот пост!
+Стало: Мы выдвинули кандидатом в президенты Марию Юхач. Это первая женщина в истории, выдвинутая на такой пост!
+
+Путь: scenes.death_of_hindenburg_president.cultural_figure.subtitle
+Было:  Следующий президент должен стать символом новой Германии…
+Стало: Следующий президент должен стать символом новой Германии… 
+
+Путь: scenes.hindenburg_explode_president.z_success.content.content[0].content[5]
+Было:   теперь их кандидат на выборах.
+Стало:  теперь и их кандидат.
+
+Путь: scenes.local_election_saxony.spd_majority.subtitle
+Было:  Пот…
+Стало: Это было трудно…
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_unity.title.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_unity.content.content.content[3]
+Было:  поддержать
+Стало: : нам нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_unity.content.content.content[5]
+Было:   его в качестве единого кандидата против Шлейхера, утверждая, что вместе <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция сможет победить <span style="color: #BFC8CC;">
+Стало:  как единый кандидат против Шлейхера. Вместе <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция сможет победить <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_unity.content.content.content[8].content
+Было:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая ведёт своё начало с 1918 года.
+Стало:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая ведёт своё начало с 1918 года.
+
+Путь: scenes.death_of_hindenburg_president.einstein_r1.content.content[0].content[0]
+Было:  Альберт Эйнштейн — учёный, лауреат Нобелевской премии, директор Физического института кайзера Вильгельма и борец за мир во всём мире. Он один из основателей <span style="color: #D3C24D;">Немецкой демократической партии</span> (
+Стало: Альберт Эйнштейн — учёный, лауреат Нобелевской премии, директор Физического института кайзера Вильгельма и борец за мир во всём мире. Он один из основателей <span style="color: #D3C24D;">Немецкой демократической партии</span>, 
+
+Путь: scenes.death_of_hindenburg_president.einstein_r1.content.content[0].content[1].content
+Было:  преемница которой поддержала бы его на выборах
+Стало:  преемница которой поддержала бы его на выборах
+
+Путь: scenes.death_of_hindenburg_president.einstein_r1.content.content[0].content[2].content
+Было:  которая поддержит его на выборах
+Стало:  которая поддержит его на выборах
+
+Путь: scenes.death_of_hindenburg_president.einstein_r1.content.content[0].content[3]
+Было:  ), но также выражал симпатию к <span style="color: #c00000;">социализму</span>.
+Стало: . Но он также выражал симпатии к <span style="color: #c00000;">социализму</span>.
+
+Путь: scenes.death_of_hindenburg_president.einstein_r1.content.content[1].content
+Было:  Он не хотел баллотироваться в президенты, поскольку ему не по душе публичность предвыборной кампании, но нам каким-то образом удалось убедить его, что его кандидатура будет иметь решающее значение для будущего Германии и всего мира. Будучи <span style="color: #005EB8;">евреем</span>, немцем и пацифистом, его избрание президентом стало бы отрицанием всего, за что выступают <span style="color: #7A3C00;">нацисты</span>.
+Стало: Он не хотел баллотироваться в президенты, поскольку ему не по душе публичность предвыборной кампании, но нам каким-то образом удалось убедить его, что его кандидатура будет иметь решающее значение для будущего Германии и всего мира. Будучи <span style="color: #005EB8;">евреем</span>, немцем и пацифистом, его избрание стало бы отрицанием всего, за что выступают <span style="color: #7A3C00;">нацисты</span>.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.title.content[1].content
+Было:  <span style="color: #000000;">Партию центра</span>
+Стало: <span style="color: #000000;">Партию Центра</span>
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.title.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.content.content.content[0]
+Было:  Мы умоляем
+Стало: Мы просим
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.content.content.content[3]
+Было:  поддержать
+Стало: : им нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.content.content.content[5]
+Было:  нас. Мы пытаемся убедить их в необходимости единства перед лицом диктаторских устремлений Шлейхера: если мы будем разобщены, то попадём под влияние <span style="color: #BFC8CC;">
+Стало: . Мы пытаемся убедить их в необходимости единства перед диктаторскими замашками Шлейхера: если мы будем разобщены, то попадём под влияние <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_z_spd.content.content.content[8].content
+Было:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая ведётся с 1918 года.
+Стало:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которая ведётся с 1918 года.
+
+Путь: scenes.death_of_hindenburg_president.mann_r1.subtitle
+Было:  −2 ресурса — для буржуазных партий он может оказаться слишком <span style="color: #700000;">левым</span>.
+Стало: −2 ресурса — для буржуазных партий он может казаться слишком <span style="color: #700000;">левым</span>.
+
+Путь: scenes.death_of_hindenburg_president.mann_r1.content[0].content
+Было:  Генрих Манн — всемирно известный романист и поэт, также известный как левый активист. Его политические симпатии лежат на <span style="color: #700000;">крайне левом</span> фланге, и он поддерживал революции 1918 и 1919 годов. Он долгое время жил в тени своего более известного брата, Томаса Манна.
+Стало: Генрих Манн — всемирно известный романист, поэт, а также известный левый активист. Его политические симпатии лежат на <span style="color: #700000;">крайне левом</span> фланге: он поддерживал революции 1918 и 1919 годов. Он долгое время жил в тени своего более известного брата, Томаса Манна.
+
+Путь: scenes.death_of_hindenburg_president.ossietzky_r1.subtitle
+Было:  –2 ресурса — он может оказаться слишком <span style="color: #700000;">левым</span> для буржуазных партий.
+Стало: –2 ресурса — он может казаться слишком <span style="color: #700000;">левым</span> для буржуазных партий.
+
+Путь: scenes.death_of_hindenburg_president.ossietzky_r1.content[0].content[0]
+Было:  Карл фон Осецкий — левый журналист, издатель новостного журнала „Weltbühne“. Он наиболее известен тем, что в 1929 году разоблачил тайную программу перевооружения Германии, что принесло ему международную известность. На президентских выборах 1932 года он поддержал <span style="color: #700000;">
+Стало: Карл фон Осецкий — левый журналист, издатель новостного журнала „Вельтбюне“. Он наиболее известен тем, что в 1929 году разоблачил тайную программу перевооружения Германии: это принесло ему международную известность. На президентских выборах 1932 года он поддержал <span style="color: #700000;">
+
+Путь: scenes.cvp_merger_lambach.coalition_right.content[1].content[2]
+Было:  </span> — Категорически против коалиции с
+Стало: </span> — Категорически против коалиции
+
+Путь: scenes.cvp_merger_lambach.coalition_right.content[3].content[2]
+Было:  </span> — Категорически против коалиции с
+Стало: </span> — Категорически против коалиции
+
+Путь: scenes.cvp_merger_lambach.coalition_right.content[4].content[2]
+Было:  </span> — Подозрительная двусмысленность
+Стало: </span> — Подозрительное неоднозначность
+
+Путь: scenes.cvp_merger.coalition_right.content[1].content[2]
+Было:  </span> — Категорически против коалиции с
+Стало: </span> — Категорически против коалиции
+
+Путь: scenes.cvp_merger.coalition_right.content[3].content[2]
+Было:  </span> — Категорически против коалиции с
+Стало: </span> — Категорически против коалиции
+
+Путь: scenes.cvp_merger.coalition_right.content[4].content[2]
+Было:  </span> — Подозрительная двусмысленность
+Стало: </span> — Подозрительно неоднозначно
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[0].content[3]
+Было:  убеждена! Она поддержит
+Стало:  убеждена! Теперь их выбор: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[0].content[5]
+Было:  на выборах.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[1].content[0].content[3]
+Было:  , переключив свою поддержку на 
+Стало: . Теперь их выбор: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[2].content.content[0]
+Было:  <span style="color: #C0A054;">
+Стало: Теперь выбор <span style="color: #C0A054;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[2].content.content[2]
+Было:  </span> также переключилась на поддержку
+Стало: </span>: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_success.content.content[2].content.content[4]
+Было:  а, поскольку им крайне неприятно оказаться с нами в одном лагере.
+Стало: , поскольку им крайне неприятно оказаться с нами в одном лагере.
+
+Путь: scenes.cvp_merger_lambach.coalition_moderate.content[1].content[2]
+Было:  </span> — против коалиции с
+Стало: </span> — против коалиции
+
+Путь: scenes.cvp_merger_lambach.coalition_moderate.content[3].content[2]
+Было:  </span> — категорически против коалиции с
+Стало: </span> — категорически против коалиции
+
+Путь: scenes.cvp_merger_oppo_lambach.coalition_moderate.content[1].content[2]
+Было:  </span> — против коалиции с
+Стало: </span> — против коалиции
+
+Путь: scenes.cvp_merger_oppo_lambach.coalition_moderate.content[3].content[2]
+Было:  </span> — категорически против коалиции с
+Стало: </span> — категорически против коалиции
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_partial.options[1].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.z_partial.options[2].title.content[0]
+Было:  Забыть о
+Стало: Забыть о 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.title.content[0]
+Было:  Убедить
+Стало: Убедить 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.title.content[3]
+Было:   поддержать 
+Стало: : им нужен 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.content.content.content[0]
+Было:  Мы призываем
+Стало: Мы призываем 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.content.content.content[3]
+Было:  поддержать
+Стало: : им нужен 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.content.content.content[5]
+Было:   нас в качестве единого кандидата против <span style="color: #7A3C00;">фашизма</span>, утверждая, что вместе <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция сможет победить <span style="color: #7A3C00;">нацистов</span>. 
+Стало:  в качестве единого кандидата против <span style="color: #7A3C00;">фашизма</span>. Мы уверены, что вместе <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>ская коалиция сможет победить <span style="color: #7A3C00;">нацистов</span>. 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_unity.content.content.content[6].content
+Было:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которое началось ещё в 1918 году.
+Стало:  Мы также напоминаем им об истории сотрудничества между нашими партиями, которое началось ещё в 1918 году.
+
+Путь: scenes.cvp_merger_lambach.coalition_left.content.content[3].content[2]
+Было:  </span> - Категорически против совместного правления
+Стало: </span> - Категорически против коалиции
+
+Путь: scenes.cvp_merger_lambach.coalition_left.content.content[4].content[2]
+Было:  </span> - Против совместного правления
+Стало: </span> - Против коалиции 
+
+Путь: scenes.cvp_merger.coalition_left.content.content[3].content[2]
+Было:  </span> - Категорически против совместного правления
+Стало: </span> - Категорически против коалиции
+
+Путь: scenes.cvp_merger.coalition_left.content.content[4].content[2]
+Было:  </span> - Против совместного правления
+Стало: </span> - Против коалиции 
+
+Путь: scenes.cvp_merger_oppo.coalition_left.content.content[2].content[2]
+Было:  </span> - Предпочтительный партнёр по правительству
+Стало: </span> - Предпочтительный партнёр по коалиции
+
+Путь: scenes.cvp_merger_oppo.coalition_left.content.content[3].content[2]
+Было:  </span> - Категорически против совместного правления
+Стало: </span> - Категорически против коалиции
+
+Путь: scenes.cvp_merger_oppo.coalition_left.content.content[4].content[2]
+Было:  </span> - Против совместного правления
+Стало: </span> - Против коалиции
+
+Путь: scenes.cvp_merger_oppo_lambach.coalition_left.content.content[2].content[2]
+Было:  </span> - Предпочтительный партнёр по правительству
+Стало: </span> - Предпочтительный партнёр по коалиции
+
+Путь: scenes.cvp_merger_oppo_lambach.coalition_left.content.content[3].content[2]
+Было:  </span> - Категорически против совместного правления
+Стало: </span> - Категорически против коалиции
+
+Путь: scenes.cvp_merger_oppo_lambach.coalition_left.content.content[4].content[2]
+Было:  </span> - Против совместного правления
+Стало: </span> - Против коалциии 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.pay_z.content.content[1].content.content[3]
+Было:  , и теперь они поддерживают 
+Стало: . Теперь их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.convince_z_spd.content.content.content[0]
+Было:  Мы пытаемся убедить
+Стало: Мы пытаемся убедить 
+
+Путь: scenes.hindenburg_explode_president.convince_lvp_spd.title.content[2]
+Было:  </span> — им нужен 
+Стало: </span>: им нужен 
+
+Путь: scenes.hindenburg_explode_president.convince_kpd_spd.title.content[2]
+Было:  </span> поддержать 
+Стало: </span>: им нужен 
+
+Путь: scenes.hindenburg_explode_president.convince_kpd_spd.content.content.content[3].content[0]
+Было:  Однако их можно убедить снять свою кандидатуру и поддержать 
+Стало: Однако их можно убедить снять свою кандидатуру. 
+
+Путь: scenes.hindenburg_explode_president.convince_kpd_spd.content.content.content[3].content[2]
+Было:  ; как нам их убедить? 
+Стало:  — наш общий кандидат; но как нам их убедить в этом? 
+
+Путь: scenes.death_of_hindenburg_president.z_success.content.content[1].content[1].content[0]
+Было:  <span style="color: #0087DC;">
+Стало: Теперь выбор <span style="color: #0087DC;">
+
+Путь: scenes.death_of_hindenburg_president.z_success.content.content[1].content[1].content[2]
+Было:  </span> теперь будет поддерживать 
+Стало: </span>:
+
+Путь: scenes.death_of_hindenburg_president.z_success.content.content[1].content[1].content[4]
+Было:  а.
+Стало: .
+
+Путь: scenes.hindenburg_explode_president.kpd_resources.content.content.content[0]
+Было:  <span style="color: #700000;">
+Стало: Теперь кандидат <span style="color: #700000;">
+
+Путь: scenes.hindenburg_explode_president.kpd_resources.content.content.content[2]
+Было:  </span> теперь поддерживает 
+Стало: </span> на президентских выборах: 
+
+Путь: scenes.hindenburg_explode_president.kpd_resources.content.content.content[4]
+Было:  а на президентских выборах! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть избирателей из буржуазии.
+Стало: ! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть избирателей из буржуазии.
+
+Путь: scenes.hindenburg_explode_president.kpd_relations.content.content.content[0]
+Было:  <span style="color: #700000;">
+Стало: Теперь кандидат <span style="color: #700000;">
+
+Путь: scenes.hindenburg_explode_president.kpd_relations.content.content.content[2]
+Было:  </span> теперь поддерживает 
+Стало: </span> на президентских выборах: 
+
+Путь: scenes.hindenburg_explode_president.kpd_relations.content.content.content[4]
+Было:  а на президентских выборах! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+Стало: ! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_lvp_unity.title.content[2]
+Было:  </span> поддержать
+Стало: </span>: им нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_lvp_unity.content.content.content[0].content[2]
+Было:  </span> с неохотой согласилась поддержать
+Стало: </span> с неохотой согласилась:
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_lvp_unity.content.content.content[0].content[4]
+Было:  ! Во многом это связано с тем, что 
+Стало:  теперь и их кандидат! Во многом это связано с тем, что 
+
+Путь: scenes.death_of_hindenburg_president.pay_z.content.content[1].content[0].content[5]
+Было:  на этих выборах и поддерживает иного кандидата: 
+Стало: на этих выборах. Теперь их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.pay_z.content.content[1].content[2].content[0]
+Было:  <span style="color: #0087DC;">
+Стало: Выбор <span style="color: #0087DC;">
+
+Путь: scenes.death_of_hindenburg_president.pay_z.content.content[1].content[2].content[2]
+Было:  </span> теперь поддерживает другую фигуру: 
+Стало: </span> теперь иной: 
+
+Путь: scenes.hindenburg_explode_president.convince_dvp_unity.title.content[2]
+Было:  </span> — им нужен  
+Стало: </span>: им нужен 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_dvp_unity.content.content[1].content.content[0]
+Было:  <span style="color: #C0A054;">
+Стало: Теперь кандидат <span style="color: #C0A054;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.convince_dvp_unity.content.content[1].content.content[2]
+Было:  </span> теперь поддерживает иного кандидата — 
+Стало: </span>: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[0].content[0]
+Было:  Лидирует
+Стало: Лидирует 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[1].content[2]
+Было:  и
+Стало:  и 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[1].content[4]
+Было:   продолжат действовать по отдельности. Их неспособность забыть о взаимной вражде означает фактическую смерть движения, которое тратит больше времени на внутренние склоки, чем на борьбу с режимом.
+Стало:  продолжат действовать по отдельности. Их неспособность забыть о взаимной вражде означает фактическую смерть движения, которое тратит больше времени на внутренние распри, чем на борьбу с режимом.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[0].content[0]
+Было:  Кандидат от либералов Теодор Хойс снял свою кандидатуру в пользу представителя
+Стало: Кандидат от либералов Теодор Хойс снял свою кандидатуру. Его выбор: член 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[0].content[3]
+Было:  Конрада Аденауэра. Это консолидирует голоса умеренного <i>Буржуазный блок</i>, и, как ожидается, они смогут оказать достойное сопротивление 
+Стало:  Конрад Аденауэр. Это консолидирует голоса умеренного <i>Буржуазный блок</i>, и, как ожидается, они смогут оказать достойное сопротивление 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[0].content[5]
+Было:  .
+Стало: у.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[2].content[0]
+Было:  Кандитат от
+Стало: Кандитат от 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_start.content.content[2].content[2].content[5]
+Было:  .
+Стало: у.
+
+Путь: scenes.election_1928.popular_front_braun.title.content[0]
+Было:  Использовать давление президента, 
+Стало: Использовать давление президента 
+
+Путь: scenes.election_1928.popular_front_braun.title.content[2]
+Было:  чтобы принудить партии к сотрудничеству.
+Стало: а, чтобы принудить партии к сотрудничеству.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_menu.options[0].title.content[0]
+Было:  Поддержать <span style="color: #BFC8CC;">
+Стало: Наш выбор: кандидат от <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_menu.options[0].title.content[2]
+Было:  </span>
+Стало: </span> 
+
+Путь: scenes.death_of_hindenburg_president.convince_kpd_spd.content.content.content[2]
+Было:  </span> поддерживает своего кандидата, 
+Стало: </span> поддерживает своего кандидата, их выбор: 
+
+Путь: scenes.death_of_hindenburg_president.convince_kpd_spd.content.content.content[5].content[0]
+Было:  однако их можно убедить снять свою кандидатуру и поддержать 
+Стало: Убедить их, им нужен: 
+
+Путь: scenes.death_of_hindenburg_president.kpd_resources.content.content.content[0]
+Было:  <span style="color: #700000;">
+Стало: Теперь выбор <span style="color: #700000;">
+
+Путь: scenes.death_of_hindenburg_president.kpd_resources.content.content.content[2]
+Было:  </span> теперь оказывает поддержку 
+Стало: </span> на президентских выборах: 
+
+Путь: scenes.death_of_hindenburg_president.kpd_resources.content.content.content[4]
+Было:  у на президентских выборах! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+Стало: ! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+
+Путь: scenes.hindenburg_explode_president.r2_endorse_gessler.content.content[2].content.content[2]
+Было:  </span> выходит из нашей прежней коалиции и никого не поддерживает.
+Стало: </span> теперь выходит из нашей коалиции и никого не поддерживает.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_adenauer.title.content[0]
+Было:  Переключить поддержку на Конрада Аденауэра от
+Стало: Переключиться на поддержку Конрада Аденауэра от 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_adenauer.content.content[0].content[0]
+Было:  Мы поддержали Конрада Аденауэра от
+Стало: Мы поддержали Конрада Аденауэра от 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_adenauer.content.content[1].content[0].content[3]
+Было:  , переключив свою поддержку на 
+Стало: . Теперь их выбор: 
+
+Путь: scenes.death_of_hindenburg_president.kpd_relations.content.content.content[0]
+Было:  <span style="color: #700000;">
+Стало: Теперь выбор <span style="color: #700000;">
+
+Путь: scenes.death_of_hindenburg_president.kpd_relations.content.content.content[2]
+Было:  </span> теперь поддерживает 
+Стало: </span> на президентских выборах: 
+
+Путь: scenes.death_of_hindenburg_president.kpd_relations.content.content.content[4]
+Было:   на президентских выборах! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+Стало: ! Мы просим их не афишировать свою поддержку, чтобы не оттолкнуть буржуазных избирателей.
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_heuss.content.content[1].content[0].content[0]
+Было:  Из-за нашей поддержки Хойса из <span style="color: #C0A054;">
+Стало: Из-за нашей поддержки Хойса, его сторонники из <span style="color: #C0A054;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_heuss.content.content[1].content[0].content[2]
+Было:  </span> откололись его сторонники и теперь поддерживают
+Стало: </span> откололись. Теперь их выбор: 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.r2_endorse_heuss.content.content[1].content[0].content[4]
+Было:  если ещё этого не сделали.
+Стало: .
+
+Путь: scenes.election_1928.great_popular_front.content.content.content[0]
+Было:  Каким-то образом коалицию всё-таки удалось сформировать! Примирительная позиция руководства
+Стало: Каким-то образом коалицию всё-таки удалось сформировать! Примирительная позиция руководства 
+
+Путь: scenes.election_1928.great_popular_front.content.content.content[13].content[0]
+Было:  а также президента
+Стало: , а также президента 
+
+Путь: scenes.election_1928.great_popular_front.content.content.content[13].content[2]
+Было:  , хоть и с крайней неохотой 
+Стало: а, хоть и с крайней неохотой 
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[0].content[0]
+Было:  Кандидат от либералов
+Стало: Кандидат от либералов 
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[0].content[2]
+Было:  снял свою кандидатуру в пользу
+Стало:  снял свою кандидатуру в пользу 
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[0].content[3].content
+Было:  кандидата от <span style="color: #000000;">Партии Центра</span>
+Стало: , кандидата от <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[0].content[4].content[0]
+Было:  <span style="color: #000000;">
+Стало: , кандидата от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[0]
+Было:  Выдвинутый
+Стало: 
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[1].content
+Было:  <span style="color: #000000;">Партией Центра</span>
+Стало: , кандидат от <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[2].content[0]
+Было:  <span style="color: #000000;">
+Стало: , кандидат от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[5]
+Было:  снял свою кандидатуру в пользу
+Стало:  снял свою кандидатуру. Его выбор: 
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[6].content[0]
+Было:  <span style="color: #D3C24D;">
+Стало:  от <span style="color: #D3C24D;">
+
+Путь: scenes.death_of_hindenburg_president.r2_start.content.content[2].content[2].content[7].content[0]
+Было:  <span style="color: #FFCC00;">
+Стало:  от <span style="color: #FFCC00;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.hammerstein_win.content.content.content[0]
+Было:  Благодаря победе
+Стало: Благодаря победе 
+
+Путь: scenes.death_of_hindenburg_president_rubicon.hammerstein_win.content.content.content[2]
+Было:  s, <span style="color: #BFC8CC;">
+Стало: а, <span style="color: #BFC8CC;">
+
+Путь: scenes.death_of_hindenburg_president_rubicon.hammerstein_win.content.content.content[5].content[2]
+Было:   в качестве <i>Рейхскомиссара</i>.
+Стало: а в качестве <i>Рейхскомиссара</i>.
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.title[0]
+Было:  Передать нашу поддержку Тельману из <span style="color: #700000;">
+Стало: Теперь мы поддержить Тельмана из <span style="color: #700000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.unavailableSubtitle.content[2].content
+Было:  Реформистскому крылу удаётся отговорить партию от поддержки этой странной договорённости.
+Стало: Реформистскому крылу удаётся отговорить партию от поддержки этой странной затеи.
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[3].content[0]
+Было:  Наши бывшие союзники из
+Стало: Наши бывшие союзники из 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[3].content[3]
+Было:  расценивают это как предательство.
+Стало:  расценивают это как предательство.
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[4].content[0]
+Было:  Теперь они поддержат
+Стало: Теперь их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[4].content[2]
+Было:  вновь.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[5].content[2]
+Было:  </span> переходит на сторону
+Стало: </span> меняет свою позицию. Теперь их выбор: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[5].content[3].content
+Было:  <span style="color: #000000;">Партии Центра</span>
+Стало: , кандидат от <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[5].content[4].content[0]
+Было:  <span style="color: #000000;">
+Стало: , кандидат от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[5].content[5]
+Было:  кандидата.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[6].content[0]
+Было:  <span style="color: #C0A054;">
+Стало: Выбор <span style="color: #C0A054;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[6].content[2]
+Было:  </span> также поддержит
+Стало: </span>: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[6].content[3].content
+Было:  <span style="color: #000000;">Партии Центра</span>
+Стало: , кандидат от <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[6].content[4].content[0]
+Было:  <span style="color: #000000;">
+Стало: , кандидат от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[6].content[5]
+Было:  кандидата.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[7].content[0]
+Было:  <span style="color: #FFCC00;">
+Стало: Выбор <span style="color: #FFCC00;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[7].content[2]
+Было:  </span> также поддержит
+Стало: </span>:
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[7].content[3].content
+Было:  <span style="color: #000000;">Партии Центра</span>
+Стало: , кандидат от <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[7].content[4].content[0]
+Было:  <span style="color: #000000;">
+Стало: , кандидат от <span style="color: #000000;">
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_thalmann.content.content.content[7].content[5]
+Было:  кандидата.
+Стало: .
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.title.content[0]
+Было:  Переключить нашу поддержку на
+Стало: Поменять решение. Теперь наш кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.title.content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[0].content[0]
+Было:  Мы поддержали
+Стало: Наш выбор: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[0].content[2]
+Было:  из
+Стало:  из 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[1].content[0].content[0]
+Было:  Из-за нашей поддержки
+Стало: Так как наш кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[1].content[0].content[5]
+Было:  . Теперь их выбор: 
+Стало: . Теперь их кандидат: 
+
+Путь: scenes.death_of_hindenburg_president.r2_endorse_adenauer.content.content[1].content[0].content[7].content
+Было:  <span style="color: #3E88B3;">националиста</span> 
+Стало: <span style="color: #3E88B3;">националист</span> 
+
+Путь: scenes.hindenburg_explode_president.nazis_lose.content.content.content[0]
+Было:  После поражения на выборах так называемый «новый Гарцбургский фронт» разваливается из-за внутренних распрей и финансового краха. Звёздный час <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span>, похоже, миновал, и начинается путь к восстановлению демократии под руководством президента по имени 
+Стало: После поражения на выборах так называемый «новый Гарцбургский фронт» разваливается из-за внутренних распрей и финансового краха. Звёздный час <span style="color: #7A3C00;">крайне</span> <span style="color: #3E88B3;">правых</span>, похоже, миновал, и начинается путь к восстановлению демократии под руководством нового президента. Теперь лидер нашей страны — 
+
+Путь: scenes.hindenburg_explode_president.nazis_lose.content.content.content[2]
+Было:   начинается. Всё висело на волоске.
+Стало: . Всё висело на волоске.
+
