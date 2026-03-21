@@ -24501,3 +24501,150 @@
 Было:  </span>ожидается, что они выдвинут единого кандидата, и его победа гарантирует полную консолидацию власти на обозримое будущее — этого исхода необходимо избежать любой ценой. Тем временем председатель Верховного суда 
 Стало: </span> ожидают, что они выдвинут единого кандидата: его победа гарантирует полную консолидацию власти на обозримое будущее — этого исхода необходимо избежать любой ценой. Тем временем председатель Верховного суда 
 
+
+========================================
+СБОРКА: 2026-03-21 14:46:55
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.library.curr_gov.content.content[1].content[0]
+Было:  Президент:
+Стало: Президент: 
+
+Путь: scenes.library.curr_gov.content.content[3].content[0]
+Было:  Министр-президент Пруссии:
+Стало: Министр-президент Пруссии: 
+
+Путь: scenes.library.curr_gov.content.content[4].content
+Было:  Состав рейхстага:
+Стало: Состав рейхстага: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[0].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[3]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[6].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[10]
+Было:  :
+Стало: : 
+
+Путь: scenes.library.curr_gov.content.content[5].content[14]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[17].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[19].content[4]
+Было:  :
+Стало: : 
+
+Путь: scenes.library.curr_gov.content.content[5].content[21].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[23].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[25].content[0]
+Было:  <span class="tooltip-text" title="Свободно-консервативная партия" style="color: #00C0FF;">
+Стало: <span class="tooltip-text" title="Свободная Консервативная партия" style="color: #00C0FF;">
+
+Путь: scenes.library.curr_gov.content.content[5].content[25].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[27].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[29].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[31].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[33].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[35].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[37].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[5].content[40]
+Было:  :
+Стало: : 
+
+Путь: scenes.library.curr_gov.content.content[6].content[2]
+Было:  </span>:
+Стало: </span>: 
+
+Путь: scenes.library.curr_gov.content.content[6].content[4].content
+Было:  в правительстве —
+Стало: в правительстве — 
+
+Путь: scenes.library.curr_gov.content.content[6].content[14].content[0]
+Было:  <span style="color: #c00000;">
+Стало: Большинство <span style="color: #c00000;">
+
+Путь: scenes.library.curr_gov.content.content[6].content[14].content[2]
+Было:  </span> большинство
+Стало: </span>
+
+Путь: scenes.library.curr_gov.content.content[7].content[0].content[0]
+Было:  Поддержка Брюнинга в рейхстаге:
+Стало: Поддержка Брюнинга в рейхстаге: 
+
+Путь: scenes.library.curr_gov.content.content[8].content[0].content[0]
+Было:  Отношение Гинденбурга:
+Стало: Отношение Гинденбурга: 
+
+Путь: scenes.library.curr_gov.content.content[9].content[0].content[0]
+Было:  Цели правительства:
+Стало: Цели правительства: 
+
+Путь: scenes.library.curr_gov.content.content[10].content[0].content[0]
+Было:  Второстепенные цели правительства:
+Стало: Второстепенные цели правительства: 
+
+Путь: scenes.library.curr_gov.content.content[11].content[0].content[0]
+Было:  Разногласия в коалиции:
+Стало: Разногласия в коалиции: 
+
+Путь: scenes.library.curr_gov.content.content[12].content[0].content[0]
+Было:  Отношение Гинденбурга:
+Стало: Отношение Гинденбурга: 
+
+Путь: scenes.library.curr_gov.content.content[13].content.content[2]
+Было:  </span> разногласия в коалиции:
+Стало: </span> разногласия в коалиции: 
+
+Путь: scenes.library.public_opinion.content.content[1].content[0]
+Было:  Поддержка Республики:
+Стало: Поддержка Республики: 
+
+Путь: scenes.library.parties.content.content[3].content[0].content[6]
+Было:  (
+Стало:  (
+
+Путь: scenes.library.paramilitaries.content.content[4].content[0].content
+Было:  RotfrontkÃ¤mpferbund (RFB)
+Стало: Roter Frontkämpferbund (RFB)
+
