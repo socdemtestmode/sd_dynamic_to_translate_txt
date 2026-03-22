@@ -25631,3 +25631,230 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  Поскольку
 Стало: Поскольку 
 
+
+========================================
+СБОРКА: 2026-03-22 10:01:49
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.harzburg_front.content.content[2].content[8].content[0]
+Было:  К счастью, 
+Стало: К счастью, Тревиранус из 
+
+Путь: scenes.harzburg_front.content.content[2].content[8].content[3]
+Было:  Тревиранус отговорил многих влиятельных промышленников от участия в этом собрании
+Стало:  отговорил многих влиятельных промышленников от участия в этом собрании.
+
+Путь: scenes.social_welfare.increase_spending_pre_depression.subtitle
+Было:  -1 бюджет
+Стало: -1 к бюджету
+
+Путь: scenes.banking_crisis.stabilization.subtitle
+Было:  -1 бюджет
+Стало: -1 к бюджету
+
+Путь: scenes.hitler_takes_power_mini.content.content[1].content[0]
+Было:  С
+Стало: С назначением 
+
+Путь: scenes.hitler_takes_power_mini.content.content[1].content[2]
+Было:  назначением может показаться, что для <span style="color: #000000;">Вейм</span><span style="color: #DD0000;">арс</span><span style="color: #FFCC00;">кой</span> республики всё почти кончено. Однако такие люди, как Шлейхер и Брюнинг, неожиданно оказались в одном кабинете с <span style="color: #7A3C00;">нацистами</span>. Возможно, их всё-таки удастся «приручить»? Может, нам не стоит действовать опрометчиво и лучше выждать.
+Стало: а может показаться, что для <span style="color: #000000;">Вейм</span><span style="color: #DD0000;">арс</span><span style="color: #FFCC00;">кой</span> республики всё почти кончено. Однако такие люди, как Шлейхер и Брюнинг, неожиданно оказались в одном кабинете с <span style="color: #7A3C00;">нацистами</span>. Возможно, их всё-таки удастся «приручить»? Может, нам не стоит действовать опрометчиво и лучше выждать.
+
+Путь: scenes.economic_policy.lautenbach_wtb.title.content[0]
+Было:  Наполнить план ВТБ
+Стало: Наполнить план ВТБ планом 
+
+Путь: scenes.economic_policy.lautenbach_wtb.title.content[2]
+Было:   планом, предполагающим значительное расширение общественных работ и повышение зарплат.
+Стало: а, предполагающим значительное расширение общественных работ и повышение зарплат.
+
+Путь: scenes.hindenburg_extention_mini.subtitle.content[0]
+Было:  Правительство
+Стало: Правительство 
+
+Путь: scenes.hindenburg_extention_mini.subtitle.content[2]
+Было:  пытается протолкнуть продление…
+Стало: а пытается протолкнуть продление…
+
+Путь: scenes.schacht_vs_hilferding.options[1].title
+Было:  Работать с ним над бюджетом.
+Стало: Работать с ним над проектом бюджета.
+
+Путь: scenes.emergency_cuts.center_right_coalition_prussia.content.content[1].content[5]
+Было:  избран на пост министра-президента Пруссии.
+Стало:  избран на пост министра-президента Пруссии.
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[0].content[4]
+Было:  .
+Стало: а. 
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[1].content
+Было:  Отказ <span style="color: #000000;">Партии Центра</span>
+Стало: отказ <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.hitler_cabinet_1.hitler_2.content.content[1].content[3]
+Было:  от поддержки 
+Стало:  от поддержки 
+
+Путь: scenes.hitler_cabinet_1.hitler_3.title.content[1]
+Было:  отказывается уходить в отставку!
+Стало:  отказывается уходить в отставку!
+
+Путь: scenes.fiscal_policy.cut_poor.unavailableSubtitle.content[0]
+Было:  -2 бюджета —
+Стало: -2 бюджета — 
+
+Путь: scenes.presidential_election_1932_candidate.luther.title.content[2].content[0]
+Было:  лидер
+Стало: , лидер 
+
+Путь: scenes.presidential_election_1932_candidate.luther.title.content[3]
+Было:  и бывший канцлер.
+Стало:  и бывший канцлер.
+
+Путь: scenes.fiscal_policy.cut_rich.unavailableSubtitle.content[0]
+Было:  -2 бюджет -
+Стало: -2 бюджет - 
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[0].content[0]
+Было:  Рейхсвер выказал больше доверия
+Стало: Рейхсвер выказал больше доверия 
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[0].content[2]
+Было:  чем канцлеру 
+Стало: у, чем канцлеру 
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[0].content[4]
+Было:  у, и под этим влиянием, 
+Стало: у. Под влиянием этого 
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[1].content[0]
+Было:  Генрих Брюнинг из
+Стало: Генрих Брюнинг из 
+
+Путь: scenes.hitler_cabinet_1.give_up_3.content.content[1].content[3]
+Было:  избран временным канцлером. Следующие выборы назначены на 
+Стало:  избран исполняющим обязанности канцлера. Следующие выборы назначены на 
+
+Путь: scenes.march_on_berlin.fight.content.content[0].content[0]
+Было:  Численность Рейхсбаннера составляет
+Стало: Численность Рейхсбаннера составляет 
+
+Путь: scenes.economic_policy.wtb_2_deficit.subtitle
+Было:  Бюджет –3 — мы уйдём в дефицит.
+Стало: Бюджет –3 — мы уйдём в дефицит бюджета.
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.title.content[1].content
+Было:  правого крыла
+Стало: правого крыла 
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.title.content[2].content
+Было:  левого крыла
+Стало: левого крыла 
+
+Путь: scenes.presidential_election_1932_candidate.stegerwald.title.content[4].content
+Было:  <span style="color: #000000;">партии Центра</span>
+Стало: <span style="color: #000000;">Центра</span>
+
+Путь: scenes.economic_policy.implement_wtb_no_deficit.subtitle.content[2]
+Было:  Бюджет.
+Стало:  Бюджет.
+
+Путь: scenes.prussia_election_1928.minority_weimar_coalition.content.content[3].content.content[2]
+Было:  избран на пост министра-президента Пруссии.
+Стало:  избран на пост министра-президента Пруссии.
+
+Путь: scenes.economic_policy.implement_wtb_deficit.subtitle.content[2]
+Было:  бюджет — мы перейдём к дефицитному финансированию.
+Стало: бюджет — мы перейдём к дефициту бюджета.
+
+Путь: scenes.economic_policy.nationalize_1.subtitle.content[2]
+Было:  бюджет.
+Стало:  бюджет.
+
+Путь: scenes.prussian_coalition_formation.minority_grand_coalition_prussia.content.content[1].content[3].content[2]
+Было:  избран на пост министра-президента Пруссии.
+Стало:  избран на пост министра-президента Пруссии.
+
+Путь: scenes.inter_party_relationships.liberals.content.content.content[3].content
+Было:  Хотя общенациональный сдвиг вправо заставляет их усомниться в нашем сотрудничестве.
+Стало:  Хотя общенациональный сдвиг вправо заставляет их усомниться в нашем сотрудничестве.
+
+Путь: scenes.inter_party_relationships.dvp_loss.content.content[1].content[3].content[0]
+Было:  и на президента
+Стало: и на президента 
+
+Путь: scenes.inter_party_relationships.dvp_loss.content.content[1].content[4]
+Было:  , всё же может быть полезно на них повлиять. 
+Стало: а, всё же может быть полезно на них повлиять. 
+
+Путь: scenes.economic_policy.nationalize_2.subtitle.content[2]
+Было:  бюджет.
+Стало:  бюджет.
+
+Путь: scenes.presidential_election_1932_round_1.give_up_prussia.content.content[1].content[0]
+Было:  Должность министра-президента переходит к
+Стало: Должность министра-президента переходит к члену 
+
+Путь: scenes.presidential_election_1932_round_1.give_up_prussia.content.content[1].content[1].content
+Было:  <span style="color: #000000;">Центру</span>
+Стало: <span style="color: #000000;">Партии Центра</span> 
+
+Путь: scenes.presidential_election_1932_round_1.give_up_prussia.content.content[1].content[2].content[1].content
+Было:  ХНП
+Стало: ХНП 
+
+Путь: scenes.presidential_election_1932_round_1.give_up_prussia.content.content[1].content[3]
+Было:  .
+Стало: у.
+
+Путь: scenes.presidential_election_1932_round_1.give_up_prussia.content.content[1].content[5]
+Было:  Надеемся, их поддержка перевесит потерю популярности и внутренние разногласия, вызванные отставкой нашей самой известной фигуры.
+Стало:  Надеемся, их поддержка перевесит потерю популярности и внутренние разногласия, вызванные отставкой нашей самой известной фигуры.
+
+Путь: scenes.prussia_election_1928.bourgeois_coalition_prussia.content.content[1].content[5]
+Было:  избран на пост министра-президента Пруссии.
+Стало:  избран на пост министра-президента Пруссии.
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[2].content[0].content[0]
+Было:  Однако выход из гонки
+Стало: Однако выход из гонки 
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[2].content[0].content[2]
+Было:  и
+Стало: а и 
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[2].content[0].content[4]
+Было:  вынудил
+Стало: а вынудил 
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[2].content[0].content[6]
+Было:  вступить в неё в качестве кандидата от умеренно-правых.
+Стало: а вступить в неё в качестве кандидата от умеренно-правых.
+
+Путь: scenes.presidential_election_1932_candidate.give_up_prussia.content.content[1].content[0]
+Было:  Должность министра-президента передаётся
+Стало: Должность министра-президента передаётся члену 
+
+Путь: scenes.presidential_election_1932_candidate.give_up_prussia.content.content[1].content[1].content
+Было:  <span style="color: #000000;">Центру</span>
+Стало: <span style="color: #000000;">Партии Центра</span> 
+
+Путь: scenes.presidential_election_1932_candidate.give_up_prussia.content.content[1].content[2].content[1].content
+Было:  ХНП
+Стало: ХНП 
+
+Путь: scenes.presidential_election_1932_candidate.give_up_prussia.content.content[1].content[3]
+Было:  .
+Стало: у.
+
+Путь: scenes.presidential_election_1932_candidate.give_up_prussia.content.content[1].content[5]
+Было:  . Надеемся, их поддержка перевесит потерю популярности и внутренние разногласия, вызванные отставкой нашей самой известной фигуры.
+Стало:  Надеемся, их поддержка перевесит потерю популярности и внутренние разногласия, вызванные отставкой нашей самой известной фигуры.
+
+Путь: scenes.presidential_election_1932_round_1.round2_vote.content.content[1].content[1].content[2]
+Было:  выбыл из гонки благодаря нашим заигрываниям с
+Стало:  выбыл из гонки благодаря нашим заигрываниям с 
+
