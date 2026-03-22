@@ -25544,3 +25544,90 @@
 Стало: При создании этой игры использованы многочисленные работы. Autumn Chen — автор оригинальной Social democracy: an alternative history! 
 u/originalperson0 — автор мода Динамик (Dynamic)!
 
+
+========================================
+СБОРКА: 2026-03-22 06:42:30
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.modinfo.flavors.options[2].title
+Было:  Каковы все пути?
+Стало: Каковы все возможные развилки?
+
+Путь: scenes.main.main_easy.content.content[60].content[1].content[2]
+Было:  </span> принесли плоды: обе партии сблизили свои политические позиции. Недавно принятая «программа Стольпера» и преобразование <span style="color: #C0A054;">
+Стало: </span> принесли плоды: обе партии сблизили свои политические позиции. Недавно принятая «программа Штольпера» и преобразование <span style="color: #C0A054;">
+
+Путь: scenes.goerdeler_cabinet_2.content.content[1].content[2]
+Было:  — непримиримы. Из-за их непреодолимых разногласий с
+Стало:  — непримиримы. Из-за их непреодолимых разногласий с 
+
+Путь: scenes.reichsbanner_zentrum.content.content[1].content[0]
+Было:  В последнее время Рейхсбаннер всё больше милитаризируется: у него появляется всё больше оружия, проводится полувоенная подготовка, а в его ряды вливается поток <span style="color: #9B0000;">радикально настроенных</span> <span style="color: #c00000;"> членов
+Стало: В последнее время Рейхсбаннер всё больше милитаризируется: у него появляется всё больше оружия, проводится полувоенная подготовка, а в его ряды вливается поток <span style="color: #9B0000;">радикально настроенных</span> <span style="color: #c00000;"> членов 
+
+Путь: scenes.modinfo.paths.options[0].title[0]
+Было:  <span style="color: #D3C24D;">
+Стало: Развилки <span style="color: #D3C24D;">
+
+Путь: scenes.modinfo.paths.options[0].title[2]
+Было:  </span> Пути!
+Стало: </span>!
+
+Путь: scenes.modinfo.paths.options[1].title[0]
+Было:  <span style="color: #C0A054;">
+Стало: Развилки <span style="color: #C0A054;">
+
+Путь: scenes.modinfo.paths.options[1].title[2]
+Было:  </span> Пути!
+Стало: </span>!
+
+Путь: scenes.modinfo.paths.options[2].title[0]
+Было:  <span style="color: #FFCC00;">
+Стало: Развилки <span style="color: #FFCC00;">
+
+Путь: scenes.modinfo.paths.options[2].title[2]
+Было:  </span> Пути!
+Стало: </span>!
+
+Путь: scenes.modinfo.paths.options[3].title[0]
+Было:  <span style="color: #000000;">
+Стало: Развилки <span style="color: #000000;">
+
+Путь: scenes.modinfo.paths.options[3].title[1].content
+Было:  Центр
+Стало: Центра
+
+Путь: scenes.modinfo.paths.options[3].title[2]
+Было:  </span> Пути!
+Стало: </span>!
+
+Путь: scenes.modinfo.paths.options[4].title[0]
+Было:  <span style="color: #3E88B3;">
+Стало: Развилки <span style="color: #3E88B3;">
+
+Путь: scenes.modinfo.paths.options[4].title[2]
+Было:  </span> Пути!
+Стало: </span>!
+
+Путь: scenes.modinfo.paths.options[5].title
+Было:  Полная динамическая блок-схема!
+Стало: Полная динамическая схема всех партий и их взаимодействий!
+
+Путь: scenes.modinfo.paths.content.content
+Было:  Пути партий
+Стало: Развилки партий
+
+Путь: scenes.ddp_party_congress_dstp.title[0]
+Было:  Недовольство в <span style="color: #D3C24D;">
+Стало: Раскол в <span style="color: #D3C24D;">
+
+Путь: scenes.ddp_party_congress_dstp.title[2]
+Было:  </span>.
+Стало: </span>?
+
+Путь: scenes.election_1928.no_majority_goerdeler.content.content[1].content[0]
+Было:  Поскольку
+Стало: Поскольку 
+
