@@ -25933,3 +25933,498 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  </span>», «Против тактики воздержания от вотума недоверия»
 Стало: </span>, Против тактики воздержания от вотума недоверия
 
+
+========================================
+СБОРКА: 2026-03-23 05:50:52
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.1931.content.content.content[2].content
+Было:  Для снижения безработицы принята программа общественных работ.
+Стало:  Для снижения безработицы принята программа общественных работ.
+
+Путь: scenes.hirschfeld.homosexual_rights_.title
+Было:  Права <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">лов</span> <i> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+Стало: Права <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">лов</span> <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+
+Путь: scenes.hirschfeld.homosexual_rights_.subtitle
+Было:  Принять закон в поддержку прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">лов</span>. <i> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+Стало: Принять закон в поддержку прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">лов</span>. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+
+Путь: scenes.homosexual_rights.repeal_175.subtitle
+Было:  Параграф 175 в настоящее время криминализует <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ные</span> ( <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i> ) акты. Мы можем принять закон, чтобы это изменить.
+Стало: Параграф 175 в настоящее время криминализует <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ные</span> акты. Мы можем принять закон, чтобы это изменить. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+
+Путь: scenes.homosexual_rights.repeal_175.content.content[0].content[2]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.homosexual_rights.repeal_175.content.content[0].content[5]
+Было:   мы фактически декриминализовали <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льные</span> связи в Германии. Преследование <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">ксу</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span> (<i> (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>) за их частную жизнь прекратится, если полиция сохранит верность республике.
+Стало:  мы фактически декриминализовали <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льные</span> связи в Германии. Преследование <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">ксу</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span> за их частную жизнь прекратится, если полиция сохранит верность республике. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.harzburg_front_dnf.content.content[1].content[6]
+Было:  </span>, и <span style="color: #003755;">
+Стало: </span> и <span style="color: #003755;">
+
+Путь: scenes.kaiser_party_congress.adenauer.content.content[2].content[2]
+Было:  </span>. Символом этих перемен стал ребрендинг партии, которая теперь называется (<span style="color: #000000;">Христианская народная партия</span>).
+Стало: </span>. Символом этих перемен стал ребрендинг партии, которая теперь называется <span style="color: #000000;">Христианская народная партия</span>.
+
+Путь: scenes.rohm_gay.expose_rohm.options[0].title
+Было:  Начать судебное преследование Рёма! <span style="color: red;">Го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ные</span> контакты запрещены параграфом 175, что позволяет нам возбудить против него дело (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).
+Стало: Начать судебное преследование Рёма! <span style="color: red;">Го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">аль</span><span style="color: purple;">ные</span> контакты запрещены параграфом 175, что позволяет нам возбудить против него дело. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.rohm_gay.expose_rohm.content[1].content
+Было:  В брошюре утверждается: партия, попустительствующая <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">секс</span><span style="color: green;">уаль</span><span style="color: blue;">нос</span><span style="color: purple;">ти</span> в своих высших эшелонах, стремится «отравить народ и уничтожить его нравственную силу». Она предостерегает, что это приведёт к упадку Германии, подобному падению Древнего Рима, и заявляет: оставляя Рёма у власти, нацисты становятся соучастниками «сознательного и преднамеренного совращения немецкой молодёжи с целью превратить её в <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">секс</span><span style="color: green;">уаль</span><span style="color: blue;">ны</span><span style="color: purple;">х</span> миньонов». (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)
+Стало: В брошюре утверждается: партия, попустительствующая <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">секс</span><span style="color: green;">уаль</span><span style="color: blue;">нос</span><span style="color: purple;">ти</span> в своих высших эшелонах, стремится «отравить народ и уничтожить его нравственную силу». Она предостерегает, что это приведёт к упадку Германии, подобному падению Древнего Рима, и заявляет: оставляя Рёма у власти, нацисты становятся соучастниками «сознательного и преднамеренного совращения немецкой молодёжи с целью превратить её в <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">секс</span><span style="color: green;">уаль</span><span style="color: blue;">ны</span><span style="color: purple;">х</span> миньонов». <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.constitutional_reform.vote_threshold.content.content[1].content[1].content[0]
+Было:  Партия
+Стало: 
+
+Путь: scenes.constitutional_reform.vote_threshold.content.content[1].content[1].content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.austrian_civil_war.long_war.content.content[0]
+Было:  Ни одна из сторон не отступает, и <span style="color: #A50034;">
+Стало: Ни одна из сторон не отступает: <span style="color: #A50034;">
+
+Путь: scenes.austrian_customs_union.end_coalition.content.content.content[3]
+Было:  и
+Стало: и 
+
+Путь: scenes.austrian_customs_union.end_coalition.content.content.content[6]
+Было:  недовольны.
+Стало:  — недовольны.
+
+Путь: scenes.kaiser_party_congress.kaiser.content.content[0].content[0]
+Было:  Благодаря нашим связям на местах и несгибаемой решимости нам каким-то образом удалось обеспечить переизбрание Якоба Кайзера на пост председателя
+Стало: Благодаря нашим связям на местах и несгибаемой решимости нам каким-то образом удалось обеспечить переизбрание Якоба Кайзера на пост председателя 
+
+Путь: scenes.kaiser_party_congress.kaiser.content.content[1].content
+Было:  Однако в качестве компромисса Кайзер согласился официально переименовать партию в <i>Христианская народная партия</i> (<span style="color: #000000;">Христианская народная партия</span>). Помимо этого косметического изменения — учитывая историческую связь католиков с названием «<span style="color: #000000;">Центр</span>» — программа партии осталась практически без изменений.
+Стало: Однако в качестве компромисса Кайзер согласился официально переименовать партию в <i>Christliche Volkspartei</i> (<span style="color: #000000;">Христианская народная партия</span>). Помимо этого косметического изменения — учитывая историческую связь католиков с названием «<span style="color: #000000;">Центр</span>» — программа партии осталась практически без изменений.
+
+Путь: scenes.kaiser_party_congress.kaiser.content.content[2].content
+Было:  Тем не менее такой исход привёл в ярость правое крыло партии. Многие из её консерваторов-протестантов вышли из партии в знак протеста, вернувшись в свою <span class="tooltip-text" title="that's me! the modman!">прежнюю</span> партию.
+Стало: Тем не менее, такой исход привёл в ярость правое крыло партии. Многие из её консерваторов-протестантов вышли из партии в знак протеста, вернувшись в свои прежние партит.
+
+Путь: scenes.panzerkreuzer_b.vote_no.content.content.content[1].content
+Было:  , в том числе среди наших партнёров по коалиции 
+Стало: , в том числе среди наших партнёров по коалиции.
+
+Путь: scenes.panzerkreuzer_b.vote_no.content.content.content[2].content
+Было:  , в том числе в правительстве меньшинства, которое мы сейчас поддерживаем 
+Стало: , в том числе в правительстве меньшинства, которое мы сейчас поддерживаем.
+
+Путь: scenes.z_right_party_congress.content.content[0].content[3]
+Было:  проводит съезд партии
+Стало:  проводит съезд партии
+
+Путь: scenes.hirschfeld.content.content[1].content[1].content[2]
+Было:  </span> в области прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">ло</span>в (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).
+Стало: </span> в области прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">а</span><span style="color: purple;">ло</span>в <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.homosexual_rights.reform_183.content.content.content[2]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.homosexual_rights.reform_183.content.content.content[5]
+Было:   мы реформировали Параграф 183 так, что он больше не предусматривает уголовной ответственности за публичную <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льность</span> и <span style="color: deepskyblue;">кросс</span><span style="color: deeppink;">дрессинг</span>.
+Стало:  Мы реформировали Параграф 183: он больше не предусматривает уголовной ответственности за публичную <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льность</span> и <span style="color: deepskyblue;">кросс</span><span style="color: deeppink;">дрессинг</span>. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.kaiser_party_congress.title.content[3]
+Было:  проводит съезд
+Стало:  проводит съезд
+
+Путь: scenes.kaiser_party_congress.options[0].title.content[0]
+Было:  Эта
+Стало: 
+
+Путь: scenes.kaiser_party_congress.options[1].title.content[0]
+Было:  Повлиять на
+Стало: Повлиять на 
+
+Путь: scenes.kaiser_party_congress.options[1].title.content[3]
+Было:  чтобы избрать Якоба Кайзера председателем партии.
+Стало: , чтобы избрать Якоба Кайзера председателем партии.
+
+Путь: scenes.kaiser_party_congress.content.content[0].content[3]
+Было:  проводит съезд партии
+Стало:  проводит съезд партии
+
+Путь: scenes.kaiser_party_congress.content.content[1].content[0]
+Было:  Избрание Якоба Кайзера на пост руководителя
+Стало: Избрание Якоба Кайзера на пост руководителя 
+
+Путь: scenes.military_angry.subtitle
+Было:  <span style="color: #808080;">Реакционное</span> гнездо начинает вслух выражать своё недовольство.
+Стало: Гнездо <span style="color: #808080;">Реакции</span> начинает вслух выражать своё недовольство.
+
+Путь: scenes.rohm_gay.persecute_rohm.content[0].content
+Было:  Имея неопровержимые доказательства нарушения Рёмом параграфа 175 — закона, устанавливающего уголовную ответственность за <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льные</span> деяния, — мы смогли вновь возбудить против него дело. Рём не в состоянии отрицать подлинность писем, и многие восприняли это как подтверждение их достоверности.
+Стало: Имея неопровержимые доказательства нарушения Рёмом параграфа 175 — закона, устанавливающего уголовную ответственность за <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">кс</span><span style="color: blue;">уа</span><span style="color: purple;">льные</span> деяния, — мы смогли вновь возбудить против него дело. Рём не в состоянии отрицать подлинность писем: многие восприняли это как подтверждение их достоверности.
+
+Путь: scenes.status.content.content[5].content[0].content[0]
+Было:  Одобрение Гинденбурга:
+Стало: Одобрение Гинденбурга: 
+
+Путь: scenes.constitutional_reform.constructive_vonc.content.content.content[0].content[2]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.homosexual_rights.change_sex.subtitle
+Было:  Мы можем создать юридическую процедуру смены пола, чтобы облегчить людям жизнь.
+Стало: Мы можем создать юридическую процедуру смены пола. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>.
+
+Путь: scenes.homosexual_rights.change_sex.content[0].content
+Было:  Мы приняли законопроект, который позволяет юридически признавать <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span> <i>(Экстремистская международная организация запрещенная Верховным Судом Российской Федерации)</i> и трансвеститов в том поле, в котором они живут, менять имя, одеваться по своему желанию без преследования со стороны полиции и проходить медицинские процедуры.
+Стало: Мы приняли законопроект, который позволяет юридически признавать <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span> и трансвеститов в том поле, в котором они сами себя видят. А также менять имя, одеваться по своему желанию без преследования со стороны полиции, проходить медицинские процедуры. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+
+Путь: scenes.homosexual_rights.content[1].content
+Было:  Существует целое созвездие различных групп, сформировавшихся на почве гендерных и сексуальных различий, включая <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span>, <span style="color: coral;">лес</span><span style="color: linen;">би</span><span style="color: mediumvioletred;">янок</span>, <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span>, трансвеститов, инвертов и т. д. Политика нашей партии — поддерживать их право на свободную жизнь без преследований. Магнус Хиршфельд, основатель Institut fÃ¼r Sexualwissenschaft, — член нашей партии и один из главных защитников прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">ксу</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span>. <i>(Экстремистская международная организация запрещенная Верховным Судом Российской Федерации)</i>
+Стало: Существует целое созвездие различных групп, сформировавшихся на почве гендерных и сексуальных различий, включая <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">сек</span><span style="color: green;">су</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span>, <span style="color: coral;">лес</span><span style="color: linen;">би</span><span style="color: mediumvioletred;">янок</span>, <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span>, трансвеститов, инвертов и т. д. Политика нашей партии — поддерживать их право на свободную жизнь без преследований. Магнус Хиршфельд, основатель Institut für Sexualwissenschaft, — член нашей партии и один из главных защитников прав <span style="color: red;">го</span><span style="color: orange;">мо</span><span style="color: yellow;">се</span><span style="color: green;">ксу</span><span style="color: blue;">ал</span><span style="color: purple;">ов</span>. <i>(Экстремистская международная организация запрещенная Верховным Судом Российской Федерации)</i>
+
+Путь: scenes.center_party_conference.subtitle.content[1].content
+Было:  <span style="color: #000000;">«Партия Центра»</span>
+Стало: <span style="color: #000000;">Партия Центра</span>
+
+Путь: scenes.ddp_party_congress.deadlock.content.content
+Было:  Голосование зашло в тупик, и ни один кандидат не набрал большинства голосов. Теперь вы, игрок, вольны выбрать компромиссную кандидатуру. Выбирайте мудро. Хотя на самом деле нет. Выбирайте Хойса прямо сейчас.
+Стало: Голосование зашло в тупик: ни один кандидат не набрал большинства голосов. Теперь вы, игрок, вольны выбрать компромиссную кандидатуру. Выбирайте мудро. Хотя на самом деле нет. Выбирайте Хойса прямо сейчас.
+
+Путь: scenes.dvp_party_congress.luther.content.content[1].content[1].content
+Было:  Он также высказался за сохранение Большой коалиции и сотрудничество между двумя партиями.
+Стало:  Он также высказался за сохранение Большой коалиции и сотрудничество между двумя партиями.
+
+Путь: scenes.dvp_party_congress.luther.content.content[1].content[2].content
+Было:  Он высказался в поддержку коалиционного правительства с нашим участием и сотрудничества между двумя партиями.
+Стало:  Он высказался в поддержку коалиционного правительства с нашим участием и сотрудничества между двумя партиями.
+
+Путь: scenes.dvp_party_congress_1.content.content[1].content[4]
+Было:   в прошлом году, теперь промышленники из правого крыла партии объединили свои ресурсы для последней попытки сместить 
+Стало: а в прошлом году, теперь промышленники из правого крыла партии объединили свои ресурсы для последней попытки сместить 
+
+Путь: scenes.dvp_party_congress_1.content.content[1].content[6]
+Было:  .
+Стало: а.
+
+Путь: scenes.dvp_party_congress_1.content.content[2].content[1].content[2]
+Было:  </span>. Поскольку настроения немецкого электората значительно сместились вправо, правое крыло партии видит в этом слабость, которой можно воспользоваться. Они выдвинули Эдуарда Дингельдея, который одним из первых в <span style="color: #C0A054;">
+Стало: </span>. Поскольку настроения немецкого электората значительно сместились вправо, правое крыло партии видит в этом слабость, которой можно воспользоваться. Они выдвинули Эдуарда Дингельдея, он один из первых в <span style="color: #C0A054;">
+
+Путь: scenes.education_science.medical.content.content.content[1].content
+Было:  Среди наших внезапных медицинских открытий — новые методы проведения операций по смене пола и гормональная терапия для <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span>. Возможно, в будущем от этого разовьётся что-то полезное уже для большей части населения. (ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России).
+Стало: Среди наших внезапных медицинских открытий — новые методы проведения операций по смене пола и гормональная терапия для <span style="color: deepskyblue;">тран</span><span style="color: linen;">ссе</span><span style="color: lightpink;">ксуалов</span>. Возможно, в будущем от этого разовьётся что-то полезное уже для большей части населения. <i>(ЛГБТ — экстремистское международное движение, запрещенное Верховным Судом России)</i>
+
+Путь: scenes.cabinet_sacked.title.content[0]
+Было:  Гинденбург отправляет в отставку 
+Стало: Гинденбург смещает 
+
+Путь: scenes.high_inflation.options[3].title
+Было:  Уж на этот раз у Reichsbank наверняка есть план?
+Стало: Уж на этот раз у Рейхсбанка наверняка есть план?
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[0].content
+Было:  Широкие президентские полномочия, предусмотренные конституцией, могут привести к <span style="color: #808080;">авторитаризму</span>. Поэтому мы можем поддержать реформы, которые ограничат полномочия президента, лишив его права в одностороннем порядке распускать избранное правительство и смещать правительства земель.
+Стало: Широкие президентские полномочия, предусмотренные конституцией, могут привести к <span style="color: #808080;">авторитаризму</span>. Поэтому мы можем поддержать реформы, которые ограничат полномочия президента, лишив его права в одностороннем порядке распускать избранное национальное правительство и смещать правительства земель.
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[4]
+Было:  </span> правительства земель в Тюрингии и Саксонии смещены). Демократы из
+Стало: </span> правительства земель в Тюрингии и Саксонии сместили). Демократы из 
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[7]
+Было:  также поддерживают это.
+Стало:  также поддерживают это.
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[8].content[0]
+Было:  Однако консерваторы яростно выступают против, поскольку они рассматривают ограничение президентских полномочий как проявление неуважения к 
+Стало:  Однако консерваторы яростно выступают против, поскольку они рассматривают ограничение президентских полномочий как проявление неуважения к 
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[8].content[2]
+Было:  .
+Стало: у.
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[10].content[4].content[0]
+Было:  &nbsp;вместе с большинством <span style="color: #FFCC00;">
+Стало: &nbsp; вместе с большинством <span style="color: #FFCC00;">
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[10].content[5].content[0]
+Было:  &nbsp;, однако большинство <span style="color: #FFCC00;">
+Стало: &nbsp; однако большинство <span style="color: #FFCC00;">
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[12].content[4].content[0]
+Было:  &nbsp;, однако правых в <span style="color: #FFCC00;">
+Стало: &nbsp; однако правых в <span style="color: #FFCC00;">
+
+Путь: scenes.constitutional_reform.presidential_powers.content.content[1].content[12].content[5].content[0]
+Было:  &nbsp;вместе с большинством <span style="color: #FFCC00;">
+Стало: &nbsp; вместе с большинством <span style="color: #FFCC00;">
+
+Путь: scenes.economic_policy.cut_salaries.content.content[0]
+Было:  Мы сократили зарплаты госслужащим примерно на 15%, представив это как болезненный, но необходимый шаг к восстановлению экономики Германии. Однако это оправдание мало кого убедило, и многие отвернулись от демократических партий в пользу радикальной <span style="color: #7A3C00;">
+Стало: Мы сократили зарплаты госслужащим примерно на 15%, представив это как болезненный, но необходимый шаг к восстановлению экономики Германии. Однако это оправдание мало кого убедило: многие отвернулись от демократических партий в пользу радикальной <span style="color: #7A3C00;">
+
+Путь: scenes.womens_rights.liberalize_success.content.content.content[2]
+Было:  </span> и
+Стало: </span> и 
+
+Путь: scenes.womens_rights.liberalize_success.content.content.content[8]
+Было:  . На фоне растущих политических дебатов об абортах, религиозно-ориентированная 
+Стало: . На фоне растущих политических дебатов об абортах, религиозно-ориентированные 
+
+Путь: scenes.economic_policy.industrial_levy.content.content.content[0]
+Было:  Мы сохранили промышленный сбор, несмотря на то что он больше не используется для выплаты репараций. Как и ожидалось, мы навлекли на себя гнев деловых кругов
+Стало: Мы сохранили промышленный сбор, хотя он больше не используется для выплаты репараций. Как и ожидалось, мы навлекли на себя гнев деловых кругов
+
+Путь: scenes.economic_policy.industrial_levy.content.content.content[3].content[0]
+Было:  , а <span style="color: #C0A054;">
+Стало: , и <span style="color: #C0A054;">
+
+Путь: scenes.economic_policy.industrial_levy.content.content.content[4].content[0]
+Было:  , а <span style="color: #FFCC00;">
+Стало: , и <span style="color: #FFCC00;">
+
+Путь: scenes.austrian_customs_union.options[1].title
+Было:  Прекратить это соглашение!
+Стало: Мы потопим это соглашение!
+
+Путь: scenes.austrian_customs_union.options[2].title
+Было:  Попытаться прекратить это соглашение!
+Стало: Мы постараемся потопим это соглашение!
+
+Путь: scenes.austrian_customs_union.content.content[1].content[0].content[0]
+Было:  Наш
+Стало: МИД контролирует другая партия: 
+
+Путь: scenes.austrian_customs_union.content.content[1].content[0].content[2]
+Было:   министр иностранных дел выдвинул предложение о создании таможенного союза с Австрией. Мы можем либо принять, либо отклонить это соглашение. 
+Стало: . Её член — министр иностранных дел в правительстве — выдвинул предложение о создании таможенного союза с Австрией. Мы можем либо принять, либо отклонить это предложение. 
+
+Путь: scenes.sa_ban_pre.sa_ban_braun.content.content[0].content[3]
+Было:  , наблюдается всплеск военизированного насилия и даже ходят слухи об <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правом</span> перевороте. Министр внутренних дел Пруссии Карл Зеверинг приказал провести экстренные обыски во всех <span style="color: #7A3C00;">нацистских</span> и <span style="color: #7A3C00;">
+Стало:  наблюдается всплеск военизированного насилия и даже ходят слухи об <span style="color: #7A3C00;">ультра</span><span style="color: #3E88B3;">правом</span> перевороте. Министр внутренних дел Пруссии Карл Зеверинг приказал провести экстренные обыски во всех <span style="color: #7A3C00;">нацистских</span> и <span style="color: #7A3C00;">
+
+Путь: scenes.sa_ban_pre.sa_ban_braun.content.content[1].content[2]
+Было:  </span> отряды в состояние повышенной готовности после выборов. В случае
+Стало: </span> отряды в состояние повышенной готовности после выборов. В случае победы
+
+Путь: scenes.sa_ban_pre.sa_ban_braun.content.content[1].content[4]
+Было:   победы эти отряды должны были немедленно начать государственный переворот, который включал в себя захват военных объектов и вооружения.
+Стало: у эти отряды должны были немедленно начать государственный переворот, который включал в себя захват военных объектов и вооружения.
+
+Путь: scenes.sa_ban_pre.sa_ban_braun.content.content[2].content[2]
+Было:  </span>, и этого мнения придерживаются многие не-<span style="color: #7A3C00;">нацистские</span> правительства земель. Однако более консервативные, не-<span style="color: #7A3C00;">нацистские</span> элементы немецких правых, а также сам рейхсвер, не разделяют нашей тревоги по поводу <span style="color: #7A3C00;">
+Стало: </span>: это мнение разделяют многие не-<span style="color: #7A3C00;">нацистские</span> правительства земель. Однако более консервативные, не-<span style="color: #7A3C00;">нацистские</span> элементы немецких правых, а также сам рейхсвер, не разделяют нашей тревоги по поводу <span style="color: #7A3C00;">
+
+Путь: scenes.sa_ban_pre.sa_ban_braun.content.content[2].content[4]
+Было:  </span> и их предполагаемых планов переворота и не видят необходимости в немедленных действиях.
+Стало: </span> и их предполагаемых планов переворота. Они не видят необходимости в немедленных действиях.
+
+Путь: scenes.crisis_program.adopt_moderate.content.content.content[1].content
+Было:  Мы можем начать реализацию этого плана, если у нас будут министерства экономики или финансов.
+Стало:  Мы можем начать реализацию этого плана, если у нас будут министерства экономики или финансов.
+
+Путь: scenes.weimar_prussia_collapse.content.content[0].content
+Было:  Демократический оплот разрушен
+Стало: Оплот демократии разрушен
+
+Путь: scenes.weimar_prussia_collapse.content.content[1].content
+Было:  Мы каким-то образом настроили против себя партии, входящие в правящую в Пруссии <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>скую коалицию, и наши партнёры по коалиции вынесли нам вотум недоверия.
+Стало: Мы каким-то образом настроили против себя партии, входящие в правящую в Пруссии <span style="color: #000000;">Ве</span><span style="color: #DD0000;">йм</span><span style="color: #FFCC00;">ар</span>скую коалицию: наши партнёры по коалиции вынесли нам вотум недоверия.
+
+Путь: scenes.weimar_prussia_collapse.content.content[2].content[0].content[7].content[0]
+Было:  Однако это крайне маловероятно из-за <span style="color: #3E88B3;">
+Стало: Однако это крайне маловероятно из-за позиции <span style="color: #3E88B3;">
+
+Путь: scenes.weimar_prussia_collapse.content.content[2].content[0].content[7].content[2]
+Было:  </span>позиции «всё или ничего» в вопросах формирования правительства.
+Стало: </span> «всё или ничего» в вопросах формирования правительства.
+
+Путь: scenes.sa_ban_pre.title[0]
+Было:  <span style="color: #7A3C00;">
+Стало: Обнаружен план переворота <span style="color: #7A3C00;">
+
+Путь: scenes.sa_ban_pre.title[2]
+Было:  </span>: обнаружен план переворота!
+Стало: </span>!
+
+Путь: scenes.sa_ban_pre.content.content[0]
+Было:  <span style="color: #7A3C00;">
+Стало: Обнаружен план переворота <span style="color: #7A3C00;">
+
+Путь: scenes.sa_ban_pre.content.content[2]
+Было:  </span>: обнаружен план переворота!
+Стало: </span>!
+
+Путь: scenes.presidential_election_1932_candidate.hugenberg.content.content[0].content[0]
+Было:  Гарцбургский фронт раскололся, и 
+Стало: Гарцбургский фронт раскололся: 
+
+Путь: scenes.economic_policy.moderate_plan.unavailableSubtitle.content[1].content
+Было:  Недостаточно бюджетных средств.
+Стало:  Недостаточно бюджетных средств.
+
+Путь: scenes.economic_policy.moderate_plan.unavailableSubtitle.content[3].content
+Было:  Уровень безработицы достаточно низок, поэтому в создании новых рабочих мест нет необходимости.
+Стало:  Уровень безработицы достаточно низок, поэтому в создании новых рабочих мест нет необходимости.
+
+Путь: scenes.economic_policy.moderate_plan_limited_budget.unavailableSubtitle.content[1].content
+Было:  У нас нет необходимого бюджета.
+Стало:  У нас нет необходимого бюджета.
+
+Путь: scenes.economic_policy.moderate_plan_limited_budget.unavailableSubtitle.content[3].content
+Было:  Уровень безработицы достаточно низок, поэтому в создании рабочих мест нет необходимости.
+Стало:  Уровень безработицы достаточно низок, поэтому в создании рабочих мест нет необходимости.
+
+Путь: scenes.presidential_election_1932_candidate.thalmann.content.content[6]
+Было:  </span> достаточно высок, мы, возможно, сможем убедить его снять свою кандидатуру в пользу единого кандидата от наших двух партий.
+Стало: </span> достаточно высоки, мы, возможно, сможем убедить его снять свою кандидатуру в пользу единого кандидата от наших двух партий.
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[0].content[1].content
+Было:  Он и сам поддерживал голосование за Гинденбурга, и потребуется немало уговоров, чтобы убедить его в его предназначении. 
+Стало: Он и сам поддерживал голосование за Гинденбурга: потребуется немало уговоров, чтобы убедить его в баллотироваться. 
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[0].content[2].content
+Было:  Потребуется немало уговоров, чтобы убедить его в его предназначении. 
+Стало: Потребуется немало уговоров, чтобы убедить его в баллотироваться. 
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[0].content[6].content
+Было:  учитывая ухудшение наших с ними отношений,
+Стало: учитывая ухудшение наших с ними отношений, 
+
+Путь: scenes.presidential_election_1932_candidate.run_braun.content.content[1].content[0].content[7].content
+Было:  но готовы на это из-за своего нежелания поддерживать Гинденбурга.
+Стало: но они могут быть готовы на это из-за неприязни к реакционеру Гинденбургу.
+
+Путь: scenes.presidential_election_1932_candidate.run_eckener.unavailableSubtitle.content[2].content
+Было:  Он не заинтересован в том, чтобы баллотироваться против Гинденбурга.
+Стало: Он не хочет баллотироваться против Гинденбурга.
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[0].title.content[4].content[0]
+Было:  &nbsp;и отказаться от поддержки 
+Стало: &nbsp; им не нужен 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[0].title.content[5]
+Было:  а.
+Стало: .
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[2].title.content[3].content[0]
+Было:  &nbsp;и отозвать поддержку 
+Стало: &nbsp; им не нужен 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[2].title.content[4]
+Было:  а.
+Стало: .
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[3].title.content[3].content[0]
+Было:  &nbsp;и отозвать поддержку 
+Стало: &nbsp; им не нужен 
+
+Путь: scenes.presidential_election_1932_candidate.endorsements_braun.options[3].title.content[4]
+Было:  а.
+Стало: .
+
+Путь: scenes.presidential_election_1932_candidate.hope.content.content[0].content[2]
+Было:  </span>а достаточно сильна, чтобы противостоять 
+Стало: а</span> достаточно сильна, чтобы противостоять 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[0]
+Было:  Мы напоминаем лидерам 
+Стало: Мы напоминаем 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[1].content
+Было:  <span style="color: #000000;">Центра</span>
+Стало: <span style="color: #000000;">Центру</span>
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[8].content[0]
+Было:  Мы также напоминаем им о нашей поддержке
+Стало: Мы также напоминаем им о нашей поддержке кандидата от 
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[8].content[1].content
+Было:  <span style="color: #000000;">Центр</span>
+Стало: <span style="color: #000000;">Центра</span>
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[8].content[3]
+Было:  кандидата Вильгельма Маркса на президентских выборах 1925 года
+Стало:  Вильгельма Маркса на президентских выборах 1925 года
+
+Путь: scenes.presidential_election_1932_candidate.convince_z.content.content.content[10].content
+Было:  К сожалению, поддержка Гинденбургом правительства меньшинства Брюнинга почти не оставила им возможности выступать против президента, который и поддерживает его президентский кабинет.
+Стало:  К сожалению, поддержка Гинденбургом правительства меньшинства Брюнинга почти не оставила им возможности выступать против президента, который и поддерживает его президентский кабинет.
+
+Путь: scenes.presidential_election_1932_candidate.convince_kpd.content.content.content[2]
+Было:  </span> есть собственный кандидат, 
+Стало: </span> есть собственный кандидат — 
+
+Путь: scenes.presidential_election_1932_candidate.convince_kpd.content.content.content[6].content
+Было:  Похоже, они не поддаются на уговоры.
+Стало:  Похоже, они не поддаются на уговоры.
+
+Путь: scenes.presidential_election_1932_campaign.campaigning_hindenburg_op.content.content.content[2].content
+Было:  Сбору средств ещё больше мешают партии, поддерживающие переизбрание Гинденбурга, поскольку они предпочитают приберечь свои средства для предстоящих в конце апреля выборов в землях, будучи уверены, что его победа и так обеспечена.
+Стало: Сбору средств ещё больше мешают партии, поддерживающие переизбрание Гинденбурга, поскольку они предпочитают приберечь свои средства для предстоящих в конце апреля выборов в землях Они уверены: его победа и так обеспечена.
+
+Путь: scenes.presidential_election_1932_campaign.bourgeois_campaign_op.content.content[2].content[0]
+Было:  Уровень единства в лагере Гинденбурга:
+Стало: Уровень единства в лагере Гинденбурга: 
+
+Путь: scenes.presidential_election_1932_campaign.eckener_op.title
+Было:  К нашей кампании присоединился прославленный капитан дирижабля Гуго Эккенер.
+Стало: К кампании присоединился прославленный капитан дирижабля Гуго Эккенер.
+
+Путь: scenes.presidential_election_1932_campaign.eckener_op.subtitle[2]
+Было:  в предвыборной кампании.
+Стало:  в предвыборной кампании.
+
+Путь: scenes.presidential_election_1932_campaign.industrial_2_op.content.content.content[2]
+Было:  </span> в значительной степени отбила у них охоту делать пожертвования
+Стало: </span> в значительной степени отбила у них охоту жертвовать нацистам. 
+
+Путь: scenes.presidential_election_1932_campaign.industrial_2_op.content.content.content[4]
+Было:  . Похоже, теперь у кампании Гинденбурга наконец-то есть средства на создание предвыборной инфраструктуры, способной соперничать с усилиями Геббельса и <span style="color: #7A3C00;">нацистами</span>.
+Стало:  вызывает у них скепсис. Похоже, теперь у кампании Гинденбурга наконец-то есть средства на создание предвыборной инфраструктуры, способной соперничать с усилиями Геббельса и <span style="color: #7A3C00;">нацистами</span>.
+
+Путь: scenes.presidential_election_1932_campaign.westarp_op.content.content.content[0]
+Было:  Разумеется, главная цель Объединённых комитетов в поддержку Гинденбурга — развеять представление о том, что его поддерживают <span style="color: #000000;">чёрно</span>-<span style="color: #c00000;">красные</span> партии. С этой целью Вестарп разослал письма 750 представителям консервативной элиты, которые поддержали избрание Гинденбурга в 1925 году, и 500 из них вновь подтвердили свою поддержку. 
+Стало: Разумеется, главная цель Объединённых комитетов в поддержку Гинденбурга — развеять представление , что его якобы поддерживают <span style="color: #000000;">чёрно</span>-<span style="color: #c00000;">красные</span> избиратели. С этой целью Вестарп разослал письма 750 представителям консервативной элиты, которые поддержали избрание Гинденбурга в 1925 году, и 500 из них вновь подтвердили свою поддержку. 
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.subtitle
+Было:  Такие влиятельные группы, как Имперский Аграрный Союз (RLB), DHV и Пангерманский союз, всё больше отдаляются от Гинденбурга.
+Стало: Имперский Аграрный Союз (RLB), DHV и Пангерманский союз раньше поддерживали Гинденбурга. А сейчас?
+
+Путь: scenes.presidential_election_1932_campaign.content.content[1].content[0].content[2]
+Было:  </span>, в одиночку ведущая предвыборную борьбу за избрание 
+Стало: </span> в одиночку ведет предвыборную борьбу. Их кандидат: 
+
+Путь: scenes.presidential_election_1932_campaign.content.content[1].content[0].content[4]
+Было:  , имеет мало шансов на победу — по крайней мере, по мнению наших советников. Однако это не значит, что выборы не имеют значения. Масштабная <span style="color: #7A3C00;">нацистская</span> пропагандистская кампания, организованная печально известным Йозефом Геббельсом, в сочетании с предстоящими местными выборами всего через месяц после первого тура может значительно изменить общественное мнение. Это, в свою очередь, может оказать давление на президента Гинденбурга и его окружение, чтобы они заняли более враждебную позицию по отношению к действующему правительству и добивались реорганизации национального правительства с включением в него <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span>. 
+Стало:  — имеет мало шансов на победу. По крайней мере, по мнению наших советников. Однако это не значит, что выборы не имеют значения. Масштабная <span style="color: #7A3C00;">нацистская</span> пропагандистская кампания, организованная печально известным Йозефом Геббельсом, в сочетании с предстоящими местными выборами всего через месяц после первого тура может значительно изменить общественное мнение. Это, в свою очередь, может оказать давление на президента Гинденбурга и его окружение, чтобы они заняли более враждебную позицию по отношению к действующему правительству и добивались реорганизации национального правительства с включением в него <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span>. 
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.content.content[0].content[5]
+Было:  и
+Стало:  и 
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.content.content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.content.content[0].content[7].content[1].content
+Было:  государственной
+Стало: Государственной партии
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.content.content[0].content[8].content[1].content
+Было:  Либеральной народной
+Стало: Либеральной народной партии
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.content.content[0].content[12]
+Было:  партий. Однако
+Стало: . Однако 
+
+Путь: scenes.election_1928.weimar_coalition_2.content.content.content[13].content
+Было:  Мы можем сформировать коалицию меньшинства благодаря тому, что <span style="color: #63C489;">Немецко-ганноверская партия</span> воздержится от вотума недоверия. Но, вероятно, что уже на новых выборах они не смогут нас спасти. Так что в следующий раз Веймарским партиям однозначно понадобится минимум 50% мест в Рейхстаге .
+Стало: Мы можем сформировать коалицию меньшинства благодаря тому, что <span style="color: #63C489;">Немецко-ганноверская партия</span> воздержится от вотума недоверия. Но, вероятно, что уже на новых выборах они не смогут нас спасти. Так что в следующий раз Веймарским партиям однозначно понадобится минимум 50% мест в Рейхстаге.
+
