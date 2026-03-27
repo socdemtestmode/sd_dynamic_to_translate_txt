@@ -26836,3 +26836,470 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  Возвращение кайзеррейха
 Стало: Возвращение Кайзеррейха
 
+
+========================================
+СБОРКА: 2026-03-27 16:45:55
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.main.main_easy.content.content[51].content[1].content[7]
+Было:  </span> в сближении с
+Стало: </span> в сближении с 
+
+Путь: scenes.main.main_easy.content.content[70].content[1].content[0]
+Было:  Инициатива против плана Юнга завершила сбор подписей для проведения референдума. Подписи поставили
+Стало: Инициатива против плана Юнга завершила сбор подписей для проведения референдума. Подписи поставили 
+
+Путь: scenes.prussian_affairs_dvp.police_loyalty.content.content[2].content[0]
+Было:  Текущая лояльность полиции:
+Стало: Текущая лояльность полиции: 
+
+Путь: scenes.prussian_affairs_majority.police_loyalty.content.content[1].content[0]
+Было:  Текущая лояльность полиции:
+Стало: Текущая лояльность полиции: 
+
+Путь: scenes.blutmai.ban.content.content[0].content[4]
+Было:  </span> уже называют этот инцидент
+Стало: </span> уже называют этот инцидент 
+
+Путь: scenes.local_election_france.france.content.content[16].content[9]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_france.france.content.content[17].content[6]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_france.france.content.content[18].content[8]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_france.france.content.content[19].content[8]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_saxony.saxony.content.content[19].content[4]
+Было:  </span>, что и положило начало этому термину. <hr id="read-marker"> Объединенная левая коалиция (<span style="color: #c00000;">
+Стало: </span>, что и положило начало этому термину. <hr id="read-marker"> Объединенная Левая коалиция (<span style="color: #c00000;">
+
+Путь: scenes.local_election_saxony.saxony.content.content[19].content[12]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_saxony.saxony.content.content[20].content[9]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_saxony.saxony.content.content[21].content[15]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_saxony.saxony.content.content[22].content[17]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[0].content[0].content
+Было:  Результаты в Тюрингии:
+Стало: Результаты в Тюрингии: 
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[16].content[20].content
+Было:  КП-О
+Стало: КПО
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[16].content[25]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[17].content[7]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[18].content[12]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_thuringia.thuringia.content.content[19].content[16]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[0].content[0].content
+Было:  Результаты в Саксонии:
+Стало: Результаты в Саксонии: 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[20].content[34]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[21].content[9]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[22].content[0].content[15]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[23].content[0].content[12]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_saxony_1930.saxony.content.content[24].content.content[16]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.soclib_prussia_collapse.far_right_coalition_prussia.title.content[3]
+Было:  коалиция
+Стало:  коалиция
+
+Путь: scenes.soclib_prussia_collapse.far_right_coalition_prussia.content.content[0].content[3]
+Было:  сформировали коалицию. Герман Геринг получает пост министра-председателя и немедленно начинает демонтаж демократических институтов.
+Стало: сформировали коалицию. Герман Геринг получает пост министра-президента и немедленно начинает демонтаж демократических институтов.
+
+Путь: scenes.weimar_prussia_collapse.far_right_coalition_prussia.title.content[3]
+Было:  коалиция
+Стало:  коалиция
+
+Путь: scenes.young_plan_campaign.internationalism.content.content.content[3]
+Было:  Хотя буржуазия не слишком довольна тем, что мы монополизировали кампанию в поддержку плана Юнга.
+Стало:  Хотя буржуазия не слишком довольна тем, что мы монополизировали кампанию в поддержку плана Юнга.
+
+Путь: scenes.socchrist_prussia_collapse.far_right_coalition_prussia.title.content[3]
+Было:  Коалиция
+Стало:  Коалиция
+
+Путь: scenes.young_plan_right_coalition.no_matter.content.content.content[0]
+Было:  Коалиция <span style="color: #000000;">буржуазии</span> и <span style="color: #3E88B3;">правых</span> распалась. Новые выборы назначены на 
+Стало:  <span style="color: #000000;">Буржуазно</span> <span style="color: #3E88B3;">-правая</span> коалиция распалась. Новые выборы назначены на 
+
+Путь: scenes.election_simulation.post_election.content.content[10].content[0].content
+Было:  Возможные коалиции:
+Стало: Возможные коалиции: 
+
+Путь: scenes.election_simulation.post_election.content.content[11].content[0]
+Было:  Веймарская коалиция (СДПГ + Партия Центра + НДП):
+Стало: Веймарская коалиция (СДПГ + Партия Центра + НДП): 
+
+Путь: scenes.election_simulation.post_election.content.content[12].content[0]
+Было:  Большая коалиция (СДПГ + Партия Центра + БНП + НДП + ННП):
+Стало: Большая коалиция (СДПГ + Партия Центра + БНП + НДП + ННП): 
+
+Путь: scenes.election_simulation.post_election.content.content[13].content[0]
+Было:  Буржуазная коалиция (Партия Центра + БНП + НДП + ННП + Прочие):
+Стало: Буржуазная коалиция (Партия Центра + БНП + НДП + ННП + Прочие): 
+
+Путь: scenes.election_simulation.post_election.content.content[14].content[0]
+Было:  Правая коалиция (Партия Центра + БНП + ННП + Прочие + НННП):
+Стало: Правая коалиция (Партия Центра + БНП + ННП + Прочие + НННП): 
+
+Путь: scenes.library.curr_gov.content.content[6].content[9].content[3]
+Было:  коалиция
+Стало:  Коалиция
+
+Путь: scenes.library.curr_gov.content.content[6].content[10].content[3]
+Было:  коалиция
+Стало:  Коалиция
+
+Путь: scenes.library.curr_gov.content.content[6].content[14].content[2]
+Было:  </span>
+Стало: </span> 
+
+Путь: scenes.library.curr_gov.content.content[6].content[15].content
+Было:  правительство меньшинства
+Стало:  — правительство меньшинства
+
+Путь: scenes.library.curr_gov.content.content[6].content[16].content
+Было:  чрезвычайное правительство
+Стало:  — чрезвычайное правительство
+
+Путь: scenes.status.content.content[3].content[9].content[3]
+Было:  Коалиция
+Стало:  Коалиция
+
+Путь: scenes.status.content.content[3].content[10].content[3]
+Было:  Коалиция
+Стало:  Коалиция
+
+Путь: scenes.status.content.content[3].content[14].content[0]
+Было:  <span style="color: #c00000;">
+Стало: Большинство <span style="color: #c00000;">
+
+Путь: scenes.status.content.content[3].content[14].content[2]
+Было:  </span>-большинство
+Стало: </span> 
+
+Путь: scenes.status.content.content[8].content[4].content[5]
+Было:  Коалиция
+Стало:  Коалиция
+
+Путь: scenes.status.content.content[8].content[16].content[0]
+Было:  <span style="color: #BFC8CC;">
+Стало: Большинство <span style="color: #BFC8CC;">
+
+Путь: scenes.status.content.content[8].content[16].content[2]
+Было:  </span>-большинство
+Стало: </span>
+
+Путь: scenes.center_party_conference.content.content[1].content[4].content
+Было:  <span style="color: #000000;">«Партии Центра»</span>
+Стало: <span style="color: #000000;">Партии Центра</span>
+
+Путь: scenes.local_election_1932.bavaria.content.content[14].content[25]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_1932.bavaria.content.content[15].content[0]
+Было:  «Светофорная» коалиция (<span style="color: #c00000;">
+Стало: Коалиция «Светофор» (<span style="color: #c00000;">
+
+Путь: scenes.local_election_1932.bavaria.content.content[16].content[0].content[8]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_1932.bavaria.content.content[17].content.content[9]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.young_plan_right_coalition.subtitle.content[3]
+Было:  коалиция распалась…
+Стало:  коалиция распалась…
+
+Путь: scenes.panzerkreuzer.muller.content.content[3].content
+Было:  и КПГ
+Стало: КПГ
+
+Путь: scenes.main.content.content[49].content[1].content[0]
+Было:  После многомесячных совещаний в Париже, которые вели 
+Стало: После многомесячных совещаний в Париже, которую вел 
+
+Путь: scenes.main.content.content[70].content[1].content[0]
+Было:  Инициативная группа противников плана Юнга завершила сбор подписей для проведения референдума. Свои подписи поставили
+Стало: Инициативная группа противников плана Юнга завершила сбор подписей для проведения референдума. Свои подписи поставили 
+
+Путь: scenes.main.content.content[71].content[1].content[0]
+Было:  Инициативная группа по пересмотру конституции завершила сбор подписей для проведения референдума. Свои подписи поставили
+Стало: Инициативная группа по пересмотру конституции завершила сбор подписей для проведения референдума. Свои подписи поставили 
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.content.content[1].content[0]
+Было:  С участием <span style="color: #fe9e00;">
+Стало: <span style="color: #fe9e00;">
+
+Путь: scenes.local_election_saxony_1930.grand_coalition_saxony.content.content[1].content[2]
+Было:  </span> (чье саксонское отделение заметно более вменяемо), теперь убежденные в нашем реформистском пути, они вновь присоединились к саксонской <span style="color: #c00000;">
+Стало: </span> (чье саксонское отделение заметно более вменяемо), теперь убежденные в нашем реформистском пути, они присоединились к саксонской <span style="color: #c00000;">
+
+Путь: scenes.prussian_coalition_formation.minority_weimar_coalition.content.content[0].content[0].content[12]
+Было:  ! Эта правящая коалиция существует с 1919 года.
+Стало: ! Эта правящая коалиция с 1919 года.
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.content.content[1].content[0]
+Было:  С <span style="color: #fe9e00;">
+Стало: <span style="color: #fe9e00;">
+
+Путь: scenes.local_election_saxony.grand_coalition_saxony.content.content[1].content[2]
+Было:  </span> (чье саксонское отделение заметно более вменяемо), теперь убежденные в нашем реформистском пути, они вновь присоединились к саксонской <span style="color: #c00000;">
+Стало: </span> (чье саксонское отделение заметно более вменяемо), теперь убежденные в нашем реформистском пути, вновь присоединились к саксонской <span style="color: #c00000;">
+
+Путь: scenes.prussia_election_1928.minority_social_liberal_coalition_prussia.content.content[0].content[1].content[3]
+Было:   коалиционное» правительство, которое пока у власти, несмотря на отсутствие большинства. Недавно введённый конструктивный вотум недоверия позволит нашему правительству сохранить полномочия, пока другая коалиция большинства не согласует единого кандидата в министры-президенты, что маловероятно. 
+Стало:  коалицию, которое пока у власти, несмотря на отсутствие большинства. Недавно введённый конструктивный вотум недоверия позволит нашему правительству сохранить полномочия, пока другая коалиция большинства не согласует единого кандидата в министры-президенты, что маловероятно. 
+
+Путь: scenes.election_1928.post_election_1928.content.content[40].content[0].content
+Было:  Возможные коалиции:
+Стало: Возможные коалиции: 
+
+Путь: scenes.election_1928.post_election_1928.content.content[41].content[0].content[6]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[42].content[0].content[9]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[43].content[0].content[8]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[44].content[0].content[3]
+Было:   коалиция (<span style="color: #c00000;">
+Стало:  Коалиция (<span style="color: #c00000;">
+
+Путь: scenes.election_1928.post_election_1928.content.content[44].content[0].content[8]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[45].content[0].content[4]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[46].content[0].content[9]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[47].content[0].content[9]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[48].content[0].content[11]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[49].content[0].content[11]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[50].content[0].content[10]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[51].content[0].content[6]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[52].content[0].content[11]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[53].content[0].content[8]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[54].content[0].content[0]
+Было:  <span style="color: #7A3C00;">Крайне</span>-<span style="color: #3E88B3;">правая</span> коалиция (
+Стало: <span style="color: #7A3C00;">Ультра</span>-<span style="color: #3E88B3;">правая</span> коалиция (
+
+Путь: scenes.election_1928.post_election_1928.content.content[54].content[0].content[6]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.election_1928.post_election_1928.content.content[55].content[0].content[6]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[14].content[25]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[15].content[0].content[7]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[15].content[1].content[3]
+Было:   коалиция (<span style="color: #c00000;">
+Стало:  Коалиция (<span style="color: #c00000;">
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[15].content[1].content[8]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[16].content[0].content[10]
+Было:  ):
+Стало: ): 
+
+Путь: scenes.local_election_1932.wurttemberg.content.content[17].content[0].content[11]
+Было:  </span>):
+Стало: </span>): 
+
+Путь: scenes.prussian_coalition_formation.far_right_coalition_prussia.title.content[1].content
+Было:  <span style="color: #3E88B3;">правая</span>
+Стало: <span style="color: #3E88B3;">Правая</span>
+
+Путь: scenes.prussian_coalition_formation.far_right_coalition_prussia.title.content[2].content
+Было:  <span style="color: #003755;">правая</span>
+Стало: <span style="color: #003755;">Правая</span>
+
+Путь: scenes.prussian_coalition_formation.far_right_coalition_prussia.title.content[3]
+Было:  Коалиция
+Стало:  Коалиция
+
+Путь: scenes.prussia_election_1928.far_right_coalition_prussia.title.content[1].content
+Было:  <span style="color: #3E88B3;">правая</span>
+Стало: <span style="color: #3E88B3;">Правая</span>
+
+Путь: scenes.prussia_election_1928.far_right_coalition_prussia.title.content[2].content
+Было:  <span style="color: #003755;">правая</span>
+Стало: <span style="color: #003755;">Правая</span>
+
+Путь: scenes.prussia_election_1928.far_right_coalition_prussia.title.content[3]
+Было:  коалиция
+Стало:  Коалиция
+
+Путь: scenes.local_election_1932.social_liberal_coalition_wurttemberg.title.content[2].content
+Было:  и <span style="color: #FFCC00;">либеральная</span>
+Стало: <span style="color: #FFCC00;">либеральная</span>
+
+Путь: scenes.local_election_1932.social_liberal_coalition_wurttemberg.title.content[3]
+Было:  коалиция!
+Стало:  Коалиция!
+
+Путь: scenes.election_1928.far_right_coalition.title.content[1].content
+Было:  <span style="color: #3E88B3;">правая</span>
+Стало: <span style="color: #3E88B3;">Правая</span>
+
+Путь: scenes.election_1928.far_right_coalition.title.content[2].content
+Было:  <span style="color: #003755;">правая</span>
+Стало: <span style="color: #003755;">Правая</span>
+
+Путь: scenes.election_1928.far_right_coalition.title.content[3]
+Было:  коалиция
+Стало:  Коалиция
+
+Путь: scenes.election_1928.left_coalition_impossible.content.content
+Было:  Коалиция ультралевых невозможна.
+Стало: Ультралевая коалиция невозможна.
+
+Путь: scenes.election_1928.left_coalition_success.content.content.content[0]
+Было:  Каким-то удивительным образом левая коалиция успешно сформирована, и без назначения Тельмана канцлером. Единым кандидатом на пост канцлера, одобренным <span style="color: #c00000;">
+Стало: Каким-то удивительным образом левая коалиция успешно сформирована — без назначения Тельмана канцлером. Единым кандидатом на пост канцлера, одобренным <span style="color: #c00000;">
+
+Путь: scenes.election_1928.left_coalition_success.content.content.content[4]
+Было:  </span> и президентом
+Стало: </span> и президентом 
+
+Путь: scenes.election_1928.left_coalition_success.content.content.content[6]
+Было:  , стал Рудольф Брейтшейд, принадлежащий к центристскому крылу <span style="color: #c00000;">
+Стало: ом, стал Рудольф Брейтшейд, принадлежащий к центристскому крылу <span style="color: #c00000;">
+
+Путь: scenes.election_1928.right_coalition_2.content.content[0].content[0].content[4]
+Было:  . Таким образом формируется правоцентристская коалиция большинства с Брюнингом в качестве канцлера. 
+Стало: . Таким образом формируется правоцентристская коалиция большинства с канцлером Брюнингом во главе. 
+
+Путь: scenes.election_1928.no_majority_spd_moderate.content.content.content[9].content[3]
+Было:  коалиция
+Стало:  Коалиция
+
+Путь: scenes.election_1928.social_liberal_coalition.content.content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.election_1928.social_liberal_coalition.content.content[0].content[7].content[1].content
+Было:  государственной
+Стало: Государственной партии
+
+Путь: scenes.election_1928.social_liberal_coalition.content.content[0].content[8].content[1].content
+Было:  либеральной народной
+Стало: Либеральной Народной партии
+
+Путь: scenes.election_1928.social_liberal_coalition.content.content[0].content[12]
+Было:  партии! Коалиция такого типа ещё никогда не испытывалась и возможна лишь в качестве крайней меры после нашей размолвки с
+Стало: ! Коалиция такого типа ещё никогда не испытывалась и возможна лишь в качестве крайней меры после нашей размолвки с
+
+Путь: scenes.election_1928.social_liberal_coalition_cvp.content.content[0].content[6].content[1].content
+Было:  Демократической
+Стало: Демократической партии
+
+Путь: scenes.election_1928.social_liberal_coalition_cvp.content.content[0].content[7].content[1].content
+Было:  государственной
+Стало: Государственной партии
+
+Путь: scenes.election_1928.social_liberal_coalition_cvp.content.content[0].content[8].content[1].content
+Было:  либеральной народной
+Стало: Либеральной Народной партии
+
+Путь: scenes.election_1928.social_liberal_coalition_cvp.content.content[0].content[12]
+Было:   партии! Такая коалиция ещё никогда не испытывалась и возможна лишь потому, что гигантский правый блок <span style="color: #000000;">
+Стало: ! Такая коалиция ещё никогда не испытывалась и возможна лишь потому, что гигантский правый блок <span style="color: #000000;">
+
+Путь: scenes.election_1928.weimar_coalition_2.content.content.content[8].content[1].content
+Было:  Либерально-народной партии
+Стало: Либеральной Народной партии
+
