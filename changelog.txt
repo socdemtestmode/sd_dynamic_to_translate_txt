@@ -27303,3 +27303,600 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  Либерально-народной партии
 Стало: Либеральной Народной партии
 
+
+========================================
+СБОРКА: 2026-03-27 17:35:40
+========================================
+
+--- 🆕 НОВЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[5].content[0].content[3]
+Оригинал: , 
+Перевод:  , 
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.1932.content.content[0].content[0]
+Было:  Начинается новый год.
+Стало: Начинается новый год. 
+
+Путь: scenes.1932.content.content[0].content[1].content
+Было:  В Германии почти нет хороших новостей. Экономическая депрессия всё ещё усугубляется.
+Стало:  В Германии почти нет хороших новостей. Экономическая депрессия всё ещё усугубляется.
+
+Путь: scenes.bruning_public_works.content.content[1].content[3]
+Было:   и представляющий их министр труда Адам Штегервальд и представляющий
+Стало:  и представляющий их министр труда Адам Штегервальд и представляющий 
+
+Путь: scenes.bruning_public_works_real.public_works.title.content[0]
+Было:  Указ подписывает президент
+Стало: Указ подписывает президент 
+
+Путь: scenes.bruning_public_works_real.public_works.content.content[1].content[2]
+Было:  а: «Общественные работы?»
+Стало: а... Общественные работы?
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[2].content[1].content[2]
+Было:  </span> станет Оскар Гергт, 
+Стало: </span> станет Оскар Гергт,
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[5].content[0].content[1].content
+Было:  <span style="color: #000000;">Центра</span>,
+Стало: <span style="color: #000000;">Центра</span>
+
+Путь: scenes.death_of_hindenburg_president.candidates.content.content[5].content[0].content[2].content[2]
+Было:  </span>,
+Стало: </span>
+
+Путь: scenes.hunger_chancellor.maintain_toleration.content.content
+Было:  Наша политика воздержания от вотума недоверия продолжается.
+Стало: Наше воздержание от вотума недоверия продолжается.
+
+Путь: scenes.local_election_france.france.content.content[3].content
+Было:  <tr><td colspan="5" style="text-align: center;"><strong>Картель левых</strong></td></tr>
+Стало: <tr><td colspan="5" style="text-align: center;"><strong>Картель Левых</strong></td></tr>
+
+Путь: scenes.local_election_france.france.content.content[17].content[0]
+Было:  Картель левых (<span style="color: #F0001C;" class="tooltip-text" title="Французская секция Рабочего интернационала">
+Стало: Картель Левых (<span style="color: #F0001C;" class="tooltip-text" title="Французская секция Рабочего интернационала">
+
+Путь: scenes.lvp_party_congress_1929_0.luther.content[0].content[0]
+Было:  Ганс Лютер вновь избран лидером <span style="color: #FFCC00;">
+Стало: Ганс Лютер избран лидером <span style="color: #FFCC00;">
+
+Путь: scenes.prussia_election_1928.new_elections.content.content[0].content[0].content
+Было:  Результаты выборов:
+Стало: Результаты выборов: 
+
+Путь: scenes.bruning_deflation.lautenbach_fail.content[2].content
+Было:  Однако Лютер пошёл на уступки кейнсианцам, втайне расширяя денежную массу и увеличивая доступность кредитов, и даже отказался от правила, согласно которому 40% денег в обращении должны быть обеспечены золотом и иностранной валютой. Более того, щедрое финансирование экспорта в <span style="color: #750e0e;">Советский Союз</span> помогло противодействовать последствиям вывода иностранных кредитов как для денежной массы, так и для рынка труда.
+Стало: Однако Лютер пошёл на уступки кейнсианцам. Он тайно расширяет денежную массу и увеличивает доступность кредитов — и даже отказался от правила, согласно которому 40% денег в обращении должны быть обеспечены золотом и иностранной валютой. Более того, щедрое финансирование экспорта в <span style="color: #750e0e;">Советский Союз</span> помогло противодействовать последствиям вывода иностранных кредитов как для денежной массы, так и для рынка труда.
+
+Путь: scenes.bruning_deflation.content.content[5].content[0]
+Было:  — Рудольф Гильфердинг, <span style="color: #c00000;">
+Стало: — Рудольф Гильфердинг, ведущий экономист <span style="color: #c00000;">
+
+Путь: scenes.bruning_deflation.content.content[5].content[2]
+Было:  </span>, ведущий экономист, в защиту Рейхсбанка, 1931 г.
+Стало: </span>, в защиту Рейхсбанка, 1931 г.
+
+Путь: scenes.lausanne_conference.military_parity_bruning.content.content[0].content[1].content[3]
+Было:  , и президент Гинденбург
+Стало: , и президент Гинденбург 
+
+Путь: scenes.lausanne_conference.content.content[3].content.content
+Было:  Брюнинг, умело использовавший вопросы внешней политики и репараций, значительно укрепил свои позиции. Он долгое время утверждал, что его меры жёсткой экономии и дефляции оправданны, если они приведут к отмене репараций, — и вот теперь этот замысел осуществился. Президент Гинденбург в восторге от такого исхода и вместе со своим ближайшим окружением превозносит дипломатическое мастерство Брюнинга. Тем временем острая необходимость привлечения <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span> в правительство ослабла, так как многие считают, что пик их поддержки уже пройден.
+Стало: Брюнинг, умело использовавший вопросы внешней политики и репараций, значительно укрепил свои позиции. Он долгое время утверждал, что его меры жёсткой экономии и дефляции оправданы, если они приведут к отмене репараций, — и вот теперь этот замысел осуществился. Президент Гинденбург в восторге от такого исхода и вместе со своим ближайшим окружением превозносит дипломатическое мастерство Брюнинга. Тем временем острая необходимость привлечения <span style="color: #7A3C00;">национальной</span> <span style="color: #3E88B3;">оппозиции</span> в правительство ослабла, так как многие считают, что пик их поддержки уже пройден.
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[1].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[2].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[3].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[4].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[7].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[10].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[11].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[13].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[18].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[20].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[21].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[23].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[27].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[28].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[30].content[0].content[0]
+Было:  - <span style="color: #7A3C00;">
+Стало: — <span style="color: #7A3C00;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[32].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[33].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[34].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[36].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_campaign_alt.view_candidates.content.content[37].content.content[0]
+Было:  - <span style="color: #003755;">
+Стало: — <span style="color: #003755;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[1].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[2].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[3].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[4].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[5].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[6].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[7].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[8].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[10].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[11].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[12].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[13].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[14].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[15].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[16].content[0].content[0]
+Было:  - <span style="color: #0087DC;">
+Стало: — <span style="color: #0087DC;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[17].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[18].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[20].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[21].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[22].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[23].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[24].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[25].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[26].content[0].content[0]
+Было:  - <span style="color: #0087DC;">
+Стало: — <span style="color: #0087DC;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[27].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[28].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[30].content[0].content[0]
+Было:  - <span style="color: #7A3C00;">
+Стало: — <span style="color: #7A3C00;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[32].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[33].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[34].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[36].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_campaign.view_candidates.content.content[37].content.content[0]
+Было:  - <span style="color: #003755;">
+Стало: — <span style="color: #003755;">
+
+Путь: scenes.hitler_naturalization.nothing.content[0].content[1].content
+Было:  Земли (Länders)
+Стало: Землях (Länders)
+
+Путь: scenes.hitler_naturalization.nothing.content[1].content
+Было:  В результате Гитлер останется лицом без гражданства, и это повредит его репутации FÃ¼hrer'а немцев.
+Стало: В результате Гитлер останется лицом без гражданства: это повредит его репутации «Фюрера» немцев.
+
+Путь: scenes.cabinet_sacked_bruning.title
+Было:  Брюнинг увольняет наших министров!
+Стало: Брюнинг смещает наших министров!
+
+Путь: scenes.cabinet_sacked_bruning.content.content[0].content
+Было:  Брюнинг увольняет наших министров!
+Стало: Брюнинг смещает наших министров!
+
+Путь: scenes.emergency_cuts.vote_yes.content.content[1].content
+Было:  и коммунистов
+Стало: коммунистов
+
+Путь: scenes.local_election_france.left_cartel_france.title
+Было:  В состав правительства войдёт <span style="color: #FFC0C0;">Левый картель</span>.
+Стало: Правительство сформирует <span style="color: #FFC0C0;">Картель Левых</span>.
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[1].content[0].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[1].content[1].content[7]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[2].content[0].content[7]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[3].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[4].content[0].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[5].content[0].content[3]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[6].content[0].content[0]
+Было:  Снижение доли голосов
+Стало: Снижение доли голосов у 
+
+Путь: scenes.presidential_election_1932_round_2.calculation.content.content[6].content[0].content[2]
+Было:   за него во многом объясняется тщетностью его кампании; по оценкам, значительная часть его бывших избирателей сменила выбор: 
+Стало: а во многом объясняется тщетностью его кампании; по оценкам, значительная часть его бывших избирателей сменила выбор: 
+
+Путь: scenes.sa_ban_pre.sa_ban_bruning_groener.content.content[1].content[2]
+Было:  </span> слиты не кем иным, как генералом Куртом фон Шлейхером, который считает, что этот шаг мешает его «<span class="tooltip-text" title="Термин введён консервативными элитами, такими как Шлейхер и Папен. Стратегия направлена на то, чтобы взять под контроль динамичное нацистское движение и интегрировать его в государство, введя партию в состав правительства. По их мнению, это бы умерило пыл нацистов, превратив их в конструктивную составляющую государства.">стратегии «приручения»</span>». 
+Стало: </span> слиты не кем иным, как генералом Куртом фон Шлейхером, который считает, что этот шаг мешает его <span class="tooltip-text" title="Термин введён консервативными элитами, такими как Шлейхер и Папен. Стратегия направлена на то, чтобы взять под контроль динамичное нацистское движение и интегрировать его в государство, введя партию в состав правительства. По их мнению, это бы умерило пыл нацистов, превратив их в конструктивную составляющую государства.">стратегии «приручения»</span>. 
+
+Путь: scenes.banking_crisis.options[2].title.content[2]
+Было:  а, как всегда, больше жесткой экономии.
+Стало: а, как всегда, больше строгой экономии.
+
+Путь: scenes.sa_ban_pre.sa_ban_bruning_wirth.content.content[1].content[2]
+Было:  </span> слиты не кем иным, как генералом Куртом фон Шлейхером, который считает, что этот шаг мешает его «<span class="tooltip-text" title="Стратегия, придуманная консервативными элитами вроде Шлейхера и Папена, нацелена на то, чтобы взять под контроль динамичное нацистское движение и интегрировать его в государственную систему путём введения партии в правительство. По их мнению, это смягчило бы позицию нацистов и превратило бы их в конструктивную часть государства.">стратегии «приручения»</span>». 
+Стало: </span> слиты не кем иным, как генералом Куртом фон Шлейхером, который считает, что этот шаг мешает его <span class="tooltip-text" title="Стратегия, придуманная консервативными элитами вроде Шлейхера и Папена, нацелена на то, чтобы взять под контроль динамичное нацистское движение и интегрировать его в государственную систему путём введения партии в правительство. По их мнению, это смягчило бы позицию нацистов и превратило бы их в конструктивную часть государства.">стратегии «приручения»</span>. 
+
+Путь: scenes.dealing_with_toleration_cvp.title
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.dealing_with_toleration_cvp.content.content[0].content
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.dealing_with_toleration_right.urge_paramilitary.unavailableSubtitle.content[8].content
+Было:  В <span style="color: #3E88B3;">НННП</span> не позволят Брюнингу ограничивать деятельность своей собственной военизированной организации.
+Стало: В <span style="color: #3E88B3;">НННП</span> не позволят Брюнингу ограничивать деятельность собственной военизированной организации.
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[1].content[0].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[2].content[0].content[3]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[3].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[4].content[0].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[4].content[1].content[7]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[5].content[0].content[7]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[6].content[2]
+Было:  -
+Стало:  — 
+
+Путь: scenes.presidential_election_1932_round_1.calculation.content.content[7].content[2]
+Было:  </span> -
+Стало: </span> — 
+
+Путь: scenes.presidential_election_1932_round_2.rosenfeld_wins.content.content[0].content[0]
+Было:  Курт Розенфельд из
+Стало: Курт Розенфельд из 
+
+Путь: scenes.dealing_with_toleration.title
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.dealing_with_toleration.content.content[0].content
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.dealing_with_toleration_right.title
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.dealing_with_toleration_right.content.content[0].content
+Было:  Политика воздержания от вотума недоверия
+Стало: Воздержание от вотума недоверия
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[1].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[2].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[3].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[4].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[5].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[6].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[7].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[8].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[10].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[11].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[12].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[13].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[14].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[15].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[16].content[0].content[0]
+Было:  - <span style="color: #0087DC;">
+Стало: — <span style="color: #0087DC;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[17].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[18].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[20].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[21].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[22].content[0].content[0]
+Было:  - <span style="color: #A2D8E0;">
+Стало: — <span style="color: #A2D8E0;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[23].content[0].content[0]
+Было:  - <span style="color: #FFCC00;">
+Стало: — <span style="color: #FFCC00;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[24].content[0].content[0]
+Было:  - <span style="color: #D3C24D;">
+Стало: — <span style="color: #D3C24D;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[25].content[0].content[0]
+Было:  - <span style="color: #C0A054;">
+Стало: — <span style="color: #C0A054;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[26].content[0].content[0]
+Было:  - <span style="color: #0087DC;">
+Стало: — <span style="color: #0087DC;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[27].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[28].content[0].content[0]
+Было:  -
+Стало: — 
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[30].content[0].content[0]
+Было:  - <span style="color: #7A3C00;">
+Стало: — <span style="color: #7A3C00;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[32].content[0].content[0]
+Было:  - <span style="color: #700000;">
+Стало: — <span style="color: #700000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[33].content[0].content[0]
+Было:  - <span style="color: #9B0000;">
+Стало: — <span style="color: #9B0000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[34].content[0].content[0]
+Было:  - <span style="color: #c00000;">
+Стало: — <span style="color: #c00000;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[36].content[0].content[0]
+Было:  - <span style="color: #3E88B3;">
+Стало: — <span style="color: #3E88B3;">
+
+Путь: scenes.presidential_election_1932_candidate.view_candidates.content.content[37].content.content[0]
+Было:  - <span style="color: #003755;">
+Стало: — <span style="color: #003755;">
+
+Путь: scenes.inter_party_relationships.nsdap_wholesome_2.title[1].content
+Было:  Железный
+Стало: Железный 
+
+Путь: scenes.game_over.achievements.content.content[120].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - к концу игры Брайтшайд становится канцлером, <span style="color: #FFC0C0;">Левый картель</span> побеждает во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанция профинансирована. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - к концу игры Брайтшайд становится канцлером, <span style="color: #FFC0C0;">Картель Левых</span> побеждает во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанция профинансирована. </div> 
+
+Путь: scenes.game_over.achievements.content.content[175].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Vive le Cartel</div> <div class="achievement_subtitle"> - <span style="color: #FFC0C0;">Левый картель</span> побеждает на парламентских выборах во Франции. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Vive le Cartel</div> <div class="achievement_subtitle"> - <span style="color: #FFC0C0;">Картель Левых</span> побеждает на парламентских выборах во Франции. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[243].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - к концу игры Брайтшайд становится канцлером, <span style="color: #FFC0C0;">Левый картель</span> побеждает во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанция профинансирована. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - к концу игры Брайтшайд становится канцлером, <span style="color: #FFC0C0;">Картель Левых</span> побеждает во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанция профинансирована. </div> 
+
+Путь: scenes.game_over.achievements.content.content[366].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - В конце игры Брайтшайд канцлер, <span style="color: #FFC0C0;">Левый картель</span> победил во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанции профинансированы. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Because I'm Mr. Breit-scheid</div> <div class="achievement_subtitle"> - В конце игры Брайтшайд канцлер, <span style="color: #FFC0C0;">Картель Левых</span> победил во Франции, вопрос репараций решен, Австрия остается демократической, а радиостанции профинансированы. </div> 
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[0].content[0]
+Было:  Имперский аграрный союз (RLB) -
+Стало: Имперский аграрный союз (RLB) — 
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[1].content[0]
+Было:  Стальной Шлем -
+Стало: Стальной Шлем — 
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[2].content[0]
+Было:  Немецко-национальный союз торговых служащих (DHV) - <span style="color: #808080;">
+Стало: Немецко-национальный союз торговых служащих (DHV) — <span style="color: #808080;">
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[3].content[0]
+Было:  Пангерманский союз (ADV) - <span style="color: #7A3C00;">
+Стало: Пангерманский союз (ADV) — <span style="color: #7A3C00;">
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[4].content[0]
+Было:  Объединённые патриотические союзы (VVVD) - <span style="color: #7A3C00;">
+Стало: Объединённые патриотические союзы (VVVD) — <span style="color: #7A3C00;">
+
+Путь: scenes.presidential_election_1932_campaign.organizational_endorsements_op.content.content[5].content[0]
+Было:  Союз «Кифхойзер» - <span style="color: #808080;">
+Стало: Союз «Кифхойзер» — <span style="color: #808080;">
+
