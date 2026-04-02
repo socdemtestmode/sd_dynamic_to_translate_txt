@@ -28317,3 +28317,158 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  Альтернативная концовка Б: Авангард пролетариата у руля
 Стало: Подконцовка Б: Авангард пролетариата у руля
 
+
+========================================
+СБОРКА: 2026-04-02 15:34:42
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.reichsbanner.militant.content.content[1].content.content[2].content[3]
+Было:  и
+Стало:  и 
+
+Путь: scenes.baade.rural_campaign.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.breitscheid.breitscheid_foreign.unavailableSubtitle.content[3].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.hilferding.toleration.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.hirschfeld.womens_rights_.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.juchacz.welfare.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.leber.military_affairs.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.aufhauser.union_unity.unavailableSubtitle.content.content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.pfulf.campaigning_peoples_party.unavailableSubtitle.content.content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.radbruch.constitutional_reform_.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.rosenfeld.prussian_bulwark.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.sender.against_toleration.unavailableSubtitle.content[0].content[2]
+Было:  мес. до следующего действия советника.
+Стало:  мес. до следующего действия советника.
+
+Путь: scenes.schleicher_cabinet_22_alt.reichstag_impeach_3.content.content[2].content[0]
+Было:  Референдум назначен на
+Стало: Референдум назначен на 
+
+Путь: scenes.schleicher_cabinet_22_alt2.reichstag_impeach_3.content.content[2].content[0]
+Было:  Референдум назначен на
+Стало: Референдум назначен на 
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[0]
+Было:  Раскол <span style="color: #c00000;">
+Стало: Положение левых после войны шло скверно. Делать надо было много, а что и как — вызывали разногласия, драки вплоть до смертных обид. Флагман левой политики в Германии разбирали на металлолом его же матросы. Сначала от<span style="color: #c00000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[2]
+Было:  </span> и создание раскольниками <span style="color: #f0456a;">
+Стало: </span> раскололись на правую <span style="color: #f0456a;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[4]
+Было:  </span> и <span style="color: #9B0000;">
+Стало: </span> и левую <span style="color: #9B0000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[6]
+Было:  </span> на волне послевоенного оптимизма глубоко разделил левые силы Германии. Как и в 1920 году, разобщённость левых сил вновь привела к ситуации, когда «Новая <span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">р</span>ская коалиция» — состоящая из <span style="color: #f0456a;">
+Стало: </span>. Потом ряд ещё более мелких партий. После начали раскалываться уже отколовшиеся. В итоге «Новая <span style="color: #000000;">Вей</span><span style="color: #DD0000;">ма</span><span style="color: #FFCC00;">р</span>ская коалиция» — состоящая из <span style="color: #f0456a;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[7].content
+Было:  СВД
+Стало: СДПГ(н)
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[9].content
+Было:  ХСРП
+Стало: ХДС
+
+Путь: scenes.ending_slides.civil_war_win_a.content[0].content[10]
+Было:  </span> — не смогла получить большинство. Это привело к череде досрочных выборов, что в конечном счёте вызвало новый всплеск экстремизма.
+Стало: </span> — не смогла получить большинство. На полтора года политический кризис стал формой правления в Германии.
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[0]
+Было:  Лишь благодаря созданию <span style="color: #BFC8CC;">Фронта Национального Единства Германии</span> — широкого альянса всех буржуазных партий — и избранию Отто Гесслера на пост президента Германия наконец смогла выйти из политического тупика. Сложившаяся коалиция <span style="color: #000000;">
+Стало: И только создание <span style="color: #BFC8CC;">Фронта Национального Единства Германии</span> — широкого альянса всех буржуазных партий, и избрание <span style="color: #FFCC00;">Отто Гесслера</span> на пост президента сдвинули дело с мёртвой точки. Сложившаяся коалиция <span style="color: #000000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[1].content
+Было:  ЦКА
+Стало: ХДС
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[6]
+Было:  </span> стала новым «естественным правящим блоком», поскольку постоянные идеологические разногласия продолжали парализовать левых. <span style="color: #f0456a;">
+Стало: </span> стала новым «естественным правящим блоком». К концу срока <span style="color: #f0456a;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[7].content
+Было:  СВД
+Стало: СДПГ(н)
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[8]
+Было:  </span>, всё более маргинализированная, во имя стабильности временами вынуждена воздерживаться от вотума недоверия этим центристским кабинетам, — отказываясь при этом от своих <span style="color: #9B0000;">марксистских</span> корней и уступая лидерство на левом фланге более радикальной <span style="color: #9B0000;">
+Стало: </span>  настолько деградировала во внутрилевацкой борьбе, что отказалась от<span style="color: #9B0000;">марксистских</span>. Другой осколок — <span style="color: #9B0000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[1].content[10]
+Было:  </span>.
+Стало: </span> замкнулась в себе и маргинализировалась. В итоге левая часть политического поля превратилась в болотов, а от разнузданности и безнаказанности правые партии стали походить на карикатуры самих себя из левых газет.
+
+Путь: scenes.ending_slides.civil_war_win_a.content[2].content[0]
+Было:  Лишь с третьей волной демократизации в 1990-х годах давно расколотые немецкие левые начали воссоединяться. Постепенное смягчение позиций и итоговое слияние <span style="color: #9B0000;">
+Стало: В какой-то момент германский народ настолько устал от них всех, что единственный политик, обещавшим сломать<span style="color: #000000;">Вей</span><span style="color: #DD0000;">мар</span><span style="color: #FFCC00;">скую</span> систему — Пауль фон Леттов-Форбек, стал быстро набирать популярность. Однако за день выборов фон Леттов-Форбек умер. И даже в таком состоянии, он выиграл выборы, чем спровоцировал очередной кризис. В итоге власть взяла его партия и с опорой на широкую народную поддержку низвергла ненавистную систему. Они воздвигли культ личности фон Леттова-Ворбека, оседлали его и желали доехать на нём до конца истории. Местным элитам отдали фактическую власть над регионами взамен на лояльность партийной элите. После нескольких десятилетий такого правления Германия оказалась в таком состоянии, что даже Бисмарк бы её не собрал. Однако объединение <span style="color: #9B0000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[2].content[3].content
+Было:  СВД
+Стало: СДПГ(н)
+
+Путь: scenes.ending_slides.civil_war_win_a.content[2].content[4]
+Было:  </span> завершилась формированием <span style="color: #c00000;">
+Стало: </span>, воссоздавших <span style="color: #c00000;">
+
+Путь: scenes.ending_slides.civil_war_win_a.content[2].content[5].content
+Было:  ОСПГ
+Стало: СДПГ
+
+Путь: scenes.ending_slides.civil_war_win_a.content[2].content[6]
+Было:  </span> в единую партию , которая наконец вернулась в правительство после десятилетий в оппозиции.
+Стало: </span>, которая возглавила коалицию левых партий. И триумфально победила на выборах в 1990-ых, уничтожив культ фон Леттова-Ворбека, сломив партийное правление НННП, проведя самые прогрессивные реформы в Западной Европе и восстановив демократическое правление. Так, дважды находясь на грани смерти, Германия вошла в новый Золотой Век.
+
+Путь: scenes.election_1928.schleicher_right_coalition.unavailableSubtitle.content[12].content
+Было:  - Шлейхер не заинтересован в том, чтобы возглавлять коалицию, опирающуюся на парламент, а не на декреты.
+Стало: - Шлейхер не заинтересован в коалиции, опирающейся на парламент, а не на президентские указы.
+
+Путь: scenes.death_of_hindenburg_president.convince_kpd_spd.content.content.content[6].content
+Было:  Похоже, их не убедить.
+Стало:  Похоже, их не убедить.
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.unavailableSubtitle.content[15].content
+Было:  - Президент Гинденбург не допустит возвращения к <span style="color: #c00000;">социалистическому</span> правлению. 
+Стало: - Президент Гинденбург не допустит возвращения <span style="color: #c00000;">социалистов</span> к власти. 
+
+Путь: scenes.election_1928.weimar_coalition_liberal_parliament.unavailableSubtitle.content[16].content[2]
+Было:   ярый противник <span style="color: #c00000;">социалистического</span> правления.
+Стало:  ярый противник <span style="color: #c00000;">социалистов</span> у власти.
+
+Путь: scenes.election_1928.weimar_coalition.unavailableSubtitle.content[15].content
+Было:  - Президент Гинденбург не допустит возвращения к <span style="color: #c00000;">социалистическому</span> правлению. 
+Стало: - Президент Гинденбург не допустит возвращения <span style="color: #c00000;">социалистов</span> к власти. 
+
