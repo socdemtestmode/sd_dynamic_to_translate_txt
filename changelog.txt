@@ -28472,3 +28472,58 @@ u/originalperson0 — автор мода Динамик (Dynamic)!
 Было:  - Президент Гинденбург не допустит возвращения к <span style="color: #c00000;">социалистическому</span> правлению. 
 Стало: - Президент Гинденбург не допустит возвращения <span style="color: #c00000;">социалистов</span> к власти. 
 
+
+========================================
+СБОРКА: 2026-04-06 14:47:05
+========================================
+
+--- 🔄 ОБНОВЛЕННЫЕ ПЕРЕВОДЫ ---
+
+Путь: scenes.game_over.achievements.content.content[22].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Экономическое чудо</div> <div class="achievement_subtitle">- После 1932 года добейтесь, чтобы безработица была ниже, чем в 1928 году, инфляция — ниже 5%, а бюджет — профицитным.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wirtschaftswunder</div> <div class="achievement_subtitle">- После 1932 года добейтесь, чтобы безработица была ниже, чем в 1928 году, инфляция — ниже 5%, а бюджет — профицитным.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[51].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">ГИТЛЕР МЁРТВ</div> <div class="achievement_subtitle"> — добейтесь, чтобы <span style="color: #7A3C00;">Адольф Гитлер</span> покончил с собой на 12 лет раньше. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">HITLER TOT</div> <div class="achievement_subtitle"> — добейтесь, чтобы <span style="color: #7A3C00;">Адольф Гитлер</span> покончил с собой на 12 лет раньше. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[101].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, ThÃ¤lmann</div> <div class="achievement_subtitle"> - доведите <span style="color: #7A3C00;">Гитлера</span> до самоубийства, отправьте <span style="color: #700000;">Тельмана</span> в тюрьму руками Шлейхера и победите <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, Thälmann</div> <div class="achievement_subtitle"> - доведите <span style="color: #7A3C00;">Гитлера</span> до самоубийства, отправьте <span style="color: #700000;">Тельмана</span> в тюрьму руками Шлейхера и победите <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+
+Путь: scenes.game_over.achievements.content.content[138].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Правительство меньшинства</div> <div class="achievement_subtitle"> — сформировать правительство меньшинства <span style="color: #c00000; font-weight: bold;">СДПГ</span>.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Minderheitsregierung</div> <div class="achievement_subtitle"> — сформировать правительство меньшинства <span style="color: #c00000; font-weight: bold;">СДПГ</span>.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[145].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Экономическое чудо</div> <div class="achievement_subtitle"> - После 1932 года уровень безработицы ниже уровня 1928 года, инфляция — менее 5%, а бюджет — профицитный.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Wirtschaftswunder</div> <div class="achievement_subtitle"> - После 1932 года уровень безработицы ниже уровня 1928 года, инфляция — менее 5%, а бюджет — профицитный.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[148].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Равенство</div> <div class="achievement_subtitle"> — проведите реформы в пользу прав женщин.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gleichheit</div> <div class="achievement_subtitle"> — проведите реформы в пользу прав женщин.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[152].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">BrÃ¼der, zur Sonne, zur Freiheit</div> <div class="achievement_subtitle"> — снизить безработицу, приостановить репарации, расширить права женщин, избрать президента от <span style="color: #c00000; font-weight: bold;">СДПГ</span> и депортировать <span style="color: #7A3C00;">Гитлера</span> за одно прохождение.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Brüder, zur Sonne, zur Freiheit</div> <div class="achievement_subtitle"> — снизить безработицу, приостановить репарации, расширить права женщин, избрать президента от <span style="color: #c00000; font-weight: bold;">СДПГ</span> и депортировать <span style="color: #7A3C00;">Гитлера</span> за одно прохождение.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[250].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">BÃ¼rgerkrieg</div> <div class="achievement_subtitle"> - вступите в затяжную гражданскую войну.</div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Bürgerkrieg</div> <div class="achievement_subtitle"> - вступите в затяжную гражданскую войну.</div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[295].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Штольперштайн</div> <div class="achievement_subtitle"> - мы проиграли, но, быть может, история нас запомнит… </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Stolperstein</div> <div class="achievement_subtitle"> - мы проиграли, но, быть может, история нас запомнит… </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[296].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Буря и натиск</div> <div class="achievement_subtitle"> — перейдите Рубикон. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Sturm und Drang</div> <div class="achievement_subtitle"> — перейдите Рубикон. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[297].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">ГИТЛЕР ТОТ</div> <div class="achievement_subtitle"> — добейтесь того, чтобы <span style="color: #7A3C00;">Адольф Гитлер</span> покончил с собой на 12 лет раньше. </div> </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">HITLER TOT</div> <div class="achievement_subtitle"> — добейтесь того, чтобы <span style="color: #7A3C00;">Адольф Гитлер</span> покончил с собой на 12 лет раньше. </div> </div> 
+
+Путь: scenes.game_over.achievements.content.content[347].content[0].content[8]
+Было:           <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, ThÃ¤lmann</div> <div class="achievement_subtitle"> - довести <span style="color: #7A3C00;">Гитлера</span> до самоубийства, добиться, чтобы Шлейхер посадил <span style="color: #700000;">Тельмана</span> в тюрьму, и разгромить <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+Стало:          <div style="padding-left: 0.5em;"> <div style="font-weight: bold;">Gegen Papen, Hitler, Thälmann</div> <div class="achievement_subtitle"> - довести <span style="color: #7A3C00;">Гитлера</span> до самоубийства, добиться, чтобы Шлейхер посадил <span style="color: #700000;">Тельмана</span> в тюрьму, и разгромить <span style="color: #808080;">Папена</span> в гражданской войне. </div> 
+
